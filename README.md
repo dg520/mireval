@@ -1,8 +1,6 @@
 miREval 2.0 Command-line Version (Beta)
 
-#######################################
-#DEPENDENCIES
-#######################################
+#DEPENDENCIES#
 Befor install miREval you should have the following:
 1. Perl5
    Please make sure the perl interpreter is at /usr/bin/perl
@@ -15,9 +13,7 @@ Befor install miREval you should have the following:
 6. BioPerl
 
 
-#######################################
-#INSTALLATION
-#######################################
+#INSTALLATION#
 1. Extract mireval.tar.gz:
    > tar -zxvf mireval.tar.gz
 
@@ -55,9 +51,7 @@ Befor install miREval you should have the following:
    ...
 
 
-#######################################
-#TEST
-#######################################
+#TEST#
 Run the following command to test whether miREval is installed successfully.
 
 > cd /YOUR_PATH_OF_MIREVAL
