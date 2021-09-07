@@ -42,7 +42,7 @@ Befor install miREval you should have the following:
    > make
    > make test
    > make install
-```   
+```    
    b) "fimo" should be executable from:
 ```   
    > /YOUR_PATH_OF_MIREVAL/bin/meme/bin/fimo
@@ -51,7 +51,7 @@ Befor install miREval you should have the following:
    a) check modules by running:
 ```
    > /YOUR_PATH_OF_MIREVAL/bin/circos-0.64/bin/test.modules
-```   
+```    
    b) install the modules you do not have through CPAN:
 ```   
    > perl -MCPAN -e shell
