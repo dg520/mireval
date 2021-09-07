@@ -43,6 +43,7 @@ Befor install miREval you should have the following:
    > make test
    > make install
 ```    
+    
    b) "fimo" should be executable from:
 ```   
    > /YOUR_PATH_OF_MIREVAL/bin/meme/bin/fimo
