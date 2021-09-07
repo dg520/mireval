@@ -1,4 +1,4 @@
-miREval 2.0 Command-line Version (Beta)
+*miREval 2.0 Command-line Version (Beta)*
 
 **DEPENDENCIES**    
 Befor install miREval you should have the following:
@@ -32,8 +32,8 @@ Befor install miREval you should have the following:
    Check whether the above command compiles the system and creates the two executables: "svm_learn" and "svm_classify". The following command should be executable:
    > /YOUR_PATH_OF_MIREVAL/bin/svm_light/svm_classify
 ```
-4. Download and install MEME:
-   a)
+4. Download and install MEME:    
+   a) MEME installation:
 ``` 
    > wget http://ebi.edu.au/ftp/software/MEME/4.9.1/meme_4.9.1_1.tar.gz
    > tar -zxvf meme_4.9.1_1.tar.gz
@@ -47,8 +47,7 @@ Befor install miREval you should have the following:
 ```   
    > /YOUR_PATH_OF_MIREVAL/bin/meme/bin/fimo
 ```
-
-5. check and install perl module needed by Circos-0.64 (NOTE: do not need to install Circos-0.64, it's already with miREval. Just check if you have all the perl module it needs):
+5. Check and install perl module needed by Circos-0.64 (NOTE: do not need to install Circos-0.64, it's already with miREval. Just check if you have all the perl module it needs):    
    a) check modules by running:
 ```
    > /YOUR_PATH_OF_MIREVAL/bin/circos-0.64/bin/test.modules
