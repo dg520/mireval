@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ412043.1 1 29749
+##description Bat SARS coronavirus Rm1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=347536
+DQ412043.1	Rfam	regulatory_region	13413	13494	72.90	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=DQ412043.1/13413-13494
+DQ412043.1	Rfam	regulatory_region	29590	29632	62.05	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=DQ412043.1/29590-29632

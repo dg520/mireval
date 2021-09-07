@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U38304.1 1 11717
+##description Sindbis-like virus isolate Girdwood S.A., complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=44419
+U38304.1	Rfam	regulatory_region	1	280	257.54	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=U38304.1/1-280
+U38304.1	Rfam	regulatory_region	10053	10079	44.08	+	.	ID=RF01836.1;Name=RF01836;Alias=weev_FSE;Note=U38304.1/10053-10079

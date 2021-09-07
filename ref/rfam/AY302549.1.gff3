@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302549.1 1 7426
+##description Human echovirus 25 strain JV-4 complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=45101
+AY302549.1	Rfam	regulatory_region	1	90	104.20	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302549.1/1-90
+AY302549.1	Rfam	regulatory_region	392	643	284.59	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302549.1/392-643
+AY302549.1	Rfam	regulatory_region	4389	4449	77.94	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302549.1/4389-4449
+AY302549.1	Rfam	regulatory_region	7306	7426	133.99	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302549.1/7306-7426

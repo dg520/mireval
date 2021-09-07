@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ361772.1 1 3197
+##description Hepatitis B virus 146/Thailand, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=621277
+FJ361772.1	Rfam	regulatory_region	1829	1889	87.40	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=FJ361772.1/1829-1889

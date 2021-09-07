@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region J04374.1 1 6331
+##description Eggplant mosaic virus genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12151
+J04374.1	Rfam	regulatory_region	6247	6330	76.34	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=J04374.1/6247-6330

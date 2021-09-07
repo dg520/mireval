@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ006500.1 1 2868
+##description Pea early browning virus (E116 isolate) RNA2 genome encoding coat protein and 29 kDa protein
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12294
+AJ006500.1	Rfam	regulatory_region	2829	2868	57.25	+	.	ID=RF01101.1;Name=RF01101;Alias=TLS-PK6;Note=AJ006500.1/2829-2868

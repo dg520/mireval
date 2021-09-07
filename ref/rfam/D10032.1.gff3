@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D10032.1 1 8507
+##description Baboon endogenous virus strain M7 proviral DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11764
+D10032.1	Rfam	regulatory_region	2596	2657	68.37	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=D10032.1/2596-2657

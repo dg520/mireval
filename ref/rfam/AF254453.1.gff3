@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF254453.1 1 10970
+##description Japanese encephalitis virus strain T1P1 complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11072
+AF254453.1	Rfam	regulatory_region	96	143	55.37	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=AF254453.1/96-143
+AF254453.1	Rfam	regulatory_region	3566	3627	86.82	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=AF254453.1/3566-3627
+AF254453.1	Rfam	regulatory_region	10454	10512	85.67	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=AF254453.1/10454-10512
+AF254453.1	Rfam	regulatory_region	10614	10684	75.26	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=AF254453.1/10614-10684
+AF254453.1	Rfam	regulatory_region	10706	10780	73.50	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=AF254453.1/10706-10780
+AF254453.1	Rfam	regulatory_region	10787	10858	81.60	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=AF254453.1/10787-10858
+AF254453.1	Rfam	regulatory_region	10878	10970	59.87	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=AF254453.1/10878-10970

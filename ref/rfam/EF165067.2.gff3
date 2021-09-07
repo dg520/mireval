@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF165067.2 1 8115
+##description Saffold virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=434309
+EF165067.2	Rfam	regulatory_region	586	1039	107.79	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=EF165067.2/586-1039

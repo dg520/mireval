@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ394807.1 1 35594
+##description Lactococcus phage ul36.k1t1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=374526
+DQ394807.1	Rfam	ncRNA	207	267	32.88	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=DQ394807.1/207-267

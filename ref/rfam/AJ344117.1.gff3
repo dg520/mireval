@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ344117.1 1 3182
+##description Hepatitis B virus complete genome, genotype D
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10407
+AJ344117.1	Rfam	regulatory_region	1847	1907	85.21	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=AJ344117.1/1847-1907

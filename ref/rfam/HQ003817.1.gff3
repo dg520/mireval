@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ003817.1 1 35818
+##description Human adenovirus 57 strain 16700, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879186
+HQ003817.1	Rfam	ncRNA	10629	10785	89.56	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=HQ003817.1/10629-10785
+HQ003817.1	Rfam	ncRNA	10884	11041	93.90	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=HQ003817.1/10884-11041

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ011234.1 1 4764
+##description Lisianthus necrosis virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=334425
+DQ011234.1	Rfam	regulatory_region	2	167	124.27	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=DQ011234.1/2-167
+DQ011234.1	Rfam	regulatory_region	1358	1451	105.50	+	.	ID=RF00510.1;Name=RF00510;Alias=Tombus_IRE;Note=DQ011234.1/1358-1451
+DQ011234.1	Rfam	regulatory_region	4673	4764	104.31	+	.	ID=RF00176.1;Name=RF00176;Alias=Tombus_3_IV;Note=DQ011234.1/4673-4764

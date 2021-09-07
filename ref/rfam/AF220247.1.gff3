@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF220247.1 1 12294
+##description Bovine viral diarrhea virus-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11099
+AF220247.1	Rfam	regulatory_region	114	390	281.70	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=AF220247.1/114-390

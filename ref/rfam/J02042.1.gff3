@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region J02042.1 1 2111
+##description Brome mosaic virus 3a and coat protein genes, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12302
+J02042.1	Rfam	regulatory_region	1829	1854	43.05	+	.	ID=RF01108.1;Name=RF01108;Alias=BMV3_UPD-PK1;Note=J02042.1/1829-1854
+J02042.1	Rfam	regulatory_region	1894	1916	34.68	+	.	ID=RF01113.1;Name=RF01113;Alias=BMV3_UPD-PK3;Note=J02042.1/1894-1916
+J02042.1	Rfam	regulatory_region	1979	2107	120.99	+	.	ID=RF01084.1;Name=RF01084;Alias=TLS-PK3;Note=J02042.1/1979-2107

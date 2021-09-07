@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ315364.2 1 34188
+##description Human adenovirus 41 isolate Tak, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10524
+DQ315364.2	Rfam	ncRNA	10061	10232	82.47	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=DQ315364.2/10061-10232

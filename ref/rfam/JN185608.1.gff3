@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN185608.1 1 59749
+##description Mycobacterium phage JAWS, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1051143
+JN185608.1	Rfam	ncRNA	1003	1075	61.15	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN185608.1/1003-1075

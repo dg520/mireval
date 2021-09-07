@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ113105.1 1 346754
+##description Lausannevirus isolate 7715, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=999883
+HQ113105.1	Rfam	autocatalytically_spliced_intron	13546	13881	66.03	-	.	ID=RF00028.1;Name=RF00028;Alias=Intron_gpI;Note=HQ113105.1/13881-13546

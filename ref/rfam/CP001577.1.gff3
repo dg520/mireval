@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001577.1 1 1084119
+##description Micromonas sp. RCC299 chromosome 12, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296587
+CP001577.1	Rfam	regulatory_region	479244	479357	49.71	+	.	ID=RF00485.1;Name=RF00485;Alias=K_chan_RES;Note=CP001577.1/479244-479357
+CP001577.1	Rfam	ncRNA	527232	527305	59.97	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001577.1/527305-527232
+CP001577.1	Rfam	ncRNA	883747	883818	57.87	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=CP001577.1/883747-883818
+CP001577.1	Rfam	ncRNA	887757	887828	62.29	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=CP001577.1/887757-887828
+CP001577.1	Rfam	ncRNA	979477	979549	55.94	-	.	ID=RF00005.4;Name=RF00005;Alias=tRNA;Note=CP001577.1/979549-979477

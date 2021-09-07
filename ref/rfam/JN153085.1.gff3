@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN153085.1 1 51421
+##description Mycobacterium phage Doom, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1051138
+JN153085.1	Rfam	ncRNA	2409	2482	64.79	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN153085.1/2409-2482

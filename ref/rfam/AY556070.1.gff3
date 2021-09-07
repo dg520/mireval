@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY556070.1 1 7429
+##description Enterovirus 75 strain USA/OK85-10362, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=282345
+AY556070.1	Rfam	regulatory_region	2	93	95.04	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY556070.1/2-93
+AY556070.1	Rfam	regulatory_region	399	649	284.05	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY556070.1/399-649
+AY556070.1	Rfam	regulatory_region	4392	4452	76.65	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY556070.1/4392-4452
+AY556070.1	Rfam	regulatory_region	7309	7429	119.96	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY556070.1/7309-7429

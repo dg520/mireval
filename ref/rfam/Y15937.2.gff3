@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Y15937.2 1 6440
+##description Sheep astrovirus, complete genome, genomic RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=70794
+Y15937.2	Rfam	regulatory_region	6358	6400	63.66	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=Y15937.2/6358-6400

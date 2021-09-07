@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN083853.1 1 51241
+##description Mycobacterium phage Airmid, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1041808
+JN083853.1	Rfam	ncRNA	4135	4207	61.01	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN083853.1/4135-4207

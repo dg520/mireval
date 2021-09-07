@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ445140.1 1 7136
+##description Human rhinovirus 56 strain ATCC VR-1166, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=185916
+FJ445140.1	Rfam	regulatory_region	1	89	73.99	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=FJ445140.1/1-89
+FJ445140.1	Rfam	regulatory_region	397	616	151.45	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=FJ445140.1/397-616

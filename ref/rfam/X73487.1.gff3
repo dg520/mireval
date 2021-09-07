@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X73487.1 1 34125
+##description Adenovirus type 12 DNA, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28282
+X73487.1	Rfam	ncRNA	10260	10407	101.65	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=X73487.1/10260-10407

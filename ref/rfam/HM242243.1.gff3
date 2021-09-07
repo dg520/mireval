@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM242243.1 1 127065
+##description Brochothrix phage A9, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=857312
+HM242243.1	Rfam	ncRNA	25602	25675	66.66	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM242243.1/25675-25602
+HM242243.1	Rfam	ncRNA	26745	26817	48.74	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HM242243.1/26817-26745
+HM242243.1	Rfam	ncRNA	26848	26920	66.56	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=HM242243.1/26920-26848

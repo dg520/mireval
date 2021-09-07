@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ478083.1 1 38721
+##description Enterococcus phage phiFL1C, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=673834
+GQ478083.1	Rfam	ncRNA	14575	14647	66.29	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GQ478083.1/14575-14647
+GQ478083.1	Rfam	ncRNA	37804	37877	64.47	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=GQ478083.1/37804-37877

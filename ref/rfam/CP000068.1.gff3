@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000068.1 1 1608198
+##description Trypanosoma brucei brucei strain 927/4 GUTat10.1 chromosome 5, complete sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=999953
+CP000068.1	Rfam	ncRNA	138373	138444	64.01	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AC159436.1/76318-76247
+CP000068.1	Rfam	ncRNA	874266	874337	55.19	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AC104488.4/85406-85335

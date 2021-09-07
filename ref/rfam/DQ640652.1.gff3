@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ640652.1 1 29746
+##description SARS coronavirus GDH-BJH01, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=388737
+DQ640652.1	Rfam	regulatory_region	13405	13486	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=DQ640652.1/13405-13486
+DQ640652.1	Rfam	regulatory_region	29590	29632	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=DQ640652.1/29590-29632

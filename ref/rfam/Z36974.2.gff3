@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Z36974.2 1 3855
+##description Tobacco rattle virus genes for coat protein, 28.7 kDa & 32.8 kDa proteins, genomic RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12295
+Z36974.2	Rfam	regulatory_region	3816	3855	64.37	+	.	ID=RF01101.1;Name=RF01101;Alias=TLS-PK6;Note=Z36974.2/3816-3855

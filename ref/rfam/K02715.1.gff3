@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region K02715.1 1 3311
+##description Ground squirrel hepatitis virus (GSHV), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10406
+K02715.1	Rfam	regulatory_region	36	97	77.25	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=K02715.1/36-97

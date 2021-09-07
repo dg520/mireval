@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000421.1 1 1399469
+##description Ornithorhynchus anatinus chromosome 17, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9258
+CM000421.1	Rfam	ncRNA	222049	222120	37.76	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AAPN01152472.1/495-566
+CM000421.1	Rfam	ncRNA	321300	321372	46.84	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AAPN01152483.1/20393-20465
+CM000421.1	Rfam	ncRNA	484927	484998	24.70	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AAPN01146522.1/1044-973
+CM000421.1	Rfam	ncRNA	531643	531780	93.22	+	.	ID=RF00409.1;Name=RF00409;Alias=SNORA7;Note=AAPN01146525.1/997-1134
+CM000421.1	Rfam	ncRNA	608923	608994	38.98	+	.	ID=RF00005.4;Name=RF00005;Alias=tRNA;Note=AAPN01146532.1/20898-20969

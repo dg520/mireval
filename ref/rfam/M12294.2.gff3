@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M12294.2 1 10962
+##description West Nile virus RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11082
+M12294.2	Rfam	regulatory_region	97	144	52.75	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=M12294.2/97-144
+M12294.2	Rfam	regulatory_region	3546	3607	76.48	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=M12294.2/3546-3607
+M12294.2	Rfam	regulatory_region	10436	10495	63.56	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=M12294.2/10436-10495
+M12294.2	Rfam	regulatory_region	10596	10670	87.22	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=M12294.2/10596-10670
+M12294.2	Rfam	regulatory_region	10695	10767	70.28	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=M12294.2/10695-10767
+M12294.2	Rfam	regulatory_region	10772	10841	79.11	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=M12294.2/10772-10841
+M12294.2	Rfam	regulatory_region	10869	10962	65.79	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=M12294.2/10869-10962

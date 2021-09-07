@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF203066.1 1 27164
+##description Bat coronavirus HKU2 strain HKU2/HK/298/2006, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=693998
+EF203066.1	Rfam	regulatory_region	12447	12525	74.25	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EF203066.1/12447-12525

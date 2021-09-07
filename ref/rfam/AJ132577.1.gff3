@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ132577.1 1 3683
+##description Soil-borne cereal mosaic virus RNA2 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=100887
+AJ132577.1	Rfam	regulatory_region	3357	3381	37.63	+	.	ID=RF01082.1;Name=RF01082;Alias=SBWMV1_UPD-PKh;Note=AJ132577.1/3357-3381
+AJ132577.1	Rfam	regulatory_region	3383	3403	30.09	+	.	ID=RF01112.1;Name=RF01112;Alias=UPD-PKg;Note=AJ132577.1/3383-3403
+AJ132577.1	Rfam	regulatory_region	3405	3431	44.58	+	.	ID=RF01107.1;Name=RF01107;Alias=SBRMV1_UPD-PKf;Note=AJ132577.1/3405-3431
+AJ132577.1	Rfam	regulatory_region	3436	3461	38.22	+	.	ID=RF01081.1;Name=RF01081;Alias=SBWMV1_UPD-PKe;Note=AJ132577.1/3436-3461
+AJ132577.1	Rfam	regulatory_region	3463	3483	34.25	+	.	ID=RF01109.1;Name=RF01109;Alias=SBRMV1_UPD-PKd;Note=AJ132577.1/3463-3483
+AJ132577.1	Rfam	regulatory_region	3485	3513	45.80	+	.	ID=RF01103.1;Name=RF01103;Alias=UPD-PKc;Note=AJ132577.1/3485-3513

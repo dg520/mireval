@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ425186.1 1 30962
+##description Waterbuck coronavirus US/OH-WD358/1994, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=422135
+FJ425186.1	Rfam	regulatory_region	39	80	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=FJ425186.1/39-80
+FJ425186.1	Rfam	regulatory_region	13296	13380	80.09	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ425186.1/13296-13380
+FJ425186.1	Rfam	regulatory_region	19958	20086	151.15	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ425186.1/19958-20086
+FJ425186.1	Rfam	regulatory_region	30752	30813	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ425186.1/30752-30813

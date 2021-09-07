@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU570103.1 1 43016
+##description Salmonella phage epsilon34, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=348058
+EU570103.1	Rfam	ncRNA	15540	15607	87.30	-	.	ID=RF00262.1;Name=RF00262;Alias=sar;Note=EU570103.1/15607-15540

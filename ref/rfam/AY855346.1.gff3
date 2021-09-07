@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY855346.1 1 53325
+##description Clostridium difficile bacteriophage phi CD119, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=320122
+AY855346.1	Rfam	regulatory_region	29151	29246	60.11	-	.	ID=RF01051.1;Name=RF01051;Alias=c-di-GMP-I;Note=AY855346.1/29246-29151

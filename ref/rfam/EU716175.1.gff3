@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU716175.1 1 7353
+##description Human parechovirus 8 isolate BR/217/2006, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=602074
+EU716175.1	Rfam	regulatory_region	1	111	115.09	+	.	ID=RF00499.1;Name=RF00499;Alias=Parecho_CRE;Note=EU716175.1/1-111
+EU716175.1	Rfam	regulatory_region	257	704	161.63	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=EU716175.1/257-704

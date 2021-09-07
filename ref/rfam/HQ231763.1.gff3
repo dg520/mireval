@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ231763.1 1 12104
+##description Bovine viral diarrhea virus 3 strain Italy-1/10-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=381707
+HQ231763.1	Rfam	regulatory_region	6	284	260.33	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=HQ231763.1/6-284

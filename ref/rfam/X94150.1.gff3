@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X94150.1 1 8135
+##description Retroviridae complete genome (murine type C retrovirus)
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=44561
+X94150.1	Rfam	regulatory_region	294	393	102.11	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=X94150.1/294-393
+X94150.1	Rfam	regulatory_region	2252	2313	78.18	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=X94150.1/2252-2313

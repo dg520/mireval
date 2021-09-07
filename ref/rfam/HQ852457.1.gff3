@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ852457.1 1 9687
+##description Recombinant Hepatitis C virus DBN-JFH1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=945057
+HQ852457.1	Rfam	regulatory_region	79	322	246.23	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=HQ852457.1/79-322
+HQ852457.1	Rfam	regulatory_region	365	517	163.16	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=HQ852457.1/365-517
+HQ852457.1	Rfam	regulatory_region	9204	9268	54.84	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=HQ852457.1/9204-9268
+HQ852457.1	Rfam	regulatory_region	9338	9388	57.78	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=HQ852457.1/9338-9388
+HQ852457.1	Rfam	regulatory_region	9395	9431	51.90	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=HQ852457.1/9395-9431
+HQ852457.1	Rfam	regulatory_region	9588	9687	113.97	+	.	ID=RF00481.1;Name=RF00481;Alias=HCV_X3;Note=HQ852457.1/9588-9687

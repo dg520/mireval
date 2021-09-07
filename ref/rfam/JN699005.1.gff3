@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN699005.1 1 53177
+##description Mycobacterium phage Alma, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1089111
+JN699005.1	Rfam	ncRNA	5913	5984	64.09	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN699005.1/5913-5984

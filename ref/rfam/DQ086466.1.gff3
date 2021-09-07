@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ086466.1 1 35343
+##description Human adenovirus type 3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=45659
+DQ086466.1	Rfam	ncRNA	10422	10593	111.25	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=DQ086466.1/10422-10593
+DQ086466.1	Rfam	ncRNA	10666	10839	110.44	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=DQ086466.1/10666-10839

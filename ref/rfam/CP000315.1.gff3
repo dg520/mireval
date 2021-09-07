@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000315.1 1 38092
+##description Clostridium phage phiSM101, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=396359
+CP000315.1	Rfam	ncRNA	32882	32910	38.89	-	.	ID=RF01327.1;Name=RF01327;Alias=CRISPR-DR14;Note=CP000315.1/32910-32882

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB540583.1 1 3215
+##description HBV genotype C DNA, complete genome, strain: C0901177(NT3).
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=489466
+AB540583.1	Rfam	regulatory_region	1847	1907	87.40	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=AB540583.1/1847-1907

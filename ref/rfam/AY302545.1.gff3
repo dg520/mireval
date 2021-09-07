@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302545.1 1 7435
+##description Human echovirus 2 strain Cornelis complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=35294
+AY302545.1	Rfam	regulatory_region	1	90	105.20	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302545.1/1-90
+AY302545.1	Rfam	regulatory_region	392	643	284.23	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302545.1/392-643
+AY302545.1	Rfam	regulatory_region	4398	4458	79.31	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302545.1/4398-4458
+AY302545.1	Rfam	regulatory_region	7315	7435	145.27	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302545.1/7315-7435

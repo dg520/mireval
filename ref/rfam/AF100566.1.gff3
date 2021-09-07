@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF100566.1 1 11421
+##description Venezuelan equine encephalitis virus strain ZPC738, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11036
+AF100566.1	Rfam	regulatory_region	1	260	271.52	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=AF100566.1/1-260
+AF100566.1	Rfam	regulatory_region	9929	9999	94.13	+	.	ID=RF01841.1;Name=RF01841;Alias=veev_FSE;Note=AF100566.1/9929-9999

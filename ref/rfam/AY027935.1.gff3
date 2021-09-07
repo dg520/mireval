@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY027935.1 1 31508
+##description Haemophilus influenzae phage HP2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=157239
+AY027935.1	Rfam	ncRNA	361	433	74.51	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AY027935.1/433-361

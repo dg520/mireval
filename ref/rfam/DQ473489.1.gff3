@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ473489.1 1 7223
+##description Human rhinovirus 70, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=185926
+DQ473489.1	Rfam	regulatory_region	1	85	53.26	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=DQ473489.1/1-85
+DQ473489.1	Rfam	regulatory_region	391	648	152.46	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=DQ473489.1/391-648
+DQ473489.1	Rfam	regulatory_region	2324	2409	56.58	+	.	ID=RF00220.1;Name=RF00220;Alias=Rhino_CRE;Note=DQ473489.1/2324-2409

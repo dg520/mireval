@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY722102.1 1 11680
+##description Eastern equine encephalitis virus strain PE6, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11021
+AY722102.1	Rfam	regulatory_region	3	258	173.29	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=AY722102.1/3-258
+AY722102.1	Rfam	regulatory_region	9948	10020	102.82	+	.	ID=RF01839.1;Name=RF01839;Alias=eeev_FSE;Note=AY722102.1/9948-10020

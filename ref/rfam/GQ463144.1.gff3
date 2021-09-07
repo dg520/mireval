@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ463144.1 1 114195
+##description Vibrio fluvialis Ind1 integrating conjugative element ICEVflInd1, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=563774
+GQ463144.1	Rfam	regulatory_region	1170	1290	92.59	+	.	ID=RF00114.1;Name=RF00114;Alias=S15;Note=GQ463144.1/1170-1290

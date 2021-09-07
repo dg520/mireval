@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU190215.1 1 29276
+##description Bat coronavirus BM48-31/BGR/2008, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=864596
+GU190215.1	Rfam	regulatory_region	13298	13379	72.28	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=GU190215.1/13298-13379
+GU190215.1	Rfam	regulatory_region	29112	29154	62.93	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=GU190215.1/29112-29154

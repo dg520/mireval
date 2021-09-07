@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF274252.1 1 8172
+##description Xenotropic MuLV-related virus RKO, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1049224
+JF274252.1	Rfam	regulatory_region	294	394	107.48	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=JF274252.1/294-394
+JF274252.1	Rfam	regulatory_region	2221	2282	77.90	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=JF274252.1/2221-2282

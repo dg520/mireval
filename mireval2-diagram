@@ -1,0 +1,163 @@
+#!/usr/bin/env python
+
+import shlex, subprocess
+import commands
+import os, sys, getopt
+import subprocess
+import sys
+import datetime
+
+
+def usage():
+    print """
+USAGE: ./diagram_command_line.py -t <species_name> -n <output_file>
+
+Options:
+-t              Input folder which is the output folder from mireval_command_line.py [Compulsory]
+-n              Integer indicating the <n>th sequence in the original FASTA file. [Compulsory]
+-h              Print this help
+--help
+
+"""
+    return 1
+
+
+def par(argv):
+    task=""
+    seq_rank=""
+    try:
+        opts, args = getopt.getopt(argv,"t:n:",["tfile=","nfile="])
+        #print opts, args
+    except getopt.GetoptError:
+        usage() # -X : Promyelocyte_dominent_ir_boundary; -Y : Granulocyte_dominent_ir_boundary
+        sys.exit(2)
+    for opt, arg in opts:
+        #print opt,arg
+        if opt == '-h':
+            usage()
+            sys.exit()
+        elif opt in ("-t", "--tfile"):
+            task= arg
+        elif opt in ("-n", "--nfile"):
+            seq_rank = arg
+        else:
+            usage()
+            sys.exit(2)
+
+    return (task, seq_rank)
+
+
+
+job_id, inq_id =par(sys.argv[1:])
+if job_id=="" or inq_id=="":
+    usage()
+    if job_id=="":
+        print "Error: Need a file-folder name."
+    if inq_id=="":
+        print "Error: Need to indicate which inquiry sequence to be diagram."
+
+
+else:
+    #f=open("PATH","r")
+    #root=f.readlines()[0][:-1]
+    #f.close()
+    cwd = os.getcwd()
+    root="/".join(cwd.split("/")[:-1])
+    
+    cmd= "ls "+ job_id+"/"+inq_id
+    sta,out=commands.getstatusoutput(cmd)
+
+    cmd1= "ls "+ job_id+"/"
+    sta1,out1=commands.getstatusoutput(cmd1)
+
+    folders=out1.split("\n")
+    #print folders
+
+    if ("tfb_label.txt" in out)==False:
+        if ("cannot access" in out1):
+            print "Error: the result folder does not exist."
+        else:
+            print "Error: the species is not in the list."
+    elif (inq_id in folders)==False:
+        print "Error: sequence order out of range."
+
+    else: 
+        page=job_id+"/"+inq_id+"/index.html"
+        if os.path.exists(page)==True:
+            open_name=job_id+"/"+inq_id+"/circos.conf"
+            if os.path.exists(open_name)==True:
+                proc = subprocess.Popen([root+"/mireval/bin/circos-0.64/bin/circos", "-conf", job_id+"/"+inq_id+"/circos.conf", "-outputdir", job_id+"/"+inq_id+"/"],stdout=subprocess.PIPE)
+                out=proc.communicate()
+ 
+                f=open(job_id+"/"+inq_id+"/circos.html","r")
+                d=f.readlines()
+                f.close()
+
+
+
+                p1="<!--[if lte IE 9]>\n"
+                p2="<img style='border:none;' src='circos.png' usemap='#circosmap'></img>\n"
+                p3="<![endif]-->\n"
+                p4="<!--[if (gt IE 9)|(! IE)]> -->\n"
+                p5="<img style='border:none;' src='circos.svg' usemap='#circosmap'></img>\n"
+                p6="<!-- <![endif]-->\n"
+                img_src=p1+p2+p3+p4+p5+p6
+                map=[]
+                for x in d[1:-1]:
+                    t=x.split("href='")
+                    info=t[1].split("' alt")[0]
+                    if "?" in info:
+                        tmp=info.split("=")
+                        name_st=tmp[-1]
+                        name=name_st[2:]
+                        if "tfb" in name:
+                            name=name[4:]
+                        chr=tmp[1].split("&")[0]
+                        start=tmp[2].split("&")[0]
+                        end=tmp[3].split("&")[0]
+                        st=name_st[0]
+                        title_content=name+":"+chr+":"+start+"-"+end+":"+st
+                        #new_content=t[0]+"href='#"+name+"' target='_top' alt='"+title_content+"' title='"+title_content+"'>\n"
+                        new_content=t[0]+"href='#"+name+"' alt='"+title_content+"' title='"+title_content+"'>\n"
+                        map.append(new_content)
+                    else:
+                        model=info.split(".")[1]
+                        if model =="cons":
+                            href_link="href='http://en.wikipedia.org/wiki/Conserved_sequence' target='_blank'"
+                            title_content="This histogram shows the conservation scores around your inquiry. Click here to learn what is Conservation Score."
+                        if model =="shad":
+                            href_link="href='http://en.wikipedia.org/wiki/Phylogenetic_footprinting' target='_blank'"
+                            title_content="This histogram shows the phylogenetic shadowing scores around your inquiry. Click here to learn what is Phylogenetic Shadowing."
+                        if model =="tf":
+                            href_link="href='http://jaspar.genereg.net/' target='_blank'"
+                            title_content="Potential transcription factor binding sites regulating your inquiry, according to JASPAR database, predicted by FIMO. Hover your mouse on each elements to get their genomic information. Click here to visit JASPAR."
+                        if model =="transcripts":
+                            href_link="href='http://genome.ucsc.edu/' target='_blank'"
+                            title_content="Transcripts around your inquiry, according to UCSC. Hover your mouse on each elements to get their genomic information. Click here to visit UCSC."
+                        if model =="hairpins":
+                            href_link=""
+                            title_content="miRNA-like hairpin structures around your inquiry, predicted by miREval. Hover your mouse on each elements to get their genomic information."
+                        if model =="mirnas":
+                            href_link="href='http://www.mirbase.org/' target='_blank'"
+                            title_content="miRNAs around your inquiry, according to miRBase v19. Hover your mouse on each elements to get their genomic information. Click here to visit miRBase."
+                        if model =="ncrnas":
+                            href_link="href='http://rfam.sanger.ac.uk/' target='_blank'"
+                            title_content="ncRNAs around your inquiry, according to Rfam v11.0. Hover your mouse on each elements to get their genomic information. Click here to visit Rfam."
+                        new_content=t[0]+href_link+" alt='"+title_content+"' title='"+title_content+"'>\n"
+                        map.append(new_content)
+                map=[d[0]]+map+[d[-1]]+[img_src]
+
+                htm=open(job_id+"/"+inq_id+"/index.html","r")
+                d1=htm.readlines()
+                htm.close()
+
+                d2="".join(d1) 
+                if "To show this graph" in d2:
+                    final=[d2.split("To show this graph")[0]]+map+[d2.split("refresh this page")[1]]
+
+                    htm=open(job_id+"/"+inq_id+"/index.html","w")
+                    htm.writelines(final)
+                    htm.close()
+
+
+

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X57540.1 1 8231
+##description CAS-BR-E murine leukemia virus, viral genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11792
+X57540.1	Rfam	regulatory_region	275	375	115.69	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=X57540.1/275-375
+X57540.1	Rfam	regulatory_region	2228	2289	77.61	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=X57540.1/2228-2289

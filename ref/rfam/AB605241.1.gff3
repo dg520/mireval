@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB605241.1 1 35045
+##description Human adenovirus D DNA, complete genome, isolate: 880249C/Hiroshima/1988.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130310
+AB605241.1	Rfam	ncRNA	10242	10401	114.72	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AB605241.1/10242-10401
+AB605241.1	Rfam	ncRNA	10460	10609	91.79	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=AB605241.1/10460-10609

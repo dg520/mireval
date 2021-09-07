@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M16576.1 1 3164
+##description Barley stripe mosaic virus (Type) RNA-gamma segment.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12327
+M16576.1	Rfam	regulatory_region	2978	3008	33.59	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=M16576.1/2978-3008
+M16576.1	Rfam	regulatory_region	3069	3164	116.71	+	.	ID=RF01075.1;Name=RF01075;Alias=TLS-PK1;Note=M16576.1/3069-3164

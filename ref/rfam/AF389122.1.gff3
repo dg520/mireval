@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF389122.1 1 890
+##description Influenza A virus (A/Puerto Rico/8/34/Mount Sinai(H1N1)) segment 8, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=183764
+AF389122.1	Rfam	regulatory_region	523	570	71.79	+	.	ID=RF01099.1;Name=RF01099;Alias=PK-IAV;Note=AF389122.1/523-570

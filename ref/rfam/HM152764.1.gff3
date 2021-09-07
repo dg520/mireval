@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM152764.1 1 59598
+##description Mycobacterium phage Angelica, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=861044
+HM152764.1	Rfam	ncRNA	994	1066	58.79	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM152764.1/994-1066

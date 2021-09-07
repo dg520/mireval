@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ040215.1 1 12337
+##description Bovine viral diarrhea virus 3 Th/04_KhonKaen, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=402584
+FJ040215.1	Rfam	regulatory_region	113	391	258.36	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=FJ040215.1/113-391

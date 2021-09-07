@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L06906.1 1 9202
+##description Visna/Maedi virus strain kv1772, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11741
+L06906.1	Rfam	regulatory_region	1776	1829	79.33	+	.	ID=RF01840.1;Name=RF01840;Alias=ovine_lenti_FSE;Note=L06906.1/1776-1829

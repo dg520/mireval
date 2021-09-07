@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FM865413.1 1 5673
+##description Wheat yellow dwarf virus-GPV, complete genome, genomic RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572239
+FM865413.1	Rfam	regulatory_region	1595	1634	40.05	+	.	ID=RF01074.1;Name=RF01074;Alias=RF_site1;Note=FM865413.1/1595-1634

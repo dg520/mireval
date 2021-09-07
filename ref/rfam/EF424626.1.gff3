@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF424626.1 1 9453
+##description Hepatitis C virus subtype 6p isolate QC216, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=438881
+EF424626.1	Rfam	regulatory_region	77	321	247.99	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=EF424626.1/77-321
+EF424626.1	Rfam	regulatory_region	364	516	160.60	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=EF424626.1/364-516
+EF424626.1	Rfam	regulatory_region	9143	9207	71.72	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=EF424626.1/9143-9207
+EF424626.1	Rfam	regulatory_region	9277	9327	54.20	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=EF424626.1/9277-9327
+EF424626.1	Rfam	regulatory_region	9334	9370	57.66	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=EF424626.1/9334-9370

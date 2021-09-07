@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M28817.1 1 2774
+##description Cowpea chlorotic mottle virus RNA2, encoding 2a protein, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12303
+M28817.1	Rfam	regulatory_region	2642	2770	106.33	+	.	ID=RF01084.1;Name=RF01084;Alias=TLS-PK3;Note=M28817.1/2642-2770

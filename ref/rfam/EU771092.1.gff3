@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU771092.1 1 19282
+##description Bacillus phage phi29, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10756
+EU771092.1	Rfam	ncRNA	75	318	317.97	-	.	ID=RF00044.1;Name=RF00044;Alias=Phage_pRNA;Note=EU771092.1/318-75

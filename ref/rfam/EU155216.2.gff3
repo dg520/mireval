@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU155216.2 1 9298
+##description Hepatitis C virus subtype 1a isolate HCV-1a/US/BID-V115/2001, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31646
+EU155216.2	Rfam	regulatory_region	1	243	252.04	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=EU155216.2/1-243
+EU155216.2	Rfam	regulatory_region	286	438	171.64	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=EU155216.2/286-438
+EU155216.2	Rfam	regulatory_region	9049	9114	68.74	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=EU155216.2/9049-9114
+EU155216.2	Rfam	regulatory_region	9184	9234	75.29	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=EU155216.2/9184-9234
+EU155216.2	Rfam	regulatory_region	9241	9277	55.06	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=EU155216.2/9241-9277

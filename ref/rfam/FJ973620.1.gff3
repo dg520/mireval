@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ973620.1 1 6586
+##description Astrovirus VA1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=645687
+FJ973620.1	Rfam	regulatory_region	6465	6507	61.38	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ973620.1/6465-6507

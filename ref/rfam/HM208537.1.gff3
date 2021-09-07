@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM208537.1 1 49576
+##description Escherichia phage HK639, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=906669
+HM208537.1	Rfam	ncRNA	44281	44353	36.22	+	.	ID=RF01393.1;Name=RF01393;Alias=isrJ;Note=HM208537.1/44281-44353
+HM208537.1	Rfam	ncRNA	44363	44434	60.37	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM208537.1/44363-44434
+HM208537.1	Rfam	ncRNA	44443	44514	28.39	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HM208537.1/44443-44514
+HM208537.1	Rfam	ncRNA	44780	44985	51.76	+	.	ID=RF02076.1;Name=RF02076;Alias=STnc100;Note=HM208537.1/44780-44985

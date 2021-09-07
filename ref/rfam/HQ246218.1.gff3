@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ246218.1 1 8189
+##description Murine leukemia virus N417, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=933438
+HQ246218.1	Rfam	regulatory_region	294	393	102.11	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=HQ246218.1/294-393
+HQ246218.1	Rfam	regulatory_region	2249	2310	78.18	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=HQ246218.1/2249-2310

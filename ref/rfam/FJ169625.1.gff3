@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ169625.1 1 34909
+##description Human adenovirus 53, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=556926
+FJ169625.1	Rfam	ncRNA	10221	10380	118.12	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=FJ169625.1/10221-10380
+FJ169625.1	Rfam	ncRNA	10439	10585	71.63	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=FJ169625.1/10439-10585

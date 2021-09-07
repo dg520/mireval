@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ012006.2 1 3569
+##description Chinese wheat mosaic virus segment RNA2, complete sequence
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=83544
+AJ012006.2	Rfam	regulatory_region	3361	3392	51.56	+	.	ID=RF01080.1;Name=RF01080;Alias=UPD-PKib;Note=AJ012006.2/3361-3392
+AJ012006.2	Rfam	regulatory_region	3398	3426	45.83	+	.	ID=RF01104.1;Name=RF01104;Alias=SBWMV2_UPD-PKb;Note=AJ012006.2/3398-3426

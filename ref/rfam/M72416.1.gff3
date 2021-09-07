@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M72416.1 1 7568
+##description Potato virus X complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12183
+M72416.1	Rfam	regulatory_region	6358	6411	83.35	+	.	ID=RF00184.1;Name=RF00184;Alias=PVX_3;Note=M72416.1/6358-6411
+M72416.1	Rfam	regulatory_region	7491	7544	83.35	+	.	ID=RF00184.2;Name=RF00184;Alias=PVX_3;Note=M72416.1/7491-7544

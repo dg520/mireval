@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ275355.1 1 9442
+##description Hepatitis C virus subtype 3a, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=356426
+GQ275355.1	Rfam	regulatory_region	78	321	251.75	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=GQ275355.1/78-321
+GQ275355.1	Rfam	regulatory_region	364	516	162.04	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=GQ275355.1/364-516
+GQ275355.1	Rfam	regulatory_region	9167	9231	65.71	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=GQ275355.1/9167-9231
+GQ275355.1	Rfam	regulatory_region	9301	9351	52.33	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=GQ275355.1/9301-9351
+GQ275355.1	Rfam	regulatory_region	9358	9394	55.42	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=GQ275355.1/9358-9394

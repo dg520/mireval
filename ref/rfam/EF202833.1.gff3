@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF202833.1 1 7635
+##description Ljungan virus strain 87-012G, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=172314
+EF202833.1	Rfam	regulatory_region	381	547	67.98	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=EF202833.1/381-547
+EF202833.1	Rfam	regulatory_region	590	715	54.57	+	.	ID=RF00210.2;Name=RF00210;Alias=IRES_Aptho;Note=EF202833.1/590-715

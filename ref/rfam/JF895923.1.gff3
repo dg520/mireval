@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF895923.1 1 10916
+##description Tembusu virus strain JS804, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64293
+JF895923.1	Rfam	regulatory_region	95	145	35.98	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=JF895923.1/95-145
+JF895923.1	Rfam	regulatory_region	10464	10523	43.88	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=JF895923.1/10464-10523
+JF895923.1	Rfam	regulatory_region	10623	10700	44.02	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=JF895923.1/10623-10700
+JF895923.1	Rfam	regulatory_region	10722	10794	54.48	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=JF895923.1/10722-10794
+JF895923.1	Rfam	regulatory_region	10823	10916	67.55	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=JF895923.1/10823-10916

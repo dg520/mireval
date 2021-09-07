@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF799911.1 1 35072
+##description Human adenovirus 59 MSJ-2011 strain CDPH59, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1048932
+JF799911.1	Rfam	ncRNA	10252	10411	114.72	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=JF799911.1/10252-10411
+JF799911.1	Rfam	ncRNA	10470	10618	85.81	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=JF799911.1/10470-10618

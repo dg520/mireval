@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR775231.1 1 27329
+##description Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1 complete genome, contig 44
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=936157
+FR775231.1	Rfam	regulatory_region	6291	6416	124.93	+	.	ID=RF01859.1;Name=RF01859;Alias=Phe_leader;Note=FR775231.1/6291-6416

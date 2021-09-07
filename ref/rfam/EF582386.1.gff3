@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF582386.1 1 7114
+##description Human rhinovirus C strain 025, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=463676
+EF582386.1	Rfam	regulatory_region	1	89	69.67	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=EF582386.1/1-89
+EF582386.1	Rfam	regulatory_region	387	643	153.94	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=EF582386.1/387-643

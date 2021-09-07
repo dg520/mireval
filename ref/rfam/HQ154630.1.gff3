@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ154630.1 1 8176
+##description Xenotropic MuLV-related virus isolate xmlv15, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=438045
+HQ154630.1	Rfam	regulatory_region	283	382	99.23	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=HQ154630.1/283-382
+HQ154630.1	Rfam	regulatory_region	2178	2239	77.90	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=HQ154630.1/2178-2239

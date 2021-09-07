@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AE001362.1 1 947102
+##description Plasmodium falciparum 3D7 chromosome 2, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36329
+AE001362.1	Rfam	ncRNA	164269	164340	67.95	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AE001362.1/164269-164340
+AE001362.1	Rfam	ncRNA	766389	767014	689.30	-	.	ID=RF01577.1;Name=RF01577;Alias=RNase_P;Note=AE001362.1/767014-766389
+AE001362.1	Rfam	ncRNA	767583	767742	119.75	-	.	ID=RF01579.1;Name=RF01579;Alias=RUF2;Note=AE001362.1/767742-767583
+AE001362.1	Rfam	ncRNA	767973	768055	90.89	-	.	ID=RF01583.1;Name=RF01583;Alias=snoR01;Note=AE001362.1/768055-767973

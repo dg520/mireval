@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ434664.1 1 7722
+##description Duck astrovirus C-NGB, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=622438
+FJ434664.1	Rfam	regulatory_region	7482	7524	61.48	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ434664.1/7482-7524

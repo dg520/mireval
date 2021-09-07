@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM134276.1 1 176788
+##description Enterobacteria phage RB16, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=329381
+HM134276.1	Rfam	ncRNA	49781	49854	60.00	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM134276.1/49781-49854
+HM134276.1	Rfam	ncRNA	49863	49935	65.39	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HM134276.1/49863-49935

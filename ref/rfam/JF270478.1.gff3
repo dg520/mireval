@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF270478.1 1 35725
+##description Psychrobacter phage Psymv2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1071177
+JF270478.1	Rfam	ncRNA	11082	11157	40.75	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JF270478.1/11082-11157

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY751783.1 1 7137
+##description Human rhinovirus 39, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=185907
+AY751783.1	Rfam	regulatory_region	1	89	82.01	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY751783.1/1-89
+AY751783.1	Rfam	regulatory_region	387	629	150.17	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY751783.1/387-629

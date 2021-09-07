@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM624080.1 1 34553
+##description Pseudomonas phage PA1/KOR/2010, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=937835
+HM624080.1	Rfam	ncRNA	6192	6263	58.89	+	.	ID=RF02276.1;Name=RF02276;Alias=Hammerhead_II;Note=HM624080.1/6192-6263

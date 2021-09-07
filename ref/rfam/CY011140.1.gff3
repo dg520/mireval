@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CY011140.1 1 856
+##description Influenza A virus (A/New York/602/1996(H3N2)) segment 8, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=370522
+CY011140.1	Rfam	regulatory_region	511	558	74.09	+	.	ID=RF01099.1;Name=RF01099;Alias=PK-IAV;Note=CY011140.1/511-558

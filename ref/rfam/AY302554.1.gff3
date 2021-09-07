@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302554.1 1 7432
+##description Human echovirus 31 strain Caldwell complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=47513
+AY302554.1	Rfam	regulatory_region	1	89	100.17	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302554.1/1-89
+AY302554.1	Rfam	regulatory_region	392	643	278.87	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302554.1/392-643
+AY302554.1	Rfam	regulatory_region	4395	4455	77.28	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302554.1/4395-4455
+AY302554.1	Rfam	regulatory_region	7312	7432	141.73	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302554.1/7312-7432

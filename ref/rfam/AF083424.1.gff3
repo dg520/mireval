@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF083424.1 1 108409
+##description Ateline herpesvirus 3 complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85618
+AF083424.1	Rfam	ncRNA	2144	2264	45.97	-	.	ID=RF01802.1;Name=RF01802;Alias=HSUR;Note=AF083424.1/2264-2144
+AF083424.1	Rfam	ncRNA	2752	2865	55.03	-	.	ID=RF01802.2;Name=RF01802;Alias=HSUR;Note=AF083424.1/2865-2752

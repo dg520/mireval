@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY876912.1 1 7456
+##description Human enterovirus Ningbo3-02, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=310755
+AY876912.1	Rfam	regulatory_region	1	91	94.33	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY876912.1/1-91
+AY876912.1	Rfam	regulatory_region	392	642	261.34	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY876912.1/392-642
+AY876912.1	Rfam	regulatory_region	4462	4522	72.20	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY876912.1/4462-4522

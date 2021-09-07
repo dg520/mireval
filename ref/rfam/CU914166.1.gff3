@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CU914166.1 1 1870194
+##description Ralstonia solanacearum strain IPO1609 Genome Draft.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=305
+CU914166.1	Rfam	regulatory_region	155188	155605	69.19	+	.	ID=RF01766.1;Name=RF01766;Alias=cspA;Note=CU914166.1/155188-155605
+CU914166.1	Rfam	ncRNA	529978	530059	49.54	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CU914166.1/530059-529978
+CU914166.1	Rfam	regulatory_region	825906	826085	122.74	-	.	ID=RF00174.1;Name=RF00174;Alias=Cobalamin;Note=CU914166.1/826085-825906
+CU914166.1	Rfam	regulatory_region	1142118	1142184	48.17	+	.	ID=RF01734.1;Name=RF01734;Alias=crcB;Note=CU914166.1/1142118-1142184
+CU914166.1	Rfam	regulatory_region	1467795	1467950	94.28	-	.	ID=RF00050.1;Name=RF00050;Alias=FMN;Note=CU914166.1/1467950-1467795

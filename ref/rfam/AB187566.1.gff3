@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB187566.1 1 8259
+##description Murine leukemia virus Graffi GV-1.4 DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11786
+AB187566.1	Rfam	regulatory_region	273	373	113.65	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=AB187566.1/273-373
+AB187566.1	Rfam	regulatory_region	2220	2281	79.73	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=AB187566.1/2220-2281

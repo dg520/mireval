@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Z18946.1 1 52297
+##description Mycobacteriophage L5 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31757
+Z18946.1	Rfam	ncRNA	4200	4271	68.44	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=Z18946.1/4200-4271
+Z18946.1	Rfam	ncRNA	4350	4422	64.80	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=Z18946.1/4350-4422
+Z18946.1	Rfam	ncRNA	4479	4550	51.44	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=Z18946.1/4479-4550

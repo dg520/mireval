@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN554968.1 1 1385737
+##description Trypanosoma brucei gambiense DAL972 chromosome 5, complete sequence
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=679716
+FN554968.1	Rfam	ncRNA	119669	119740	64.01	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FN554968.1/119740-119669
+FN554968.1	Rfam	ncRNA	820104	820175	55.19	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=FN554968.1/820104-820175

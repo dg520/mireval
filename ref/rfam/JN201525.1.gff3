@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN201525.1 1 106327
+##description Mycobacterium phage Thibault, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1052673
+JN201525.1	Rfam	ncRNA	91857	91928	42.40	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN201525.1/91857-91928

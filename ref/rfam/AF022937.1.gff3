@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF022937.1 1 10011
+##description Rhopalosiphum padi virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=66834
+AF022937.1	Rfam	regulatory_region	6935	7121	136.92	+	.	ID=RF00458.1;Name=RF00458;Alias=IRES_Cripavirus;Note=AF022937.1/6935-7121

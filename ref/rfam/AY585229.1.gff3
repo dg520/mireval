@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY585229.1 1 30744
+##description Human coronavirus OC43 serotype OC43-Paris, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31631
+AY585229.1	Rfam	regulatory_region	84	125	68.59	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=AY585229.1/84-125
+AY585229.1	Rfam	regulatory_region	13341	13425	79.33	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY585229.1/13341-13425
+AY585229.1	Rfam	regulatory_region	20003	20134	131.61	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=AY585229.1/20003-20134
+AY585229.1	Rfam	regulatory_region	30484	30545	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=AY585229.1/30484-30545

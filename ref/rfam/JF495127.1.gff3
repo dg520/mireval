@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF495127.1 1 4152
+##description Soybean yellow common mosaic virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1080798
+JF495127.1	Rfam	regulatory_region	1742	1820	58.45	+	.	ID=RF01838.1;Name=RF01838;Alias=sobemo_FSE;Note=JF495127.1/1742-1820

@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000609.1 1 1035082
+##description Phaeodactylum tricornutum CCAP 1055/1 chromosome 6, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=556484
+CM000609.1	Rfam	regulatory_region	763724	763768	29.49	-	.	ID=RF00032.1;Name=RF00032;Alias=Histone3;Note=ABQD01000028.1/382647-382603
+CM000609.1	Rfam	regulatory_region	765155	765199	33.34	+	.	ID=RF00032.2;Name=RF00032;Alias=Histone3;Note=ABQD01000028.1/384034-384078
+CM000609.1	Rfam	regulatory_region	777547	777591	29.04	+	.	ID=RF00032.3;Name=RF00032;Alias=Histone3;Note=ABQD01000028.1/396426-396470
+CM000609.1	Rfam	regulatory_region	779827	779872	29.56	-	.	ID=RF00032.4;Name=RF00032;Alias=Histone3;Note=ABQD01000028.1/398751-398706
+CM000609.1	Rfam	ncRNA	877243	877325	32.13	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=ABQD01000028.1/496204-496122
+CM000609.1	Rfam	regulatory_region	978335	978379	29.39	-	.	ID=RF00032.5;Name=RF00032;Alias=Histone3;Note=ABQD01000028.1/597258-597214

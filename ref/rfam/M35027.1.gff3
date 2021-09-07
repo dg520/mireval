@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M35027.1 1 191737
+##description Vaccinia virus Copenhagen, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10249
+M35027.1	Rfam	regulatory_region	137236	137297	87.48	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=M35027.1/137297-137236

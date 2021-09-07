@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR775255.1 1 81965
+##description Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1, whole genome shotgun sequence, plasmid pSW82 complete sequence, contig 68
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=936157
+FR775255.1	Rfam	ncRNA	136	225	84.58	-	.	ID=RF00042.1;Name=RF00042;Alias=CopA;Note=FR775255.1/225-136
+FR775255.1	Rfam	ncRNA	18417	18559	147.28	+	.	ID=RF01396.1;Name=RF01396;Alias=isrN;Note=FR775255.1/18417-18559
+FR775255.1	Rfam	ncRNA	68484	68607	143.24	+	.	ID=RF01405.1;Name=RF01405;Alias=STnc490k;Note=FR775255.1/68484-68607

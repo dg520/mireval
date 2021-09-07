@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ238607.1 1 6043
+##description Potato mop-top virus RNA1 complete genome, Swedish isolate (Sw)
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37128
+AJ238607.1	Rfam	regulatory_region	5959	6042	59.83	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=AJ238607.1/5959-6042

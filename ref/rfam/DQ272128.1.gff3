@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ272128.1 1 7444
+##description Equine rhinitis A virus strain U188, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=47000
+DQ272128.1	Rfam	regulatory_region	143	582	93.74	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=DQ272128.1/143-582

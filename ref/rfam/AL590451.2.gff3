@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AL590451.2 1 251002
+##description chromosome IX of strain GB-M1 of Encephalitozoon cuniculi (Microspora)
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=284813
+AL590451.2	Rfam	ncRNA	53679	53797	100.25	-	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=AL590451.2/53797-53679
+AL590451.2	Rfam	ncRNA	158716	158788	66.98	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AL590451.2/158716-158788
+AL590451.2	Rfam	ncRNA	210542	210613	59.97	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AL590451.2/210542-210613

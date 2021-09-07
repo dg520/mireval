@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ315670.1 1 7366
+##description Human parechovirus 4 isolate K251176-02, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=362784
+DQ315670.1	Rfam	regulatory_region	1	116	131.36	+	.	ID=RF00499.1;Name=RF00499;Alias=Parecho_CRE;Note=DQ315670.1/1-116
+DQ315670.1	Rfam	regulatory_region	256	706	161.69	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=DQ315670.1/256-706

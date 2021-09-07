@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M20301.1 1 8093
+##description Theiler murine encephalomyelitis virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12124
+M20301.1	Rfam	regulatory_region	604	1064	115.71	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=M20301.1/604-1064
+M20301.1	Rfam	regulatory_region	1570	1602	46.23	+	.	ID=RF00453.1;Name=RF00453;Alias=Cardiovirus_CRE;Note=M20301.1/1570-1602

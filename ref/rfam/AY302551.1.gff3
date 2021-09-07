@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302551.1 1 7412
+##description Human echovirus 27 strain Bacon complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=45999
+AY302551.1	Rfam	regulatory_region	1	90	99.61	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302551.1/1-90
+AY302551.1	Rfam	regulatory_region	395	646	291.14	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302551.1/395-646
+AY302551.1	Rfam	regulatory_region	4374	4434	69.64	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302551.1/4374-4434
+AY302551.1	Rfam	regulatory_region	7291	7412	140.54	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302551.1/7291-7412

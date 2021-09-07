@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U85506.1 1 7113
+##description Simian endogenous retrovirus clone 25.2, partial genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1048243
+U85506.1	Rfam	regulatory_region	1160	1211	68.60	+	.	ID=RF01097.1;Name=RF01097;Alias=RF_site8;Note=U85506.1/1160-1211

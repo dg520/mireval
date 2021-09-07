@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU236594.1 1 7556
+##description Bovine rhinovirus 2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=693066
+EU236594.1	Rfam	regulatory_region	56	534	198.89	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=EU236594.1/56-534

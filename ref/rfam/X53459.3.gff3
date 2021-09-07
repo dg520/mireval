@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X53459.3 1 12704
+##description Equine arteritis virus (EAV) RNA genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11047
+X53459.3	Rfam	regulatory_region	186	230	74.11	+	.	ID=RF00498.1;Name=RF00498;Alias=EAV_LTH;Note=X53459.3/186-230

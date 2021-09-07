@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF133960.1 1 8899
+##description Porcine endogenous type C retrovirus clone 6 from China, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=509154
+EF133960.1	Rfam	regulatory_region	2711	2772	73.09	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=EF133960.1/2711-2772

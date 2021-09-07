@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF033813.1 1 5833
+##description Moloney murine sarcoma virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11809
+AF033813.1	Rfam	regulatory_region	236	336	120.36	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=AF033813.1/236-336
+AF033813.1	Rfam	regulatory_region	2171	2232	77.90	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=AF033813.1/2171-2232

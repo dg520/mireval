@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB448767.1 1 34980
+##description Human adenovirus 8 genomic DNA, complete genome, isolate: Trim.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31545
+AB448767.1	Rfam	ncRNA	10248	10407	116.81	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AB448767.1/10248-10407
+AB448767.1	Rfam	ncRNA	10465	10614	72.27	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=AB448767.1/10465-10614

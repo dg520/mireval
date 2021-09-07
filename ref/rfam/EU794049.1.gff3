@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU794049.1 1 39867
+##description Bacteriophage APSE-2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=340054
+EU794049.1	Rfam	ncRNA	30396	30483	74.75	-	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=EU794049.1/30483-30396
+EU794049.1	Rfam	ncRNA	30509	30587	60.31	-	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=EU794049.1/30587-30509

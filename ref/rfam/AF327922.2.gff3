@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF327922.2 1 7592
+##description Ljungan virus strain 145SL polyprotein gene, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=172317
+AF327922.2	Rfam	regulatory_region	359	474	66.57	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AF327922.2/359-474
+AF327922.2	Rfam	regulatory_region	543	667	54.49	+	.	ID=RF00210.2;Name=RF00210;Alias=IRES_Aptho;Note=AF327922.2/543-667

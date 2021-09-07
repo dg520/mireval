@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001159.1 1 827053
+##description Thalassiosira pseudonana CCMP1335 chromosome 18, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296543
+CP001159.1	Rfam	ncRNA	661481	661566	73.56	+	.	ID=RF01852.1;Name=RF01852;Alias=tRNA-Sec;Note=CP001159.1/661481-661566
+CP001159.1	Rfam	ncRNA	661483	661565	25.03	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001159.1/661483-661565

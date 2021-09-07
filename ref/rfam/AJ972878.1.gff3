@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ972878.1 1 9708
+##description Chilli veinal mottle virus complete genome, genomic RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52280
+AJ972878.1	Rfam	regulatory_region	24	59	46.03	+	.	ID=RF01102.1;Name=RF01102;Alias=PK1-TEV_CVMV;Note=AJ972878.1/24-59

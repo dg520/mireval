@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M10608.1 1 9203
+##description Visna/Maedi virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11741
+M10608.1	Rfam	regulatory_region	1777	1830	79.33	+	.	ID=RF01840.1;Name=RF01840;Alias=ovine_lenti_FSE;Note=M10608.1/1777-1830

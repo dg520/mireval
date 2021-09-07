@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D00627.1 1 7452
+##description Human coxsackievirus A9 genomic RNA, complete genome, strain: Griggs.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12067
+D00627.1	Rfam	regulatory_region	2	91	90.75	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=D00627.1/2-91
+D00627.1	Rfam	regulatory_region	394	645	292.00	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=D00627.1/394-645
+D00627.1	Rfam	regulatory_region	4412	4472	78.93	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=D00627.1/4412-4472
+D00627.1	Rfam	regulatory_region	7329	7449	143.63	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=D00627.1/7329-7449

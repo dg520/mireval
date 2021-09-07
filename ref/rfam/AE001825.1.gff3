@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AE001825.1 1 412348
+##description Deinococcus radiodurans R1 chromosome 2, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=243230
+AE001825.1	Rfam	ncRNA	60481	60554	66.12	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AE001825.1/60481-60554
+AE001825.1	Rfam	regulatory_region	178274	178389	57.02	-	.	ID=RF00059.1;Name=RF00059;Alias=TPP;Note=AE001825.1/178389-178274

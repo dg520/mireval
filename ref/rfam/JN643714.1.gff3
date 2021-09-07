@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN643714.1 1 59672
+##description Mycobacterium phage BarrelRoll, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1084722
+JN643714.1	Rfam	ncRNA	1003	1075	61.15	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN643714.1/1003-1075

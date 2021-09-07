@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM029238.1 1 6941
+##description Avian nephritis virus 1 from China, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=336960
+HM029238.1	Rfam	regulatory_region	6716	6758	54.39	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=HM029238.1/6716-6758

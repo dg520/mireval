@@ -1,0 +1,4 @@
+##gff-version 3
+id_2.3257452.3259546.-.non_trans	fimo	nucleotide_motif	36	45	53.8	+	.	Name=Trl;ID=Trl-1;pvalue=4.12e-06;qvalue=0.000454;sequence=TTTCTCTCTC
+id_2.3257452.3259546.-.non_trans	fimo	nucleotide_motif	38	47	53.0	+	.	Name=Trl;ID=Trl-2;pvalue=5.03e-06;qvalue=0.000454;sequence=TCTCTCTCTC
+id_2.3257452.3259546.-.non_trans	fimo	nucleotide_motif	40	49	53.0	+	.	Name=Trl;ID=Trl-3;pvalue=5.03e-06;qvalue=0.000454;sequence=TCTCTCTCTC

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF020713.1 1 134416
+##description Bacteriophage SPBc2 complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=66797
+AF020713.1	Rfam	ncRNA	12627	12914	205.74	-	.	ID=RF01412.1;Name=RF01412;Alias=BsrG;Note=AF020713.1/12914-12627

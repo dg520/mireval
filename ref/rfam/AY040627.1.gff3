@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY040627.1 1 3215
+##description Hepatitis B virus genotype C, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10407
+AY040627.1	Rfam	regulatory_region	1847	1907	85.21	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=AY040627.1/1847-1907

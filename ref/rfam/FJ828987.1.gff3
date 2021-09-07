@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ828987.1 1 10633
+##description Chimeric Tick-borne encephalitis virus/Dengue virus 4 clone p70, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=638787
+FJ828987.1	Rfam	regulatory_region	102	143	50.19	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=FJ828987.1/102-143
+FJ828987.1	Rfam	regulatory_region	10392	10463	62.62	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=FJ828987.1/10392-10463
+FJ828987.1	Rfam	regulatory_region	10482	10523	40.12	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=FJ828987.1/10482-10523
+FJ828987.1	Rfam	regulatory_region	10541	10633	84.08	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=FJ828987.1/10541-10633

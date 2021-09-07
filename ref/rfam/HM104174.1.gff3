@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM104174.1 1 7168
+##description Enzootic nasal tumour virus of goats strain ENTV-SC, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=239365
+HM104174.1	Rfam	regulatory_region	1797	1848	75.46	+	.	ID=RF01097.1;Name=RF01097;Alias=RF_site8;Note=HM104174.1/1797-1848

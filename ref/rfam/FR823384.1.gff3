@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR823384.1 1 2317323
+##description Neospora caninum Liverpool complete genome, chromosome IV
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572307
+FR823384.1	Rfam	ncRNA	512737	512811	26.22	+	.	ID=RF00093.1;Name=RF00093;Alias=SNORD18;Note=FR823384.1/512737-512811
+FR823384.1	Rfam	ncRNA	962698	962779	55.79	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FR823384.1/962779-962698

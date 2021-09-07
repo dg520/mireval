@@ -1,0 +1,17 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X01762.1 1 9748
+##description Human T-cell leukaemia type III (HTLV-III) proviral genome (AIDS virus for acquired immune deficiency syndrome)
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11676
+X01762.1	Rfam	ncRNA	454	514	85.90	+	.	ID=RF00250.1;Name=RF00250;Alias=mir-TAR;Note=X01762.1/454-514
+X01762.1	Rfam	regulatory_region	579	677	125.36	+	.	ID=RF00375.1;Name=RF00375;Alias=HIV_PBS;Note=X01762.1/579-677
+X01762.1	Rfam	regulatory_region	691	730	60.39	+	.	ID=RF00175.1;Name=RF00175;Alias=HIV-1_DIS;Note=X01762.1/691-730
+X01762.1	Rfam	regulatory_region	733	751	34.46	+	.	ID=RF01380.1;Name=RF01380;Alias=HIV-1_SD;Note=X01762.1/733-751
+X01762.1	Rfam	regulatory_region	760	782	40.50	+	.	ID=RF01381.1;Name=RF01381;Alias=HIV-1_SL3;Note=X01762.1/760-782
+X01762.1	Rfam	regulatory_region	788	807	35.07	+	.	ID=RF01382.1;Name=RF01382;Alias=HIV-1_SL4;Note=X01762.1/788-807
+X01762.1	Rfam	regulatory_region	851	934	105.25	+	.	ID=RF00376.1;Name=RF00376;Alias=HIV_GSL3;Note=X01762.1/851-934
+X01762.1	Rfam	regulatory_region	2081	2132	77.73	+	.	ID=RF00480.1;Name=RF00480;Alias=HIV_FE;Note=X01762.1/2081-2132
+X01762.1	Rfam	regulatory_region	2498	2610	130.97	+	.	ID=RF01418.1;Name=RF01418;Alias=HIV_POL-1_SL;Note=X01762.1/2498-2610
+X01762.1	Rfam	regulatory_region	7748	8084	389.87	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=X01762.1/7748-8084
+X01762.1	Rfam	ncRNA	9568	9628	84.89	+	.	ID=RF00250.2;Name=RF00250;Alias=mir-TAR;Note=X01762.1/9568-9628
+X01762.1	Rfam	regulatory_region	9702	9746	45.22	+	.	ID=RF00375.2;Name=RF00375;Alias=HIV_PBS;Note=X01762.1/9702-9746

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ527854.1 1 12284
+##description Bovine viral diarrhea virus 2 strain XJ-04, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=54315
+FJ527854.1	Rfam	regulatory_region	116	393	278.20	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=FJ527854.1/116-393

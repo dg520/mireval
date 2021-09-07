@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AE014135.3 1 1351857
+##description Drosophila melanogaster chromosome 4, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7227
+AE014135.3	Rfam	ncRNA	997441	997542	107.68	+	.	ID=RF02046.1;Name=RF02046;Alias=Sphinx_1;Note=AE014135.3/997441-997542
+AE014135.3	Rfam	ncRNA	997560	997717	117.59	+	.	ID=RF02047.1;Name=RF02047;Alias=Sphinx_2;Note=AE014135.3/997560-997717

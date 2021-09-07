@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF323670.1 1 36949
+##description Bacteriophage bIL309, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=151537
+AF323670.1	Rfam	ncRNA	36732	36792	34.45	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AF323670.1/36732-36792

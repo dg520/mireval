@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302544.1 1 7433
+##description Human echovirus 19 strain Burke complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=47507
+AY302544.1	Rfam	regulatory_region	1	90	104.94	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302544.1/1-90
+AY302544.1	Rfam	regulatory_region	393	644	279.01	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302544.1/393-644
+AY302544.1	Rfam	regulatory_region	4396	4456	80.21	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302544.1/4396-4456
+AY302544.1	Rfam	regulatory_region	7313	7433	141.00	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302544.1/7313-7433

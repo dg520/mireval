@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU071096.1 1 179563
+##description Synechococcus phage S-ShM2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=445683
+GU071096.1	Rfam	ncRNA	164009	164081	67.27	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GU071096.1/164009-164081
+GU071096.1	Rfam	regulatory_region	167689	167782	68.19	+	.	ID=RF01717.1;Name=RF01717;Alias=PhotoRC-II;Note=GU071096.1/167689-167782

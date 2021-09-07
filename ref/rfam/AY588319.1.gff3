@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY588319.1 1 15146
+##description PRRSV LV4.2.1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=288959
+AY588319.1	Rfam	regulatory_region	7400	7471	100.80	+	.	ID=RF01076.1;Name=RF01076;Alias=RF_site2;Note=AY588319.1/7400-7471

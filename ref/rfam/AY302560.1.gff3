@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302560.1 1 7411
+##description Enterovirus 69 strain Toluca-1 complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=171720
+AY302560.1	Rfam	regulatory_region	1	90	108.93	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302560.1/1-90
+AY302560.1	Rfam	regulatory_region	395	646	283.33	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302560.1/395-646
+AY302560.1	Rfam	regulatory_region	4374	4434	77.88	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302560.1/4374-4434
+AY302560.1	Rfam	regulatory_region	7291	7411	144.96	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302560.1/7291-7411

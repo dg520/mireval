@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000627.1 1 497271
+##description Phaeodactylum tricornutum CCAP 1055/1 chromosome 25, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=556484
+CM000627.1	Rfam	ncRNA	60522	60603	57.95	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=ABQD01000077.1/60603-60522
+CM000627.1	Rfam	ncRNA	290117	290190	57.44	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=ABQD01000077.1/290190-290117

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN391441.1 1 74675
+##description Mycobacterium phage Elph10, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1070989
+JN391441.1	Rfam	ncRNA	61876	61955	28.35	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN391441.1/61876-61955
+JN391441.1	Rfam	ncRNA	61961	62032	62.43	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=JN391441.1/61961-62032

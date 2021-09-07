@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF166084.1 1 6791
+##description Tobacco rattle virus RNA1 134 kDa protein, 194 kDa protein, 29 kDa protein, and 16 kDa protein genes, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12295
+AF166084.1	Rfam	regulatory_region	6752	6791	64.37	+	.	ID=RF01101.1;Name=RF01101;Alias=TLS-PK6;Note=AF166084.1/6752-6791

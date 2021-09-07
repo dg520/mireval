@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY494848.1 1 3021
+##description Ross' goose hepatitis B virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=259931
+AY494848.1	Rfam	regulatory_region	2560	2616	70.20	+	.	ID=RF01313.1;Name=RF01313;Alias=AHBV_epsilon;Note=AY494848.1/2560-2616

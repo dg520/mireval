@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ373894.1 1 158006
+##description Shigella phage phiSboM-AG3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=637730
+FJ373894.1	Rfam	ncRNA	138197	138269	72.51	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FJ373894.1/138197-138269

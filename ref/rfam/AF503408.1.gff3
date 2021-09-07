@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF503408.1 1 101660
+##description Enterobacteria phage P7, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10682
+AF503408.1	Rfam	ncRNA	51051	51136	61.10	+	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=AF503408.1/51051-51136
+AF503408.1	Rfam	ncRNA	71657	71729	70.45	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AF503408.1/71657-71729
+AF503408.1	Rfam	ncRNA	71735	71807	70.99	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AF503408.1/71735-71807
+AF503408.1	Rfam	ncRNA	73315	73387	62.49	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AF503408.1/73315-73387

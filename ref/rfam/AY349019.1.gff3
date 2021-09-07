@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY349019.1 1 81755
+##description Neodiprion lecontei NPV, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=249151
+AY349019.1	Rfam	ncRNA	11456	11529	63.78	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AY349019.1/11529-11456

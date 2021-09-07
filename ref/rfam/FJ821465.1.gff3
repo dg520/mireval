@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ821465.1 1 9398
+##description Hepatitis C virus strain M21-2k/1b, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=679182
+FJ821465.1	Rfam	regulatory_region	53	297	238.74	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=FJ821465.1/53-297
+FJ821465.1	Rfam	regulatory_region	340	492	173.53	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=FJ821465.1/340-492
+FJ821465.1	Rfam	regulatory_region	9112	9177	71.24	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=FJ821465.1/9112-9177
+FJ821465.1	Rfam	regulatory_region	9247	9297	77.83	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=FJ821465.1/9247-9297
+FJ821465.1	Rfam	regulatory_region	9304	9340	59.25	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=FJ821465.1/9304-9340

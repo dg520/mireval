@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY374448.1 1 51601
+##description Bacteriophage phiKO2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=255431
+AY374448.1	Rfam	ncRNA	32536	32623	64.37	-	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=AY374448.1/32623-32536
+AY374448.1	Rfam	ncRNA	32649	32722	62.19	-	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=AY374448.1/32722-32649

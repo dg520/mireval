@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF230973.1 1 7456
+##description Enterovirus Yanbian 96-83csf, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=123738
+AF230973.1	Rfam	regulatory_region	2	91	103.96	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AF230973.1/2-91
+AF230973.1	Rfam	regulatory_region	399	650	289.18	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AF230973.1/399-650
+AF230973.1	Rfam	regulatory_region	4361	4421	68.12	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AF230973.1/4361-4421
+AF230973.1	Rfam	regulatory_region	7287	7406	137.79	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AF230973.1/7287-7406

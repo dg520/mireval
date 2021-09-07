@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF254924.1 1 6301
+##description Ribgrass mosaic virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=51680
+AF254924.1	Rfam	regulatory_region	5444	5594	162.62	+	.	ID=RF00225.1;Name=RF00225;Alias=IRES_Tobamo;Note=AF254924.1/5444-5594
+AF254924.1	Rfam	regulatory_region	6089	6119	46.20	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AF254924.1/6089-6119

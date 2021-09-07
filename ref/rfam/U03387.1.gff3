@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U03387.1 1 6311
+##description Turnip vein-clearing virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29272
+U03387.1	Rfam	regulatory_region	5455	5605	173.09	+	.	ID=RF00225.1;Name=RF00225;Alias=IRES_Tobamo;Note=U03387.1/5455-5605
+U03387.1	Rfam	regulatory_region	6100	6130	46.20	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=U03387.1/6100-6130

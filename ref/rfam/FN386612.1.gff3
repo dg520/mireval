@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN386612.1 1 5835
+##description Beet soil-borne virus segment RNA-1, complete sequence, clone pUBS-1-wt, genomic RNA,
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=46436
+FN386612.1	Rfam	regulatory_region	5659	5689	38.94	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=FN386612.1/5659-5689
+FN386612.1	Rfam	regulatory_region	5750	5835	58.97	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=FN386612.1/5750-5835

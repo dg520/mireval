@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region J04342.1 1 3768
+##description Barley stripe mosaic virus alpha RNA, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12327
+J04342.1	Rfam	regulatory_region	3582	3612	33.59	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=J04342.1/3582-3612
+J04342.1	Rfam	regulatory_region	3673	3768	116.71	+	.	ID=RF01075.1;Name=RF01075;Alias=TLS-PK1;Note=J04342.1/3673-3768

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY726732.1 1 11881
+##description Chikungunya virus strain 37997, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37124
+AY726732.1	Rfam	regulatory_region	30	292	153.35	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=AY726732.1/30-292

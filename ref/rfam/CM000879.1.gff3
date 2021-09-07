@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000879.1 1 2853901
+##description Callithrix jacchus chromosome Y, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9483
+CM000879.1	Rfam	ncRNA	616341	616415	87.27	-	.	ID=RF00996.1;Name=RF00996;Alias=mir-631;Note=ACFV01125993.1/14058-14132
+CM000879.1	Rfam	ncRNA	875313	875406	46.34	+	.	ID=RF00004.1;Name=RF00004;Alias=U2;Note=ACFV01125970.1/278-185
+CM000879.1	Rfam	ncRNA	1588665	1588960	145.66	+	.	ID=RF00017.1;Name=RF00017;Alias=Metazoa_SRP;Note=ACFV01125920.1/17840-17545
+CM000879.1	Rfam	ncRNA	1642703	1642806	85.12	+	.	ID=RF00026.1;Name=RF00026;Alias=U6;Note=ACFV01125919.1/6827-6724
+CM000879.1	Rfam	ncRNA	1843527	1843631	45.15	-	.	ID=RF00100.1;Name=RF00100;Alias=7SK;Note=ACFV01125901.1/41872-41976

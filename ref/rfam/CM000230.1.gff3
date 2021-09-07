@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000230.1 1 3994966
+##description Magnaporthe grisea 70-15 chromosome 7, complete sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=242507
+CM000230.1	Rfam	ncRNA	1681531	1681650	84.45	+	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=AF267176.1/18092-18211

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF052723.1 1 8448
+##description Feline leukemia virus strain Rickard subgroup A, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11768
+AF052723.1	Rfam	regulatory_region	589	679	50.93	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=AF052723.1/589-679
+AF052723.1	Rfam	regulatory_region	2425	2486	80.83	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=AF052723.1/2425-2486

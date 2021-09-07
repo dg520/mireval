@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY884001.1 1 29815
+##description Human coronavirus HKU1 genotype B, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=290028
+AY884001.1	Rfam	regulatory_region	13505	13589	81.72	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY884001.1/13505-13589
+AY884001.1	Rfam	regulatory_region	20167	20295	128.07	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=AY884001.1/20167-20295
+AY884001.1	Rfam	regulatory_region	29593	29653	44.55	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=AY884001.1/29593-29653

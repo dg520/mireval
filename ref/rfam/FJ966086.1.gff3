@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ966086.1 1 838
+##description Influenza A virus (A/California/04/2009(H1N1)) segment 8 nuclear export protein (NEP) and nonstructural protein 1 (NS1) genes, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=641501
+FJ966086.1	Rfam	regulatory_region	497	544	71.51	+	.	ID=RF01099.1;Name=RF01099;Alias=PK-IAV;Note=FJ966086.1/497-544

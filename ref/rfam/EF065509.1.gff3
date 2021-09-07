@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF065509.1 1 30482
+##description Bat coronavirus HKU5-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=424363
+EF065509.1	Rfam	regulatory_region	13686	13770	72.38	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EF065509.1/13686-13770

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF162221.1 1 178733
+##description Xestia c-nigrum granulovirus genome, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=51677
+AF162221.1	Rfam	ncRNA	60066	60137	61.32	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AF162221.1/60137-60066

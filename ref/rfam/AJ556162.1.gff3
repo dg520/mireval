@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ556162.1 1 57930
+##description Phage BP-4795 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=196242
+AJ556162.1	Rfam	regulatory_region	6699	6757	85.65	-	.	ID=RF01804.1;Name=RF01804;Alias=Lambda_thermo;Note=AJ556162.1/6757-6699
+AJ556162.1	Rfam	ncRNA	20650	20863	193.20	+	.	ID=RF02076.1;Name=RF02076;Alias=STnc100;Note=AJ556162.1/20650-20863
+AJ556162.1	Rfam	regulatory_region	49785	49901	110.99	+	.	ID=RF01497.1;Name=RF01497;Alias=ALIL;Note=AJ556162.1/49785-49901
+AJ556162.1	Rfam	regulatory_region	52625	52741	110.31	+	.	ID=RF01497.2;Name=RF01497;Alias=ALIL;Note=AJ556162.1/52625-52741

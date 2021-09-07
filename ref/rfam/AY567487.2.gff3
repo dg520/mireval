@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY567487.2 1 27553
+##description Human Coronavirus NL63, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=277944
+AY567487.2	Rfam	regulatory_region	12440	12518	70.58	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY567487.2/12440-12518
+AY567487.2	Rfam	regulatory_region	27340	27401	54.90	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=AY567487.2/27340-27401

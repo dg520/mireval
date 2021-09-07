@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU140838.1 1 7425
+##description Simian hepatitis A virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12101
+EU140838.1	Rfam	regulatory_region	108	678	584.66	+	.	ID=RF00228.1;Name=RF00228;Alias=IRES_HepA;Note=EU140838.1/108-678
+EU140838.1	Rfam	regulatory_region	7368	7415	32.96	+	.	ID=RF01096.1;Name=RF01096;Alias=PK-HAV;Note=EU140838.1/7368-7415

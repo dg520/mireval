@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000460.1 1 204112
+##description Drosophila melanogaster XHet genomic scaffold, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7227
+CM000460.1	Rfam	regulatory_region	175378	175561	84.48	+	.	ID=RF00524.1;Name=RF00524;Alias=R2_retro_el;Note=CP000208.2/175378-175561
+CM000460.1	Rfam	regulatory_region	176871	176954	47.47	-	.	ID=RF00524.2;Name=RF00524;Alias=R2_retro_el;Note=CP000208.2/176954-176871
+CM000460.1	Rfam	ncRNA	184076	184254	93.40	+	.	ID=RF00002.1;Name=RF00002;Alias=5_8S_rRNA;Note=CP000208.2/184076-184254
+CM000460.1	Rfam	ncRNA	190119	191984	996.07	+	.	ID=RF01960.1;Name=RF01960;Alias=SSU_rRNA_eukarya;Note=CP000208.2/190119-191984
+CM000460.1	Rfam	ncRNA	192707	192885	94.65	+	.	ID=RF00002.2;Name=RF00002;Alias=5_8S_rRNA;Note=CP000208.2/192707-192885
+CM000460.1	Rfam	regulatory_region	202259	202495	209.15	+	.	ID=RF00524.3;Name=RF00524;Alias=R2_retro_el;Note=CP000208.2/202259-202495

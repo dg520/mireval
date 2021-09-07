@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ938066.1 1 30953
+##description Bovine respiratory coronavirus bovine/US/OH-440-TC/1996, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502105
+FJ938066.1	Rfam	regulatory_region	40	81	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=FJ938066.1/40-81
+FJ938066.1	Rfam	regulatory_region	13297	13381	80.65	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ938066.1/13297-13381
+FJ938066.1	Rfam	regulatory_region	19959	20087	151.15	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ938066.1/19959-20087
+FJ938066.1	Rfam	regulatory_region	30740	30801	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ938066.1/30740-30801

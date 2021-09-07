@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ938063.1 1 31024
+##description Bovine coronavirus E-DB2-TC, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=422216
+FJ938063.1	Rfam	regulatory_region	69	110	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=FJ938063.1/69-110
+FJ938063.1	Rfam	regulatory_region	13326	13410	80.09	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ938063.1/13326-13410
+FJ938063.1	Rfam	regulatory_region	19988	20116	151.15	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ938063.1/19988-20116
+FJ938063.1	Rfam	regulatory_region	30782	30843	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ938063.1/30782-30843

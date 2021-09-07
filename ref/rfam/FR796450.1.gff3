@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR796450.1 1 720194
+##description Leishmania infantum JPCM5 genome chromosome 18
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=435258
+FR796450.1	Rfam	ncRNA	176529	176595	78.72	-	.	ID=RF01862.1;Name=RF01862;Alias=TB10Cs4H2;Note=FR796450.1/176595-176529
+FR796450.1	Rfam	ncRNA	177494	177560	78.72	-	.	ID=RF01862.2;Name=RF01862;Alias=TB10Cs4H2;Note=FR796450.1/177560-177494
+FR796450.1	Rfam	ncRNA	300701	300767	78.72	+	.	ID=RF01862.3;Name=RF01862;Alias=TB10Cs4H2;Note=FR796450.1/300701-300767

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ755404.1 1 6771
+##description Human astrovirus 1 Beijing/291/2007/CHN, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=626180
+FJ755404.1	Rfam	regulatory_region	2807	2861	80.99	+	.	ID=RF01833.1;Name=RF01833;Alias=astro_FSE;Note=FJ755404.1/2807-2861
+FJ755404.1	Rfam	regulatory_region	6668	6710	61.03	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ755404.1/6668-6710

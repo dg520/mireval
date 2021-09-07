@@ -1,0 +1,4 @@
+#pattern name	sequence name	start	stop	strand	score	p-value	q-value	matched sequence
+Trl	id_2.3257452.3259546.-.non_trans	36	45	+	12.7439	4.12e-06	0.000454	TTTCTCTCTC
+Trl	id_2.3257452.3259546.-.non_trans	38	47	+	12.5976	5.03e-06	0.000454	TCTCTCTCTC
+Trl	id_2.3257452.3259546.-.non_trans	40	49	+	12.5976	5.03e-06	0.000454	TCTCTCTCTC

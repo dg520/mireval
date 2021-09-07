@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M33854.1 1 7399
+##description Coxsackievirus B3 (CVB3) complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12072
+M33854.1	Rfam	regulatory_region	1	89	97.14	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=M33854.1/1-89
+M33854.1	Rfam	regulatory_region	392	643	288.66	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=M33854.1/392-643
+M33854.1	Rfam	regulatory_region	4362	4422	79.85	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=M33854.1/4362-4422
+M33854.1	Rfam	regulatory_region	7279	7399	139.51	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=M33854.1/7279-7399

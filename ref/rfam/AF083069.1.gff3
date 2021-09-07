@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF083069.1 1 7433
+##description Echovirus 5, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=40280
+AF083069.1	Rfam	regulatory_region	1	90	103.18	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AF083069.1/1-90
+AF083069.1	Rfam	regulatory_region	394	644	269.77	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AF083069.1/394-644
+AF083069.1	Rfam	regulatory_region	4396	4456	78.65	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AF083069.1/4396-4456
+AF083069.1	Rfam	regulatory_region	7313	7433	143.27	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AF083069.1/7313-7433

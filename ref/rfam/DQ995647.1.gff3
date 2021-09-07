@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ995647.1 1 7401
+##description Human coxsackievirus A22 strain ban99-10427, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42783
+DQ995647.1	Rfam	regulatory_region	1	91	99.28	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=DQ995647.1/1-91
+DQ995647.1	Rfam	regulatory_region	390	640	283.92	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=DQ995647.1/390-640
+DQ995647.1	Rfam	regulatory_region	4400	4460	62.53	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=DQ995647.1/4400-4460

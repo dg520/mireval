@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY453412.1 1 11064
+##description Usutu virus strain SAAR-1776 from South Africa, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64286
+AY453412.1	Rfam	regulatory_region	97	144	53.73	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=AY453412.1/97-144
+AY453412.1	Rfam	regulatory_region	3564	3625	88.01	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=AY453412.1/3564-3625
+AY453412.1	Rfam	regulatory_region	10541	10599	61.95	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=AY453412.1/10541-10599
+AY453412.1	Rfam	regulatory_region	10700	10767	61.26	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=AY453412.1/10700-10767
+AY453412.1	Rfam	regulatory_region	10788	10863	61.87	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=AY453412.1/10788-10863
+AY453412.1	Rfam	regulatory_region	10867	10939	76.16	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=AY453412.1/10867-10939
+AY453412.1	Rfam	regulatory_region	10964	11064	69.89	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=AY453412.1/10964-11064

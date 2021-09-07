@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY843307.1 1 7413
+##description Human enterovirus 97 strain BAN99-10355, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=325446
+AY843307.1	Rfam	regulatory_region	1	90	105.70	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY843307.1/1-90
+AY843307.1	Rfam	regulatory_region	393	644	296.09	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY843307.1/393-644
+AY843307.1	Rfam	regulatory_region	4375	4435	76.49	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY843307.1/4375-4435
+AY843307.1	Rfam	regulatory_region	7292	7413	134.39	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY843307.1/7292-7413

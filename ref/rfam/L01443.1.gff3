@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L01443.1 1 11446
+##description Venezuelan equine encephalitis virus strain TC-83, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11036
+L01443.1	Rfam	regulatory_region	1	259	274.68	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=L01443.1/1-259
+L01443.1	Rfam	regulatory_region	9952	10022	93.78	+	.	ID=RF01841.1;Name=RF01841;Alias=veev_FSE;Note=L01443.1/9952-10022

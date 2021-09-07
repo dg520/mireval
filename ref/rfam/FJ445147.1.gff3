@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ445147.1 1 7162
+##description Human rhinovirus 65 strain ATCC VR-1175, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=44135
+FJ445147.1	Rfam	regulatory_region	1	88	63.31	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=FJ445147.1/1-88
+FJ445147.1	Rfam	regulatory_region	409	626	154.35	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=FJ445147.1/409-626

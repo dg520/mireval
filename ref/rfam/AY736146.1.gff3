@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY736146.1 1 46900
+##description Salmonella typhimurium bacteriophage ES18, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=101570
+AY736146.1	Rfam	ncRNA	24250	24439	35.12	-	.	ID=RF02076.1;Name=RF02076;Alias=STnc100;Note=AY736146.1/24439-24250
+AY736146.1	Rfam	regulatory_region	34346	34404	76.18	-	.	ID=RF01804.1;Name=RF01804;Alias=Lambda_thermo;Note=AY736146.1/34404-34346

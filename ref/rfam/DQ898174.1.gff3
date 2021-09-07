@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ898174.1 1 29751
+##description SARS coronavirus strain CV7, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=227859
+DQ898174.1	Rfam	regulatory_region	13399	13480	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=DQ898174.1/13399-13480
+DQ898174.1	Rfam	regulatory_region	29584	29626	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=DQ898174.1/29584-29626

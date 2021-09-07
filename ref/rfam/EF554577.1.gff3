@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF554577.1 1 6223
+##description Okra mosaic virus isolate PV-0264, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=70822
+EF554577.1	Rfam	regulatory_region	6141	6223	88.01	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=EF554577.1/6141-6223

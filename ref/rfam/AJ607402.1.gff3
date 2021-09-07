@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ607402.1 1 4744
+##description Pelargonium necrotic spot virus complete genome, genomic RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=255587
+AJ607402.1	Rfam	regulatory_region	2	145	125.08	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=AJ607402.1/2-145
+AJ607402.1	Rfam	regulatory_region	1372	1465	110.03	+	.	ID=RF00510.1;Name=RF00510;Alias=Tombus_IRE;Note=AJ607402.1/1372-1465
+AJ607402.1	Rfam	regulatory_region	4365	4443	47.89	+	.	ID=RF00215.1;Name=RF00215;Alias=Tombus_3_III;Note=AJ607402.1/4365-4443
+AJ607402.1	Rfam	regulatory_region	4652	4744	99.07	+	.	ID=RF00176.1;Name=RF00176;Alias=Tombus_3_IV;Note=AJ607402.1/4652-4744

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X03700.1 1 10862
+##description Yellow fever virus complete genome, 17D vaccine strain
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11089
+X03700.1	Rfam	regulatory_region	10762	10860	63.46	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=X03700.1/10762-10860

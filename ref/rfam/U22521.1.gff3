@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U22521.1 1 7408
+##description Human enterovirus 71 polyprotein gene, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39054
+U22521.1	Rfam	regulatory_region	1	90	87.52	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=U22521.1/1-90
+U22521.1	Rfam	regulatory_region	394	645	287.14	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=U22521.1/394-645
+U22521.1	Rfam	regulatory_region	4397	4457	75.91	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=U22521.1/4397-4457

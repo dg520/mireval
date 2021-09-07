@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302557.1 1 7394
+##description Human echovirus 4 strain Pesacek complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=35295
+AY302557.1	Rfam	regulatory_region	1	90	106.01	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302557.1/1-90
+AY302557.1	Rfam	regulatory_region	393	644	291.10	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302557.1/393-644
+AY302557.1	Rfam	regulatory_region	4357	4417	78.39	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302557.1/4357-4417
+AY302557.1	Rfam	regulatory_region	7274	7394	144.52	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302557.1/7274-7394

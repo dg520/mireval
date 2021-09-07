@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X85215.3 1 4763
+##description Carnation Italian ringspot virus genomic sequence for ORF1-5
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39443
+X85215.3	Rfam	regulatory_region	2	146	124.66	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=X85215.3/2-146
+X85215.3	Rfam	regulatory_region	1373	1466	107.05	+	.	ID=RF00510.1;Name=RF00510;Alias=Tombus_IRE;Note=X85215.3/1373-1466
+X85215.3	Rfam	regulatory_region	4385	4454	87.05	+	.	ID=RF00215.1;Name=RF00215;Alias=Tombus_3_III;Note=X85215.3/4385-4454
+X85215.3	Rfam	regulatory_region	4673	4763	107.56	+	.	ID=RF00176.1;Name=RF00176;Alias=Tombus_3_IV;Note=X85215.3/4673-4763

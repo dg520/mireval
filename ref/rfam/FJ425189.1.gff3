@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ425189.1 1 30997
+##description Sambar deer coronavirus US/OH-WD388/1994, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=422132
+FJ425189.1	Rfam	regulatory_region	55	96	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=FJ425189.1/55-96
+FJ425189.1	Rfam	regulatory_region	13312	13396	80.09	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ425189.1/13312-13396
+FJ425189.1	Rfam	regulatory_region	19974	20102	151.15	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ425189.1/19974-20102
+FJ425189.1	Rfam	regulatory_region	30768	30829	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ425189.1/30768-30829

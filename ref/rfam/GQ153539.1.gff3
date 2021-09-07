@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ153539.1 1 29704
+##description Bat SARS coronavirus HKU3-4, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=742001
+GQ153539.1	Rfam	regulatory_region	13378	13459	73.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=GQ153539.1/13378-13459
+GQ153539.1	Rfam	regulatory_region	29561	29603	62.05	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=GQ153539.1/29561-29603

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU330206.1 1 77554
+##description Enterobacteria phage phiEco32, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=490103
+EU330206.1	Rfam	ncRNA	66354	66427	64.83	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=EU330206.1/66427-66354

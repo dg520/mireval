@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001943.1 1 175776
+##description Encephalitozoon intestinalis ATCC 50506 chromosome II, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876142
+CP001943.1	Rfam	ncRNA	50967	51048	55.16	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001943.1/51048-50967
+CP001943.1	Rfam	ncRNA	92384	92455	58.76	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=CP001943.1/92384-92455
+CP001943.1	Rfam	ncRNA	105688	105758	54.48	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=CP001943.1/105758-105688
+CP001943.1	Rfam	ncRNA	167214	167295	52.16	+	.	ID=RF00005.4;Name=RF00005;Alias=tRNA;Note=CP001943.1/167214-167295

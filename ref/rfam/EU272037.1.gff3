@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU272037.1 1 36885
+##description Pseudomonas phage MP38, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=505292
+EU272037.1	Rfam	ncRNA	9447	9518	54.98	+	.	ID=RF02276.1;Name=RF02276;Alias=Hammerhead_II;Note=EU272037.1/9447-9518

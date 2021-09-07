@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF033814.1 1 3811
+##description Murine osteosarcoma virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11830
+AF033814.1	Rfam	regulatory_region	293	392	100.32	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=AF033814.1/293-392

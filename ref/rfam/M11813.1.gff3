@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M11813.1 1 19366
+##description Bacteriophage PZA (from B.subtilis), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10757
+M11813.1	Rfam	ncRNA	4883	5126	316.05	+	.	ID=RF00044.1;Name=RF00044;Alias=Phage_pRNA;Note=M11813.1/4883-5126

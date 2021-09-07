@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region J01998.1 1 8374
+##description AKV murine leukemia virus, complete proviral genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11791
+J01998.1	Rfam	regulatory_region	295	394	100.75	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=J01998.1/295-394
+J01998.1	Rfam	regulatory_region	2250	2311	78.01	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=J01998.1/2250-2311

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN134185.1 1 7931
+##description Simian endogenous retrovirus vero ATCC CCL-81 isolate SRVcae, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1051323
+JN134185.1	Rfam	regulatory_region	110	392	231.98	+	.	ID=RF00459.1;Name=RF00459;Alias=MPMV_package;Note=JN134185.1/110-392
+JN134185.1	Rfam	regulatory_region	2083	2134	71.44	+	.	ID=RF01097.1;Name=RF01097;Alias=RF_site8;Note=JN134185.1/2083-2134

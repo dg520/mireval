@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP002015.1 1 1282816
+##description Burkholderia sp. CCGE1002 chromosome 3, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=640511
+CP002015.1	Rfam	ncRNA	118545	118617	67.23	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP002015.1/118617-118545
+CP002015.1	Rfam	ncRNA	1275198	1275270	69.18	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=CP002015.1/1275198-1275270

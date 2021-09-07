@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF274010.1 1 8115
+##description Foot-and-mouth disease virus C strain C-S8 clone MARLS, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12116
+AF274010.1	Rfam	regulatory_region	577	1037	532.73	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AF274010.1/577-1037

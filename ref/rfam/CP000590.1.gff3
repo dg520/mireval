@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000590.1 1 613585
+##description Ostreococcus lucimarinus CCE9901 chromosome 10, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=436017
+CP000590.1	Rfam	ncRNA	67522	67608	66.61	-	.	ID=RF00345.1;Name=RF00345;Alias=snoR1;Note=CP000590.1/67608-67522
+CP000590.1	Rfam	ncRNA	554102	554248	36.65	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP000590.1/554248-554102

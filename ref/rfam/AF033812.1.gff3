@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF033812.1 1 5894
+##description Abelson murine leukemia virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11788
+AF033812.1	Rfam	regulatory_region	276	376	113.00	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=AF033812.1/276-376

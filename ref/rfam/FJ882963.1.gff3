@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ882963.1 1 29682
+##description SARS coronavirus P2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=627442
+FJ882963.1	Rfam	regulatory_region	13380	13461	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ882963.1/13380-13461
+FJ882963.1	Rfam	regulatory_region	29565	29607	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ882963.1/29565-29607

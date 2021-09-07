@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB236320.1 1 7236
+##description Hepatitis E virus genomic RNA, complete genome, isolate: JMNG-Oki02C.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12461
+AB236320.1	Rfam	regulatory_region	5081	5227	143.99	+	.	ID=RF00550.1;Name=RF00550;Alias=HepE_CRE;Note=AB236320.1/5081-5227

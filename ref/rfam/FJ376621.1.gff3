@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ376621.1 1 26396
+##description Thrush coronavirus HKU12-600, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572290
+FJ376621.1	Rfam	regulatory_region	26173	26215	63.92	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ376621.1/26173-26215

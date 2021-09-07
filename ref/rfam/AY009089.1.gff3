@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY009089.1 1 202205
+##description Camelpox virus CMS, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203172
+AY009089.1	Rfam	regulatory_region	135214	135275	88.10	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=AY009089.1/135275-135214

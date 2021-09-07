@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X87939.1 1 12298
+##description Classical swine fever virus, strain Alfort/187 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=358769
+X87939.1	Rfam	regulatory_region	108	381	318.24	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=X87939.1/108-381

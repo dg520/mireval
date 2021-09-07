@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM404308.1 1 10979
+##description West Nile virus strain PTRoxo complete genome, genomic RNA, strain PTRoxo
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=406269
+AM404308.1	Rfam	regulatory_region	72	119	49.80	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=AM404308.1/72-119
+AM404308.1	Rfam	regulatory_region	3533	3594	81.94	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=AM404308.1/3533-3594
+AM404308.1	Rfam	regulatory_region	10476	10535	57.85	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=AM404308.1/10476-10535
+AM404308.1	Rfam	regulatory_region	10636	10710	91.44	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=AM404308.1/10636-10710
+AM404308.1	Rfam	regulatory_region	10735	10807	78.39	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=AM404308.1/10735-10807
+AM404308.1	Rfam	regulatory_region	10812	10881	71.94	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=AM404308.1/10812-10881

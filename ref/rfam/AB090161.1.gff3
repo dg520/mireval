@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB090161.1 1 8021
+##description Theiler's-like virus of rats NGS910 genomic RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=204729
+AB090161.1	Rfam	regulatory_region	517	978	114.63	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AB090161.1/517-978
+AB090161.1	Rfam	regulatory_region	1485	1517	47.63	+	.	ID=RF00453.1;Name=RF00453;Alias=Cardiovirus_CRE;Note=AB090161.1/1485-1517

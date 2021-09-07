@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ316246.1 1 11900
+##description Sleeping disease virus complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=78540
+AJ316246.1	Rfam	regulatory_region	10372	10400	47.79	+	.	ID=RF01837.1;Name=RF01837;Alias=toga_FSE;Note=AJ316246.1/10372-10400

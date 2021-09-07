@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY438626.1 1 10787
+##description Omsk hemorrhagic fever virus strain Kubrin, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12542
+AY438626.1	Rfam	regulatory_region	10686	10787	46.54	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=AY438626.1/10686-10787

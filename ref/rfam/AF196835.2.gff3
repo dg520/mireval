@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF196835.2 1 11029
+##description West Nile virus strain NY99-flamingo382-99, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11082
+AF196835.2	Rfam	regulatory_region	97	144	49.80	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=AF196835.2/97-144
+AF196835.2	Rfam	regulatory_region	3558	3619	81.94	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=AF196835.2/3558-3619
+AF196835.2	Rfam	regulatory_region	10501	10560	55.71	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=AF196835.2/10501-10560
+AF196835.2	Rfam	regulatory_region	10661	10735	87.72	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=AF196835.2/10661-10735
+AF196835.2	Rfam	regulatory_region	10760	10832	73.97	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=AF196835.2/10760-10832
+AF196835.2	Rfam	regulatory_region	10837	10906	71.94	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=AF196835.2/10837-10906
+AF196835.2	Rfam	regulatory_region	10936	11029	70.88	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=AF196835.2/10936-11029

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ697969.1 1 211215
+##description Pseudomonas phage phiEL complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=273133
+AJ697969.1	Rfam	ncRNA	102946	103018	66.45	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AJ697969.1/102946-103018

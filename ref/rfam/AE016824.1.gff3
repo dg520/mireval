@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AE016824.1 1 350181
+##description Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130, chromosome II, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=267671
+AE016824.1	Rfam	regulatory_region	159079	159263	80.82	-	.	ID=RF00174.1;Name=RF00174;Alias=Cobalamin;Note=AE016824.1/159263-159079

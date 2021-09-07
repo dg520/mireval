@@ -1,0 +1,18 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000458.1 1 2555491
+##description Drosophila melanogaster 3LHet genomic scaffold, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7227
+CM000458.1	Rfam	regulatory_region	502785	502870	54.42	+	.	ID=RF00524.1;Name=RF00524;Alias=R2_retro_el;Note=CP000225.2/351334-351419
+CM000458.1	Rfam	regulatory_region	951195	951285	53.72	-	.	ID=RF00524.2;Name=RF00524;Alias=R2_retro_el;Note=CP000225.2/799834-799744
+CM000458.1	Rfam	regulatory_region	998167	998252	52.35	-	.	ID=RF00524.3;Name=RF00524;Alias=R2_retro_el;Note=CP000224.2/22834-22749
+CM000458.1	Rfam	regulatory_region	1041491	1041578	47.47	-	.	ID=RF00524.4;Name=RF00524;Alias=R2_retro_el;Note=CP000224.2/66160-66073
+CM000458.1	Rfam	regulatory_region	1447143	1447231	45.06	-	.	ID=RF00524.5;Name=RF00524;Alias=R2_retro_el;Note=CP000224.2/471813-471725
+CM000458.1	Rfam	regulatory_region	1455776	1455864	45.06	-	.	ID=RF00524.6;Name=RF00524;Alias=R2_retro_el;Note=CP000224.2/480446-480358
+CM000458.1	Rfam	regulatory_region	1483512	1483600	45.06	-	.	ID=RF00524.7;Name=RF00524;Alias=R2_retro_el;Note=CP000224.2/508182-508094
+CM000458.1	Rfam	regulatory_region	1492114	1492202	45.06	-	.	ID=RF00524.8;Name=RF00524;Alias=R2_retro_el;Note=CP000224.2/516784-516696
+CM000458.1	Rfam	regulatory_region	1881354	1881444	54.97	+	.	ID=RF00524.9;Name=RF00524;Alias=R2_retro_el;Note=CP000210.2/145396-145486
+CM000458.1	Rfam	regulatory_region	1883782	1883872	54.03	+	.	ID=RF00524.10;Name=RF00524;Alias=R2_retro_el;Note=CP000210.2/147824-147914
+CM000458.1	Rfam	regulatory_region	1887965	1888055	49.89	+	.	ID=RF00524.11;Name=RF00524;Alias=R2_retro_el;Note=CP000210.2/152007-152097
+CM000458.1	Rfam	regulatory_region	2092983	2093068	48.43	-	.	ID=RF00524.12;Name=RF00524;Alias=R2_retro_el;Note=CP000210.2/357110-357025
+CM000458.1	Rfam	ncRNA	2397919	2397986	64.71	+	.	ID=RF00533.1;Name=RF00533;Alias=snoMe18S-Gm1358;Note=CP000192.2/217551-217618

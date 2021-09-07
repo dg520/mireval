@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY702913.1 1 11597
+##description Getah virus from South Korea, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=59300
+AY702913.1	Rfam	regulatory_region	37	290	175.33	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=AY702913.1/37-290

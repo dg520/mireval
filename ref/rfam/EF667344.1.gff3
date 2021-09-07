@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF667344.1 1 7379
+##description Human enterovirus 92 strain RJG7, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=469959
+EF667344.1	Rfam	regulatory_region	2	91	97.94	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=EF667344.1/2-91
+EF667344.1	Rfam	regulatory_region	392	642	251.49	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=EF667344.1/392-642
+EF667344.1	Rfam	regulatory_region	4353	4413	69.69	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=EF667344.1/4353-4413

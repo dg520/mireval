@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ003637.1 1 38867
+##description Listeria phage A500, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=40522
+DQ003637.1	Rfam	regulatory_region	21130	21301	216.02	+	.	ID=RF01486.1;Name=RF01486;Alias=rli62;Note=DQ003637.1/21130-21301
+DQ003637.1	Rfam	ncRNA	22244	22327	64.13	-	.	ID=RF01466.1;Name=RF01466;Alias=rli34;Note=DQ003637.1/22327-22244

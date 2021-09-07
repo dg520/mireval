@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY458656.1 1 36015
+##description Human adenovirus type 4 strain CL68578, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28280
+AY458656.1	Rfam	ncRNA	10367	10526	129.07	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AY458656.1/10367-10526
+AY458656.1	Rfam	ncRNA	10585	10752	97.38	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=AY458656.1/10585-10752

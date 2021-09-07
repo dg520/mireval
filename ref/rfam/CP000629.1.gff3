@@ -1,0 +1,17 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000629.1 1 2650913
+##description Agrobacterium radiobacter K84 chromosome 2, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=311403
+CP000629.1	Rfam	ncRNA	2356	2401	62.54	-	.	ID=RF00489.1;Name=RF00489;Alias=ctRNA_p42d;Note=CP000629.1/2401-2356
+CP000629.1	Rfam	regulatory_region	2442	2509	78.06	+	.	ID=RF00490.1;Name=RF00490;Alias=S-element;Note=CP000629.1/2442-2509
+CP000629.1	Rfam	regulatory_region	356935	357066	68.18	-	.	ID=RF00059.1;Name=RF00059;Alias=TPP;Note=CP000629.1/357066-356935
+CP000629.1	Rfam	autocatalytically_spliced_intron	788592	788662	64.75	-	.	ID=RF00029.1;Name=RF00029;Alias=Intron_gpII;Note=CP000629.1/788662-788592
+CP000629.1	Rfam	ncRNA	1011504	1011581	32.86	-	.	ID=RF00519.1;Name=RF00519;Alias=suhB;Note=CP000629.1/1011581-1011504
+CP000629.1	Rfam	regulatory_region	1100500	1100727	120.10	-	.	ID=RF00174.1;Name=RF00174;Alias=Cobalamin;Note=CP000629.1/1100727-1100500
+CP000629.1	Rfam	regulatory_region	1570944	1571179	119.11	+	.	ID=RF00174.2;Name=RF00174;Alias=Cobalamin;Note=CP000629.1/1570944-1571179
+CP000629.1	Rfam	autocatalytically_spliced_intron	1749142	1749258	108.74	+	.	ID=RF01999.1;Name=RF01999;Alias=group-II-D1D4-2;Note=CP000629.1/1749142-1749258
+CP000629.1	Rfam	regulatory_region	1921879	1921974	56.82	+	.	ID=RF00059.2;Name=RF00059;Alias=TPP;Note=CP000629.1/1921879-1921974
+CP000629.1	Rfam	autocatalytically_spliced_intron	2567406	2567476	64.75	+	.	ID=RF00029.2;Name=RF00029;Alias=Intron_gpII;Note=CP000629.1/2567406-2567476
+CP000629.1	Rfam	regulatory_region	2633328	2633438	79.09	+	.	ID=RF00442.1;Name=RF00442;Alias=ykkC-yxkD;Note=CP000629.1/2633328-2633438
+CP000629.1	Rfam	regulatory_region	2636221	2636270	33.67	+	.	ID=RF01068.1;Name=RF01068;Alias=mini-ykkC;Note=CP000629.1/2636221-2636270

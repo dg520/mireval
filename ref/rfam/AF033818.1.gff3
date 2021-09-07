@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF033818.1 1 8419
+##description Bovine leukemia virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11901
+AF033818.1	Rfam	regulatory_region	418	472	83.07	+	.	ID=RF00192.1;Name=RF00192;Alias=BLV_package;Note=AF033818.1/418-472
+AF033818.1	Rfam	regulatory_region	1604	1630	41.74	+	.	ID=RF01785.1;Name=RF01785;Alias=blv_FSE;Note=AF033818.1/1604-1630

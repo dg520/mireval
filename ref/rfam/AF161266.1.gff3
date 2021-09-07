@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF161266.1 1 11014
+##description Murray Valley encephalitis virus strain MVE-1-51, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11079
+AF161266.1	Rfam	regulatory_region	96	143	48.86	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=AF161266.1/96-143
+AF161266.1	Rfam	regulatory_region	3563	3624	85.91	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=AF161266.1/3563-3624
+AF161266.1	Rfam	regulatory_region	10490	10550	50.44	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=AF161266.1/10490-10550
+AF161266.1	Rfam	regulatory_region	10652	10720	57.90	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=AF161266.1/10652-10720
+AF161266.1	Rfam	regulatory_region	10741	10814	45.97	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=AF161266.1/10741-10814
+AF161266.1	Rfam	regulatory_region	10818	10888	72.83	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=AF161266.1/10818-10888
+AF161266.1	Rfam	regulatory_region	10915	11014	69.74	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=AF161266.1/10915-11014

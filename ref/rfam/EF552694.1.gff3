@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF552694.1 1 8194
+##description Foot-and-mouth disease virus O/UKG/4998/2001, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=461293
+EF552694.1	Rfam	regulatory_region	630	1091	524.48	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=EF552694.1/630-1091

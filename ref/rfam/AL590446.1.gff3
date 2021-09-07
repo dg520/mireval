@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AL590446.1 1 220294
+##description chromosome VI of strain GB-M1 of Encephalitozoon cuniculi (Microspora)
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=284813
+AL590446.1	Rfam	ncRNA	120887	120958	55.32	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AL590446.1/120887-120958
+AL590446.1	Rfam	ncRNA	165236	165308	64.30	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AL590446.1/165236-165308
+AL590446.1	Rfam	ncRNA	168546	168716	74.74	+	.	ID=RF00004.1;Name=RF00004;Alias=U2;Note=AL590446.1/168546-168716
+AL590446.1	Rfam	ncRNA	201539	201610	62.17	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AL590446.1/201539-201610

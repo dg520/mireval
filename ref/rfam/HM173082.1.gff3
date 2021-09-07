@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM173082.1 1 88097
+##description Pseudomonas phage PAK_P3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=981431
+HM173082.1	Rfam	ncRNA	84663	84736	42.44	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM173082.1/84663-84736
+HM173082.1	Rfam	ncRNA	84797	84881	59.00	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HM173082.1/84797-84881
+HM173082.1	Rfam	ncRNA	85086	85159	61.99	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=HM173082.1/85086-85159

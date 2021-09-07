@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU553362.1 1 29264
+##description Feline coronavirus UU23 isolate TCVSP-ROTTIER-00023, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=711466
+GU553362.1	Rfam	regulatory_region	12350	12428	80.85	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=GU553362.1/12350-12428
+GU553362.1	Rfam	regulatory_region	29056	29118	78.39	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=GU553362.1/29056-29118

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF391797.1 1 8918
+##description Primate T-lymphotropic virus 3 long terminal repeat, complete sequence; gag polyprotein (gag) gene, complete cds; protease and polymerase (pol) genes, partial cds; and rex protein (rex) and tax protein (tax) genes, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39101
+AF391797.1	Rfam	regulatory_region	2493	2535	62.64	+	.	ID=RF01790.1;Name=RF01790;Alias=htlv_FSE;Note=AF391797.1/2493-2535

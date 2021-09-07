@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU816588.1 1 76312
+##description Mycobacterium phage Porky, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=546185
+EU816588.1	Rfam	ncRNA	61661	61740	28.35	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=EU816588.1/61661-61740
+EU816588.1	Rfam	ncRNA	61746	61817	62.43	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=EU816588.1/61746-61817

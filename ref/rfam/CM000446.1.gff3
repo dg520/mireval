@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000446.1 1 1370936
+##description Plasmodium vivax chromosome 5, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5855
+CM000446.1	Rfam	ncRNA	105895	106056	100.83	-	.	ID=RF00002.1;Name=RF00002;Alias=5_8S_rRNA;Note=AAKM01000006.1/106056-105895
+CM000446.1	Rfam	ncRNA	106549	108423	703.72	-	.	ID=RF01960.1;Name=RF01960;Alias=SSU_rRNA_eukarya;Note=AAKM01000006.1/108423-106549

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF361253.1 1 8821
+##description Equine rhinovirus 3 strain P313/75, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=168014
+AF361253.1	Rfam	regulatory_region	413	905	182.44	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AF361253.1/413-905
+AF361253.1	Rfam	regulatory_region	8721	8763	60.24	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=AF361253.1/8721-8763

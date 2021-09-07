@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU523109.1 1 8801
+##description Porcine endogenous retrovirus clone 465D1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=61673
+EU523109.1	Rfam	regulatory_region	2648	2709	73.09	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=EU523109.1/2648-2709

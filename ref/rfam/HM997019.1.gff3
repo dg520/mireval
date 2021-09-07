@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM997019.1 1 89916
+##description Salmonella phage 7-11, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1054968
+HM997019.1	Rfam	ncRNA	2456	2528	67.97	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM997019.1/2456-2528
+HM997019.1	Rfam	ncRNA	2537	2609	48.43	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HM997019.1/2537-2609
+HM997019.1	Rfam	ncRNA	2620	2690	61.63	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=HM997019.1/2620-2690
+HM997019.1	Rfam	ncRNA	2732	2802	48.38	+	.	ID=RF00005.4;Name=RF00005;Alias=tRNA;Note=HM997019.1/2732-2802

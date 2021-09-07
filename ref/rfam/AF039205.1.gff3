@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF039205.1 1 7398
+##description Coxsackievirus B6 strain Schmitt, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=74561
+AF039205.1	Rfam	regulatory_region	1	90	104.96	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AF039205.1/1-90
+AF039205.1	Rfam	regulatory_region	394	645	282.13	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AF039205.1/394-645
+AF039205.1	Rfam	regulatory_region	4361	4421	78.77	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AF039205.1/4361-4421
+AF039205.1	Rfam	regulatory_region	7278	7398	144.78	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AF039205.1/7278-7398

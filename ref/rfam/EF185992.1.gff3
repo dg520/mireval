@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF185992.1 1 28042
+##description Porcine epidemic diarrhea virus strain LZC from China, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28295
+EF185992.1	Rfam	regulatory_region	12621	12699	78.32	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EF185992.1/12621-12699
+EF185992.1	Rfam	regulatory_region	27820	27882	58.58	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=EF185992.1/27820-27882

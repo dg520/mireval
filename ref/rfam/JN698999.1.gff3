@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN698999.1 1 52288
+##description Mycobacterium phage Blue7, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1089117
+JN698999.1	Rfam	ncRNA	5396	5467	64.55	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN698999.1/5396-5467
+JN698999.1	Rfam	ncRNA	5472	5544	63.76	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=JN698999.1/5472-5544
+JN698999.1	Rfam	ncRNA	5587	5658	52.47	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=JN698999.1/5587-5658

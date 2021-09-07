@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X98292.1 1 7202
+##description Hepatitis E virus, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12461
+X98292.1	Rfam	regulatory_region	5052	5201	171.56	+	.	ID=RF00550.1;Name=RF00550;Alias=HepE_CRE;Note=X98292.1/5052-5201

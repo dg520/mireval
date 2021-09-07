@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY842951.1 1 8295
+##description Reticuloendotheliosis virus strain HA9901 from China, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11636
+AY842951.1	Rfam	regulatory_region	2441	2501	83.14	+	.	ID=RF01092.1;Name=RF01092;Alias=GP_knot2;Note=AY842951.1/2441-2501

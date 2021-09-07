@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ271965.2 1 28586
+##description Transmissible gastroenteritis virus complete genome, genomic RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11149
+AJ271965.2	Rfam	regulatory_region	12339	12417	79.80	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AJ271965.2/12339-12417
+AJ271965.2	Rfam	regulatory_region	28363	28425	78.39	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=AJ271965.2/28363-28425

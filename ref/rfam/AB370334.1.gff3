@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB370334.1 1 1815
+##description Lactobacillus brevis pasmid pLB925A01 DNA, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1580
+AB370334.1	Rfam	ncRNA	339	414	33.42	+	.	ID=RF01691.1;Name=RF01691;Alias=Bacillus-plasmid;Note=AB370334.1/339-414

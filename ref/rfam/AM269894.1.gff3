@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM269894.1 1 1347714
+##description Eimeria tenella chromosome 1, ordered contigs
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5802
+AM269894.1	Rfam	ncRNA	12124	13903	569.70	+	.	ID=RF01960.1;Name=RF01960;Alias=SSU_rRNA_eukarya;Note=AM269894.1/12124-13903

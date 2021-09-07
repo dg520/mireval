@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY129333.1 1 57050
+##description Mycobacterium phage Che9c, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=205872
+AY129333.1	Rfam	ncRNA	32232	32308	24.87	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AY129333.1/32232-32308

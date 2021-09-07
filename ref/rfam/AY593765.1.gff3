@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY593765.1 1 8202
+##description Foot-and-mouth disease virus A isolate a22turkey iso66, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12111
+AY593765.1	Rfam	regulatory_region	631	1092	530.82	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AY593765.1/631-1092

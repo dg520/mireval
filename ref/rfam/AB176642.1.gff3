@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB176642.1 1 3215
+##description Hepatitis B virus subtype ADR DNA, complete genome, isolate:HBV-115.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=106820
+AB176642.1	Rfam	regulatory_region	1847	1907	87.25	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=AB176642.1/1847-1907

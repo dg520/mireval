@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY487947.1 1 35994
+##description Human adenovirus E, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130308
+AY487947.1	Rfam	ncRNA	10357	10516	129.07	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AY487947.1/10357-10516
+AY487947.1	Rfam	ncRNA	10575	10742	97.38	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=AY487947.1/10575-10742

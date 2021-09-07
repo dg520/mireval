@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ647224.1 1 31448
+##description Murine coronavirus MHV-3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502104
+FJ647224.1	Rfam	regulatory_region	13546	13630	83.12	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ647224.1/13546-13630
+FJ647224.1	Rfam	regulatory_region	20199	20327	146.71	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ647224.1/20199-20327
+FJ647224.1	Rfam	regulatory_region	31224	31285	57.36	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ647224.1/31224-31285

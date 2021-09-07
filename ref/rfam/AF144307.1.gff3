@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF144307.1 1 865
+##description Influenza A virus (A/Goose/Guangdong/1/96(H5N1)) nonstructural proteins NS1 and NS2 (NS) gene, alternatively spliced products, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=93838
+AF144307.1	Rfam	regulatory_region	511	558	64.74	+	.	ID=RF01099.1;Name=RF01099;Alias=PK-IAV;Note=AF144307.1/511-558

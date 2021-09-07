@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ517337.1 1 174059
+##description Trichoplusia ni ascovirus 2c, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=328615
+DQ517337.1	Rfam	ncRNA	86581	86653	69.89	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=DQ517337.1/86653-86581
+DQ517337.1	Rfam	ncRNA	126266	126347	58.19	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=DQ517337.1/126266-126347
+DQ517337.1	Rfam	ncRNA	162750	162822	67.11	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=DQ517337.1/162822-162750

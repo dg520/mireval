@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF221065.1 1 8207
+##description DG-75 Murine leukemia virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=114654
+AF221065.1	Rfam	regulatory_region	283	382	104.19	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=AF221065.1/283-382
+AF221065.1	Rfam	regulatory_region	2235	2296	77.90	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=AF221065.1/2235-2296

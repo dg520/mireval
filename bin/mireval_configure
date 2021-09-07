@@ -1,0 +1,17 @@
+#!/usr/bin/env python
+
+import os, sys, getopt
+
+
+a=os.getcwd()
+#print a
+t=a.split("/")
+p="/".join(t[:-1])
+print p
+f=open(a+"/PATH","w")
+f.write(p+"\n")
+f.close()
+
+f=open(a+"/bin/PATH","w")
+f.write(p+"\n")
+f.close()

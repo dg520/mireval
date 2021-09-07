@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY495969.1 1 35514
+##description Human adenovirus type 7 vaccine strain, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10519
+AY495969.1	Rfam	ncRNA	10425	10584	130.59	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AY495969.1/10425-10584
+AY495969.1	Rfam	ncRNA	10657	10804	94.89	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=AY495969.1/10657-10804

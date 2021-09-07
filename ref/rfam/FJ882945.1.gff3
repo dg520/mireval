@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ882945.1 1 29720
+##description SARS coronavirus MA15 isolate P3pp6, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=633137
+FJ882945.1	Rfam	regulatory_region	13392	13473	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ882945.1/13392-13473
+FJ882945.1	Rfam	regulatory_region	29577	29619	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ882945.1/29577-29619

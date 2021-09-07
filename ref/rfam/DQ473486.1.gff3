@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ473486.1 1 7216
+##description Human rhinovirus 6, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147681
+DQ473486.1	Rfam	regulatory_region	1	85	52.67	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=DQ473486.1/1-85
+DQ473486.1	Rfam	regulatory_region	396	642	147.90	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=DQ473486.1/396-642
+DQ473486.1	Rfam	regulatory_region	2329	2414	98.17	+	.	ID=RF00220.1;Name=RF00220;Alias=Rhino_CRE;Note=DQ473486.1/2329-2414

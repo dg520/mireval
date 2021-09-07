@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF327921.2 1 7591
+##description Ljungan virus strain 174F polyprotein gene, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=172316
+AF327921.2	Rfam	regulatory_region	361	477	65.51	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AF327921.2/361-477
+AF327921.2	Rfam	regulatory_region	546	671	54.61	+	.	ID=RF00210.2;Name=RF00210;Alias=IRES_Aptho;Note=AF327921.2/546-671

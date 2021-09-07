@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ243370.1 1 4354
+##description Pothos latent virus complete genome, pigeonpea strain
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=44562
+AJ243370.1	Rfam	regulatory_region	1	135	63.70	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=AJ243370.1/1-135

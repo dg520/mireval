@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF311056.1 1 10800
+##description Deer tick virus strain ctb30 polyprotein gene, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58535
+AF311056.1	Rfam	regulatory_region	10760	10797	26.47	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=AF311056.1/10760-10797

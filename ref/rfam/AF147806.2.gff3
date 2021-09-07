@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF147806.2 1 174077
+##description Gallid herpesvirus 2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10390
+AF147806.2	Rfam	ncRNA	247	692	134.85	+	.	ID=RF00024.1;Name=RF00024;Alias=Telomerase-vert;Note=AF147806.2/247-692
+AF147806.2	Rfam	ncRNA	137984	138429	134.85	-	.	ID=RF00024.2;Name=RF00024;Alias=Telomerase-vert;Note=AF147806.2/138429-137984
+AF147806.2	Rfam	ncRNA	140157	140233	92.16	+	.	ID=RF01009.1;Name=RF01009;Alias=mir-M7;Note=AF147806.2/140157-140233
+AF147806.2	Rfam	ncRNA	140284	140356	84.63	+	.	ID=RF01009.2;Name=RF01009;Alias=mir-M7;Note=AF147806.2/140284-140356
+AF147806.2	Rfam	ncRNA	172397	172469	84.63	-	.	ID=RF01009.3;Name=RF01009;Alias=mir-M7;Note=AF147806.2/172469-172397
+AF147806.2	Rfam	ncRNA	172520	172596	92.16	-	.	ID=RF01009.4;Name=RF01009;Alias=mir-M7;Note=AF147806.2/172596-172520

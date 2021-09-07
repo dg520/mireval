@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM084415.1 1 45251
+##description Enterobacteria phage K1E, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=344022
+AM084415.1	Rfam	autocatalytically_spliced_intron	38471	38732	62.14	+	.	ID=RF00028.1;Name=RF00028;Alias=Intron_gpI;Note=AM084415.1/38471-38732

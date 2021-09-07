@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU410304.1 1 203057
+##description Vaccinia virus GLV-1h68, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502057
+EU410304.1	Rfam	regulatory_region	85605	85635	36.69	+	.	ID=RF02253.1;Name=RF02253;Alias=IRE_II;Note=EU410304.1/85605-85635
+EU410304.1	Rfam	regulatory_region	85655	85685	39.91	+	.	ID=RF02253.2;Name=RF02253;Alias=IRE_II;Note=EU410304.1/85655-85685
+EU410304.1	Rfam	regulatory_region	86059	86089	29.32	+	.	ID=RF02253.3;Name=RF02253;Alias=IRE_II;Note=EU410304.1/86059-86089
+EU410304.1	Rfam	regulatory_region	86171	86201	40.70	+	.	ID=RF02253.4;Name=RF02253;Alias=IRE_II;Note=EU410304.1/86171-86201
+EU410304.1	Rfam	regulatory_region	143911	143972	88.85	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=EU410304.1/143972-143911

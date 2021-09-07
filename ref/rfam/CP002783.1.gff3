@@ -1,0 +1,14 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP002783.1 1 1312480
+##description Sinorhizobium meliloti AK83 chromosome 3, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=693982
+CP002783.1	Rfam	regulatory_region	156920	157332	55.21	-	.	ID=RF01766.1;Name=RF01766;Alias=cspA;Note=CP002783.1/157332-156920
+CP002783.1	Rfam	ncRNA	209967	210057	29.48	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP002783.1/210057-209967
+CP002783.1	Rfam	ncRNA	209967	210058	78.25	-	.	ID=RF01852.1;Name=RF01852;Alias=tRNA-Sec;Note=CP002783.1/210058-209967
+CP002783.1	Rfam	regulatory_region	223071	223129	78.28	-	.	ID=RF01989.1;Name=RF01989;Alias=SECIS_3;Note=CP002783.1/223129-223071
+CP002783.1	Rfam	ncRNA	227928	227972	47.96	-	.	ID=RF00489.1;Name=RF00489;Alias=ctRNA_p42d;Note=CP002783.1/227972-227928
+CP002783.1	Rfam	regulatory_region	228015	228082	70.43	+	.	ID=RF00490.1;Name=RF00490;Alias=S-element;Note=CP002783.1/228015-228082
+CP002783.1	Rfam	autocatalytically_spliced_intron	330862	330980	97.29	+	.	ID=RF01999.1;Name=RF01999;Alias=group-II-D1D4-2;Note=CP002783.1/330862-330980
+CP002783.1	Rfam	autocatalytically_spliced_intron	1121960	1122180	126.85	-	.	ID=RF02005.1;Name=RF02005;Alias=group-II-D1D4-6;Note=CP002783.1/1122180-1121960
+CP002783.1	Rfam	autocatalytically_spliced_intron	1249417	1249535	97.29	-	.	ID=RF01999.2;Name=RF01999;Alias=group-II-D1D4-2;Note=CP002783.1/1249535-1249417

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ632317.1 1 31972
+##description Cotesia congregata virus complete genome, segment Circle14
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39640
+AJ632317.1	Rfam	ncRNA	9968	10040	41.87	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AJ632317.1/10040-9968

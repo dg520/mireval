@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000049.1 1 1086008
+##description Cryptococcus neoformans var. neoformans B-3501A chromosome 10, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=283643
+CM000049.1	Rfam	ncRNA	872387	872515	45.52	+	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=AAEY01000050.1/152357-152485
+CM000049.1	Rfam	ncRNA	971839	971928	29.32	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AAEY01000050.1/251898-251809
+CM000049.1	Rfam	ncRNA	1060729	1060818	29.32	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AAEY01000050.1/340699-340788

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M10060.1 1 8952
+##description Human T-lymphotropic virus 2, complete proviral genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11909
+M10060.1	Rfam	regulatory_region	2600	2642	66.44	+	.	ID=RF01790.1;Name=RF01790;Alias=htlv_FSE;Note=M10060.1/2600-2642

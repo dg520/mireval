@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM210570.1 1 9090
+##description Small ruminant lentivirus strain FESC-752, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=254355
+HM210570.1	Rfam	regulatory_region	1838	1891	69.98	+	.	ID=RF01840.1;Name=RF01840;Alias=ovine_lenti_FSE;Note=HM210570.1/1838-1891

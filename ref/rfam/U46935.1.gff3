@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U46935.1 1 3182
+##description Hepatitis B virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10407
+U46935.1	Rfam	regulatory_region	1847	1907	82.39	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=U46935.1/1847-1907

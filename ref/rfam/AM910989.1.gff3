@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM910989.1 1 1496036
+##description Plasmodium knowlesi strain H chromosome 7, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5851
+AM910989.1	Rfam	ncRNA	398796	398882	41.17	+	.	ID=RF01059.1;Name=RF01059;Alias=mir-598;Note=AM910989.1/398796-398882

@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF038044.1 1 550
+##description Defective interfering RNA-5 of tomato bushy stunt virus, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=135757
+AF038044.1	Rfam	regulatory_region	2	147	146.99	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=AF038044.1/2-147
+AF038044.1	Rfam	regulatory_region	151	244	107.49	+	.	ID=RF00510.1;Name=RF00510;Alias=Tombus_IRE;Note=AF038044.1/151-244
+AF038044.1	Rfam	regulatory_region	352	421	88.93	+	.	ID=RF00215.1;Name=RF00215;Alias=Tombus_3_III;Note=AF038044.1/352-421
+AF038044.1	Rfam	regulatory_region	460	550	106.16	+	.	ID=RF00176.1;Name=RF00176;Alias=Tombus_3_IV;Note=AF038044.1/460-550

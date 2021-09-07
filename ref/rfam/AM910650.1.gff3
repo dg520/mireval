@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM910650.1 1 45625
+##description Pseudomonas phage LUZ24, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=484895
+AM910650.1	Rfam	ncRNA	44606	44679	61.74	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AM910650.1/44679-44606
+AM910650.1	Rfam	ncRNA	44688	44766	24.08	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AM910650.1/44766-44688
+AM910650.1	Rfam	ncRNA	44779	44851	63.60	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AM910650.1/44851-44779

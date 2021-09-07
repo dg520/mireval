@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ608215.1 1 4448
+##description Rice yellow mottle virus complete genome, isolate Tz11
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31744
+AJ608215.1	Rfam	regulatory_region	1969	2050	81.56	+	.	ID=RF01838.1;Name=RF01838;Alias=sobemo_FSE;Note=AJ608215.1/1969-2050

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X99260.1 1 18630
+##description Bacteriophage B103 genomic sequence
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10778
+X99260.1	Rfam	ncRNA	63	288	55.25	-	.	ID=RF00044.1;Name=RF00044;Alias=Phage_pRNA;Note=X99260.1/288-63

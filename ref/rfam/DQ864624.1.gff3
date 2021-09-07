@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ864624.1 1 40539
+##description Streptococcus phage P9, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=403905
+DQ864624.1	Rfam	ncRNA	1254	1351	38.24	+	.	ID=RF00242.1;Name=RF00242;Alias=ctRNA_pT181;Note=DQ864624.1/1254-1351

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF046869.1 1 15428
+##description Porcine reproductive and respiratory syndrome virus isolate 16244B, 2/18/97(Nebraska)pass.3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28344
+AF046869.1	Rfam	regulatory_region	7689	7760	94.12	+	.	ID=RF01076.1;Name=RF01076;Alias=RF_site2;Note=AF046869.1/7689-7760

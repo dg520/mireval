@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D13954.1 1 5883
+##description Potato leaf roll virus (Canadian isolate) genomic RNA, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12045
+D13954.1	Rfam	regulatory_region	1664	1702	62.31	+	.	ID=RF01079.1;Name=RF01079;Alias=RF_site3;Note=D13954.1/1664-1702

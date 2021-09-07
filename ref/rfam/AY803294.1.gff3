@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY803294.1 1 34764
+##description Human adenovirus type 14 strain de Wit, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10521
+AY803294.1	Rfam	ncRNA	10453	10611	121.63	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AY803294.1/10453-10611

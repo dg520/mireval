@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF429200.1 1 11051
+##description West Nile virus H442, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=449280
+EF429200.1	Rfam	regulatory_region	97	144	52.75	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=EF429200.1/97-144
+EF429200.1	Rfam	regulatory_region	3558	3619	83.62	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=EF429200.1/3558-3619
+EF429200.1	Rfam	regulatory_region	10522	10581	63.56	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=EF429200.1/10522-10581
+EF429200.1	Rfam	regulatory_region	10682	10756	87.22	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=EF429200.1/10682-10756
+EF429200.1	Rfam	regulatory_region	10781	10853	69.03	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=EF429200.1/10781-10853
+EF429200.1	Rfam	regulatory_region	10859	10928	79.11	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=EF429200.1/10859-10928
+EF429200.1	Rfam	regulatory_region	10956	11051	63.20	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=EF429200.1/10956-11051

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ902940.1 1 12326
+##description Border disease virus strain Gifhorn, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=358764
+GQ902940.1	Rfam	regulatory_region	108	384	289.19	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=GQ902940.1/108-384

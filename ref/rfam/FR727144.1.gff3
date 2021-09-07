@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR727144.1 1 7801
+##description Pigeon picornavirus B, complete genome, strain 03/641
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=928289
+FR727144.1	Rfam	regulatory_region	7620	7662	61.03	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FR727144.1/7620-7662
+FR727144.1	Rfam	regulatory_region	7686	7728	58.94	+	.	ID=RF00164.2;Name=RF00164;Alias=s2m;Note=FR727144.1/7686-7728

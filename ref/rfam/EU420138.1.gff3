@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU420138.1 1 28326
+##description Bat coronavirus 1A strain AFCD62, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=393767
+EU420138.1	Rfam	regulatory_region	13049	13127	71.65	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EU420138.1/13049-13127

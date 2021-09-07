@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X51522.1 1 11624
+##description Bacteriophage P4 complete DNA genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10680
+X51522.1	Rfam	ncRNA	8420	8507	65.35	-	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=X51522.1/8507-8420
+X51522.1	Rfam	ncRNA	8615	8692	56.07	-	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=X51522.1/8692-8615

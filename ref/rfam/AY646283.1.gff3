@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY646283.1 1 27503
+##description Avian infectious bronchitis virus partridge/GD/S14/2003, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=284515
+AY646283.1	Rfam	regulatory_region	12211	12292	83.36	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY646283.1/12211-12292
+AY646283.1	Rfam	regulatory_region	27194	27235	70.02	+	.	ID=RF00385.1;Name=RF00385;Alias=IBV_D-RNA;Note=AY646283.1/27194-27235
+AY646283.1	Rfam	regulatory_region	27353	27395	63.54	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=AY646283.1/27353-27395

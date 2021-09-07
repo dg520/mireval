@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001327.1 1 1431126
+##description Micromonas sp. RCC299 chromosome 6, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296587
+CP001327.1	Rfam	ncRNA	1006541	1006613	65.41	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001327.1/1006613-1006541

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF014388.1 1 9264
+##description Drosophila C virus strain EB, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64279
+AF014388.1	Rfam	regulatory_region	6078	6278	182.68	+	.	ID=RF00458.1;Name=RF00458;Alias=IRES_Cripavirus;Note=AF014388.1/6078-6278

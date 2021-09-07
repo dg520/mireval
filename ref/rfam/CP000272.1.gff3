@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000272.1 1 1471779
+##description Burkholderia xenovorans LB400 chromosome 3, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=266265
+CP000272.1	Rfam	autocatalytically_spliced_intron	357806	357925	73.86	-	.	ID=RF01999.1;Name=RF01999;Alias=group-II-D1D4-2;Note=CP000272.1/357925-357806
+CP000272.1	Rfam	regulatory_region	428768	428856	48.75	+	.	ID=RF00504.1;Name=RF00504;Alias=Glycine;Note=CP000272.1/428768-428856
+CP000272.1	Rfam	regulatory_region	428857	428957	50.87	+	.	ID=RF00504.2;Name=RF00504;Alias=Glycine;Note=CP000272.1/428857-428957

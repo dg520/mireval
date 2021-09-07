@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ822135.1 1 142111
+##description Lactobacillus phage Lb338-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=632112
+FJ822135.1	Rfam	ncRNA	27759	27831	63.41	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FJ822135.1/27831-27759

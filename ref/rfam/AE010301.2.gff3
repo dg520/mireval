@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AE010301.2 1 359372
+##description Leptospira interrogans serovar Lai str. 56601 chromosome II, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=189518
+AE010301.2	Rfam	regulatory_region	160896	161080	80.82	-	.	ID=RF00174.1;Name=RF00174;Alias=Cobalamin;Note=AE010301.2/161080-160896

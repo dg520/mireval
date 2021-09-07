@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ223596.1 1 6003
+##description Beet virus Q genomic RNA 1
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=71972
+AJ223596.1	Rfam	regulatory_region	5826	5856	43.64	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AJ223596.1/5826-5856
+AJ223596.1	Rfam	regulatory_region	5919	6003	56.99	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=AJ223596.1/5919-6003

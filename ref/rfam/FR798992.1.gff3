@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR798992.1 1 675783
+##description Leishmania braziliensis MHOM/BR/75/M2904 complete genome, chromosome 18
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=420245
+FR798992.1	Rfam	ncRNA	175968	176034	81.66	-	.	ID=RF01862.1;Name=RF01862;Alias=TB10Cs4H2;Note=FR798992.1/176034-175968
+FR798992.1	Rfam	ncRNA	315240	315306	81.66	+	.	ID=RF01862.2;Name=RF01862;Alias=TB10Cs4H2;Note=FR798992.1/315240-315306
+FR798992.1	Rfam	ncRNA	316139	316205	81.66	+	.	ID=RF01862.3;Name=RF01862;Alias=TB10Cs4H2;Note=FR798992.1/316139-316205

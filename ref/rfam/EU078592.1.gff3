@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU078592.1 1 42925
+##description Enterobacteria phage DE3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=482822
+EU078592.1	Rfam	regulatory_region	10144	10202	85.65	-	.	ID=RF01804.1;Name=RF01804;Alias=Lambda_thermo;Note=EU078592.1/10202-10144

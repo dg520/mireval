@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF937106.1 1 75973
+##description Mycobacterium phage SirDuracell, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1034116
+JF937106.1	Rfam	ncRNA	61929	62008	28.35	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JF937106.1/61929-62008
+JF937106.1	Rfam	ncRNA	62014	62085	62.43	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=JF937106.1/62014-62085

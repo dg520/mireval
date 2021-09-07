@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AP006491.2 1 810151
+##description Cyanidioschyzon merolae DNA, chromosome 9, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=45157
+AP006491.2	Rfam	ncRNA	225781	225884	48.06	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AP006491.2/225884-225781
+AP006491.2	Rfam	ncRNA	661576	661648	62.05	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AP006491.2/661648-661576

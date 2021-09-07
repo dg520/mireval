@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ323774.1 1 7010
+##description Human rhinovirus C strain QCE, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=655428
+GQ323774.1	Rfam	regulatory_region	357	613	163.60	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=GQ323774.1/357-613

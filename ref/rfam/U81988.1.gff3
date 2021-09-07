@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U81988.1 1 1674
+##description Hepatitis delta virus from Somalia genotype IC, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12475
+U81988.1	Rfam	ncRNA	679	767	86.03	+	.	ID=RF00094.1;Name=RF00094;Alias=HDV_ribozyme;Note=U81988.1/679-767
+U81988.1	Rfam	ncRNA	810	899	61.15	-	.	ID=RF00094.2;Name=RF00094;Alias=HDV_ribozyme;Note=U81988.1/899-810

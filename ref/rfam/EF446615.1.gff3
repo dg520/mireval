@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF446615.1 1 30992
+##description Equine coronavirus strain NC99, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=136187
+EF446615.1	Rfam	regulatory_region	84	125	66.11	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=EF446615.1/84-125
+EF446615.1	Rfam	regulatory_region	13479	13563	80.09	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EF446615.1/13479-13563
+EF446615.1	Rfam	regulatory_region	20129	20233	95.97	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=EF446615.1/20129-20233
+EF446615.1	Rfam	regulatory_region	30762	30823	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=EF446615.1/30762-30823

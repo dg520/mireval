@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR799570.1 1 665230
+##description Leishmania mexicana MHOM/GT/2001/U1103 complete genome, chromosome 17
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=929439
+FR799570.1	Rfam	ncRNA	330767	330838	61.54	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FR799570.1/330838-330767
+FR799570.1	Rfam	ncRNA	330915	330995	59.15	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=FR799570.1/330915-330995
+FR799570.1	Rfam	ncRNA	331056	331128	53.52	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=FR799570.1/331056-331128

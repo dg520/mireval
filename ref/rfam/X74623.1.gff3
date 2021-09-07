@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X74623.1 1 3021
+##description Duck hepatitis B Virus DNA complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12639
+X74623.1	Rfam	regulatory_region	2560	2616	82.45	+	.	ID=RF01313.1;Name=RF01313;Alias=AHBV_epsilon;Note=X74623.1/2560-2616

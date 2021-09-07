@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR796424.1 1 1160104
+##description Leishmania major strain Friedlin complete genome, chromosome 28
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=347515
+FR796424.1	Rfam	ncRNA	540395	540456	33.18	-	.	ID=RF01549.1;Name=RF01549;Alias=TB8Cs2H1;Note=FR796424.1/540456-540395

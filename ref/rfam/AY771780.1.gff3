@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY771780.1 1 34450
+##description Simian adenovirus 1 strain ATCC VR-195, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=310540
+AY771780.1	Rfam	ncRNA	10007	10173	81.19	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AY771780.1/10007-10173

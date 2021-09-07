@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY394850.2 1 29728
+##description SARS coronavirus WHU, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=247149
+AY394850.2	Rfam	regulatory_region	13399	13480	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY394850.2/13399-13480
+AY394850.2	Rfam	regulatory_region	29582	29624	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=AY394850.2/29582-29624

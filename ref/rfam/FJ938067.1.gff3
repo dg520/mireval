@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ938067.1 1 30953
+##description Human enteric coronavirus strain 4408, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=627439
+FJ938067.1	Rfam	regulatory_region	26	67	67.51	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=FJ938067.1/26-67
+FJ938067.1	Rfam	regulatory_region	13283	13367	78.93	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ938067.1/13283-13367
+FJ938067.1	Rfam	regulatory_region	19945	20073	148.38	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ938067.1/19945-20073
+FJ938067.1	Rfam	regulatory_region	30740	30801	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ938067.1/30740-30801

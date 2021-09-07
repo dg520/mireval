@@ -1,0 +1,17 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP002782.1 1 1680879
+##description Sinorhizobium meliloti AK83 chromosome 2, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=693982
+CP002782.1	Rfam	regulatory_region	428880	429110	117.90	-	.	ID=RF00174.1;Name=RF00174;Alias=Cobalamin;Note=CP002782.1/429110-428880
+CP002782.1	Rfam	ncRNA	442480	442526	54.89	-	.	ID=RF00489.1;Name=RF00489;Alias=ctRNA_p42d;Note=CP002782.1/442526-442480
+CP002782.1	Rfam	regulatory_region	442566	442632	64.75	+	.	ID=RF00490.1;Name=RF00490;Alias=S-element;Note=CP002782.1/442566-442632
+CP002782.1	Rfam	regulatory_region	546144	546255	70.91	-	.	ID=RF00059.1;Name=RF00059;Alias=TPP;Note=CP002782.1/546255-546144
+CP002782.1	Rfam	autocatalytically_spliced_intron	773278	773449	89.04	+	.	ID=RF02001.1;Name=RF02001;Alias=group-II-D1D4-3;Note=CP002782.1/773278-773449
+CP002782.1	Rfam	autocatalytically_spliced_intron	773466	773549	39.19	+	.	ID=RF01998.1;Name=RF01998;Alias=group-II-D1D4-1;Note=CP002782.1/773466-773549
+CP002782.1	Rfam	ncRNA	848465	848538	66.05	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP002782.1/848538-848465
+CP002782.1	Rfam	regulatory_region	972438	972540	74.99	+	.	ID=RF00059.2;Name=RF00059;Alias=TPP;Note=CP002782.1/972438-972540
+CP002782.1	Rfam	autocatalytically_spliced_intron	1252116	1252287	89.04	+	.	ID=RF02001.2;Name=RF02001;Alias=group-II-D1D4-3;Note=CP002782.1/1252116-1252287
+CP002782.1	Rfam	autocatalytically_spliced_intron	1252304	1252387	39.19	+	.	ID=RF01998.2;Name=RF01998;Alias=group-II-D1D4-1;Note=CP002782.1/1252304-1252387
+CP002782.1	Rfam	regulatory_region	1295272	1295365	50.01	+	.	ID=RF00435.1;Name=RF00435;Alias=ROSE;Note=CP002782.1/1295272-1295365
+CP002782.1	Rfam	regulatory_region	1618327	1618542	125.95	-	.	ID=RF00174.2;Name=RF00174;Alias=Cobalamin;Note=CP002782.1/1618542-1618327

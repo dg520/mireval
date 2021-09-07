@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY593796.1 1 8192
+##description Foot-and-mouth disease virus Asia 1 isolate asia1-2isrl3-63 iso6, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=110195
+AY593796.1	Rfam	regulatory_region	634	1095	548.54	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AY593796.1/634-1095

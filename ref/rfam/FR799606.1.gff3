@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR799606.1 1 757180
+##description Leishmania donovani BPK282A1 complete genome, chromosome 19
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=981087
+FR799606.1	Rfam	ncRNA	691472	691544	49.79	+	.	ID=RF00295.1;Name=RF00295;Alias=snoTBR7;Note=FR799606.1/691472-691544
+FR799606.1	Rfam	ncRNA	691965	692037	46.83	+	.	ID=RF00295.2;Name=RF00295;Alias=snoTBR7;Note=FR799606.1/691965-692037
+FR799606.1	Rfam	ncRNA	692138	692226	103.89	+	.	ID=RF00292.1;Name=RF00292;Alias=snoTBR5;Note=FR799606.1/692138-692226

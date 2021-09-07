@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ132578.1 1 7111
+##description Oat golden stripe virus RNA1 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=45103
+AJ132578.1	Rfam	regulatory_region	6804	6834	37.77	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AJ132578.1/6804-6834

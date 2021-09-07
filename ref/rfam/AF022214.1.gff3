@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF022214.1 1 49136
+##description Mycobacteriophage D29, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28369
+AF022214.1	Rfam	ncRNA	4218	4289	65.24	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AF022214.1/4218-4289
+AF022214.1	Rfam	ncRNA	4333	4405	64.80	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AF022214.1/4333-4405
+AF022214.1	Rfam	ncRNA	4416	4487	52.71	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AF022214.1/4416-4487
+AF022214.1	Rfam	ncRNA	4523	4595	55.23	+	.	ID=RF00005.4;Name=RF00005;Alias=tRNA;Note=AF022214.1/4523-4595
+AF022214.1	Rfam	ncRNA	4600	4679	54.99	+	.	ID=RF00005.5;Name=RF00005;Alias=tRNA;Note=AF022214.1/4600-4679

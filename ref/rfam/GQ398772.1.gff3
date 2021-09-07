@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ398772.1 1 40761
+##description Staphylococcus phage P954, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=668618
+GQ398772.1	Rfam	ncRNA	37930	38109	77.51	+	.	ID=RF01492.1;Name=RF01492;Alias=rli28;Note=GQ398772.1/37930-38109

@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF081485.1 1 7403
+##description Coxsackievirus B2 strain Ohio, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=82639
+AF081485.1	Rfam	regulatory_region	1	90	106.88	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AF081485.1/1-90
+AF081485.1	Rfam	regulatory_region	394	644	273.40	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AF081485.1/394-644
+AF081485.1	Rfam	regulatory_region	4369	4429	73.63	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AF081485.1/4369-4429
+AF081485.1	Rfam	regulatory_region	7286	7403	124.43	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AF081485.1/7286-7403

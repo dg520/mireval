@@ -1,0 +1,15 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ006287.1 1 9214
+##description Human immnunodeficiency virus type 1 complete proviral genome, isolate 89ES061
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11676
+AJ006287.1	Rfam	ncRNA	1	61	84.76	+	.	ID=RF00250.1;Name=RF00250;Alias=mir-TAR;Note=AJ006287.1/1-61
+AJ006287.1	Rfam	regulatory_region	126	226	100.36	+	.	ID=RF00375.1;Name=RF00375;Alias=HIV_PBS;Note=AJ006287.1/126-226
+AJ006287.1	Rfam	regulatory_region	243	282	60.39	+	.	ID=RF00175.1;Name=RF00175;Alias=HIV-1_DIS;Note=AJ006287.1/243-282
+AJ006287.1	Rfam	regulatory_region	286	304	34.46	+	.	ID=RF01380.1;Name=RF01380;Alias=HIV-1_SD;Note=AJ006287.1/286-304
+AJ006287.1	Rfam	regulatory_region	312	334	40.50	+	.	ID=RF01381.1;Name=RF01381;Alias=HIV-1_SL3;Note=AJ006287.1/312-334
+AJ006287.1	Rfam	regulatory_region	403	486	103.98	+	.	ID=RF00376.1;Name=RF00376;Alias=HIV_GSL3;Note=AJ006287.1/403-486
+AJ006287.1	Rfam	regulatory_region	1634	1685	75.94	+	.	ID=RF00480.1;Name=RF00480;Alias=HIV_FE;Note=AJ006287.1/1634-1685
+AJ006287.1	Rfam	regulatory_region	2024	2136	136.26	+	.	ID=RF01418.1;Name=RF01418;Alias=HIV_POL-1_SL;Note=AJ006287.1/2024-2136
+AJ006287.1	Rfam	regulatory_region	7294	7633	377.42	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=AJ006287.1/7294-7633
+AJ006287.1	Rfam	ncRNA	9117	9177	84.76	+	.	ID=RF00250.2;Name=RF00250;Alias=mir-TAR;Note=AJ006287.1/9117-9177

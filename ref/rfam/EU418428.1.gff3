@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU418428.1 1 137083
+##description Staphylococcus phage A5W, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=516541
+EU418428.1	Rfam	ncRNA	30373	30444	54.98	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=EU418428.1/30444-30373
+EU418428.1	Rfam	ncRNA	30451	30523	67.14	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=EU418428.1/30523-30451
+EU418428.1	Rfam	ncRNA	30530	30603	59.36	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=EU418428.1/30603-30530

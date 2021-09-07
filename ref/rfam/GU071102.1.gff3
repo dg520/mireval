@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU071102.1 1 47741
+##description Cyanophage NATL1A-7, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=445693
+GU071102.1	Rfam	ncRNA	3479	3549	67.88	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GU071102.1/3549-3479
+GU071102.1	Rfam	regulatory_region	4729	4785	55.75	-	.	ID=RF01704.1;Name=RF01704;Alias=Downstream-peptide;Note=GU071102.1/4785-4729

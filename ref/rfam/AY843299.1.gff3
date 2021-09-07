@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY843299.1 1 7415
+##description Human enterovirus 81 strain USA/CA68-10389, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=318564
+AY843299.1	Rfam	regulatory_region	1	90	104.54	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY843299.1/1-90
+AY843299.1	Rfam	regulatory_region	390	641	275.44	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY843299.1/390-641
+AY843299.1	Rfam	regulatory_region	4378	4438	78.63	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY843299.1/4378-4438
+AY843299.1	Rfam	regulatory_region	7295	7415	147.27	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY843299.1/7295-7415

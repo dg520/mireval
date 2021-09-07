@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF667343.1 1 7395
+##description Simian enterovirus 46 strain RNM5, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=469958
+EF667343.1	Rfam	regulatory_region	2	91	95.32	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=EF667343.1/2-91
+EF667343.1	Rfam	regulatory_region	392	643	261.51	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=EF667343.1/392-643
+EF667343.1	Rfam	regulatory_region	4369	4429	69.78	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=EF667343.1/4369-4429

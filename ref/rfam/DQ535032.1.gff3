@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ535032.1 1 79232
+##description Lactococcus lactis phage KSY1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=388452
+DQ535032.1	Rfam	ncRNA	71313	71388	60.70	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=DQ535032.1/71313-71388
+DQ535032.1	Rfam	ncRNA	77160	77232	62.58	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=DQ535032.1/77160-77232

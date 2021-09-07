@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM185056.1 1 7385
+##description Human echovirus 6 strain Echo6/Henan/127/2008, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12062
+HM185056.1	Rfam	regulatory_region	2	68	43.80	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=HM185056.1/2-68
+HM185056.1	Rfam	regulatory_region	371	622	292.60	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=HM185056.1/371-622
+HM185056.1	Rfam	regulatory_region	4359	4419	77.88	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=HM185056.1/4359-4419
+HM185056.1	Rfam	regulatory_region	7276	7385	101.03	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=HM185056.1/7276-7385

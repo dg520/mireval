@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF327920.2 1 7590
+##description Ljungan virus prototype strain 87-012 polyprotein gene, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=172315
+AF327920.2	Rfam	regulatory_region	336	502	67.98	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AF327920.2/336-502
+AF327920.2	Rfam	regulatory_region	545	670	54.57	+	.	ID=RF00210.2;Name=RF00210;Alias=IRES_Aptho;Note=AF327920.2/545-670

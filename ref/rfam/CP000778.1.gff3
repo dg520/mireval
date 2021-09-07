@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000778.1 1 277995
+##description Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)' chromosome II, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=355278
+CP000778.1	Rfam	ncRNA	100106	100228	53.14	+	.	ID=RF01705.1;Name=RF01705;Alias=Flavo-1;Note=CP000778.1/100106-100228
+CP000778.1	Rfam	ncRNA	134430	134526	58.74	+	.	ID=RF01705.2;Name=RF01705;Alias=Flavo-1;Note=CP000778.1/134430-134526
+CP000778.1	Rfam	ncRNA	178520	178615	49.74	-	.	ID=RF01705.3;Name=RF01705;Alias=Flavo-1;Note=CP000778.1/178615-178520

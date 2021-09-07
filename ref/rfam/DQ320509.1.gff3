@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ320509.1 1 38239
+##description Lactobacillus gasseri phage KC5a, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=363555
+DQ320509.1	Rfam	ncRNA	12500	12572	58.12	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=DQ320509.1/12500-12572

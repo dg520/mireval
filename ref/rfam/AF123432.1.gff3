@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF123432.1 1 7405
+##description Bovine enterovirus isolate K2577, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=106607
+AF123432.1	Rfam	regulatory_region	1	90	86.86	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AF123432.1/1-90
+AF123432.1	Rfam	regulatory_region	464	702	93.77	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AF123432.1/464-702
+AF123432.1	Rfam	regulatory_region	4409	4457	39.11	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AF123432.1/4409-4457

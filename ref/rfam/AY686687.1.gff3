@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY686687.1 1 8163
+##description Foot-and-mouth disease virus O/ES/2001 isolate O/ES/2001, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=290057
+AY686687.1	Rfam	regulatory_region	621	1083	504.54	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AY686687.1/621-1083

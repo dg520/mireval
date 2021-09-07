@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY286122.1 1 422021
+##description Cyanidioschyzon merolae DBV201 chromosome 1, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=45157
+AY286122.1	Rfam	ncRNA	356956	357023	25.09	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AY286122.1/356956-357023

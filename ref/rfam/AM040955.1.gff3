@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM040955.1 1 6279
+##description Streptocarpus flower break virus, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=335187
+AM040955.1	Rfam	regulatory_region	6093	6123	41.08	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AM040955.1/6093-6123
+AM040955.1	Rfam	regulatory_region	6250	6274	29.76	+	.	ID=RF01072.2;Name=RF01072;Alias=TMV_UPD-PK3;Note=AM040955.1/6250-6274

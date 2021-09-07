@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ388348.1 1 5666
+##description Brassica yellows virus isolate BrYV-ABJ, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1046403
+HQ388348.1	Rfam	regulatory_region	1541	1580	37.12	+	.	ID=RF01074.1;Name=RF01074;Alias=RF_site1;Note=HQ388348.1/1541-1580

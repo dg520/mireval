@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF041850.1 1 10006
+##description Simian-Human immunodeficiency virus clone SHIV-HXBc2P 3.2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=57667
+AF041850.1	Rfam	regulatory_region	1844	1888	58.96	+	.	ID=RF01835.1;Name=RF01835;Alias=HIV_FS2;Note=AF041850.1/1844-1888
+AF041850.1	Rfam	regulatory_region	7833	8169	389.87	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=AF041850.1/7833-8169

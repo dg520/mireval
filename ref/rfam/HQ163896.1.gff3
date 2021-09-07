@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ163896.1 1 127188
+##description Staphylococcus phage Sb-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1007127
+HQ163896.1	Rfam	ncRNA	30349	30420	54.98	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HQ163896.1/30420-30349
+HQ163896.1	Rfam	ncRNA	30427	30499	67.14	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HQ163896.1/30499-30427
+HQ163896.1	Rfam	ncRNA	30506	30579	59.36	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=HQ163896.1/30579-30506

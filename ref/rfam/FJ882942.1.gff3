@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ882942.1 1 29721
+##description SARS coronavirus MA15 ExoN1 isolate P3pp5, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=633140
+FJ882942.1	Rfam	regulatory_region	13392	13473	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ882942.1/13392-13473
+FJ882942.1	Rfam	regulatory_region	29578	29620	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ882942.1/29578-29620

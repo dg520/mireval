@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ811787.1 1 27550
+##description PRCV ISU-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=398815
+DQ811787.1	Rfam	regulatory_region	12319	12397	79.80	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=DQ811787.1/12319-12397
+DQ811787.1	Rfam	regulatory_region	27327	27389	77.82	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=DQ811787.1/27327-27389

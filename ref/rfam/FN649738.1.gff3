@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN649738.1 1 3173470
+##description Ectocarpus siliculosus strain Ec 32, whole genome shotgun sequence assembly, chromosome LG13 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2880
+FN649738.1	Rfam	ncRNA	1001790	1001861	65.49	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CABU01004497.1/86845-86774

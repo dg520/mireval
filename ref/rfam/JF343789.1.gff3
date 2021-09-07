@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF343789.1 1 9720
+##description Recombinant Hepatitis C virus J6(5'UTR(Cell-U3WTS1)-NS2)/JFH1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1006440
+JF343789.1	Rfam	regulatory_region	121	364	246.23	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=JF343789.1/121-364
+JF343789.1	Rfam	regulatory_region	407	559	172.77	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=JF343789.1/407-559
+JF343789.1	Rfam	regulatory_region	9237	9301	54.84	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=JF343789.1/9237-9301
+JF343789.1	Rfam	regulatory_region	9371	9421	57.78	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=JF343789.1/9371-9421
+JF343789.1	Rfam	regulatory_region	9428	9464	51.90	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=JF343789.1/9428-9464
+JF343789.1	Rfam	regulatory_region	9621	9720	113.97	+	.	ID=RF00481.1;Name=RF00481;Alias=HCV_X3;Note=JF343789.1/9621-9720

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN597026.1 1 1447032
+##description Vitis vinifera, whole genome shotgun sequence of line PN40024, unordered unoriented chromosome 7, chr7_random 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29760
+FN597026.1	Rfam	ncRNA	1346368	1346468	98.23	-	.	ID=RF00714.1;Name=RF00714;Alias=MIR535;Note=FN595253.1/387798-387698
+FN597026.1	Rfam	ncRNA	1392253	1392353	105.80	-	.	ID=RF00714.2;Name=RF00714;Alias=MIR535;Note=FN595253.1/433683-433583
+FN597026.1	Rfam	ncRNA	1422282	1422383	101.61	-	.	ID=RF00714.3;Name=RF00714;Alias=MIR535;Note=FN595253.1/463713-463612

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY220739.1 1 5685
+##description Barley yellow dwarf virus - GAV, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=224578
+AY220739.1	Rfam	regulatory_region	2	150	174.24	+	.	ID=RF01508.1;Name=RF01508;Alias=BYDV_5_UTR;Note=AY220739.1/2-150
+AY220739.1	Rfam	regulatory_region	4842	4940	94.45	+	.	ID=RF00434.1;Name=RF00434;Alias=BTE;Note=AY220739.1/4842-4940

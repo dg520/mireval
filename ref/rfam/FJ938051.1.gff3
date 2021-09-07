@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ938051.1 1 29232
+##description Feline coronavirus RM, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502100
+FJ938051.1	Rfam	regulatory_region	12318	12396	77.03	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ938051.1/12318-12396
+FJ938051.1	Rfam	regulatory_region	29015	29077	78.39	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ938051.1/29015-29077

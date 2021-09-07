@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF002227.1 1 12255
+##description Border disease virus strain C413, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=60869
+AF002227.1	Rfam	regulatory_region	86	363	279.76	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=AF002227.1/86-363

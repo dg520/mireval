@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ025921.1 1 36635
+##description Simian adenovirus 37.1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=585091
+FJ025921.1	Rfam	ncRNA	10430	10589	127.77	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=FJ025921.1/10430-10589
+FJ025921.1	Rfam	ncRNA	10647	10803	104.08	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=FJ025921.1/10647-10803

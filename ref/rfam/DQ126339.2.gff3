@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ126339.2 1 39104
+##description Enterobacteria phage phiV10, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=343516
+DQ126339.2	Rfam	ncRNA	2856	2929	70.19	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=DQ126339.2/2929-2856
+DQ126339.2	Rfam	ncRNA	20278	20363	70.22	-	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=DQ126339.2/20363-20278
+DQ126339.2	Rfam	ncRNA	20388	20463	71.75	-	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=DQ126339.2/20463-20388

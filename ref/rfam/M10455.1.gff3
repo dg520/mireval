@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M10455.1 1 3166
+##description UR2 sarcoma virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=354090
+M10455.1	Rfam	regulatory_region	56	130	99.49	+	.	ID=RF00467.1;Name=RF00467;Alias=RSV_PBS;Note=M10455.1/56-130
+M10455.1	Rfam	regulatory_region	2799	2886	79.79	+	.	ID=RF00214.1;Name=RF00214;Alias=Retro_dr1;Note=M10455.1/2799-2886

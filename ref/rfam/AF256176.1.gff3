@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF256176.1 1 890
+##description Influenza A virus (A/Hong Kong/1073/99(H9N2)) nonstructural protein NS1 and nuclear export protein NS2 (NS) gene, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130760
+AF256176.1	Rfam	regulatory_region	523	570	75.20	+	.	ID=RF01099.1;Name=RF01099;Alias=PK-IAV;Note=AF256176.1/523-570

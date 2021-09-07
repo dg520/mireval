@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN692043.2 1 8185
+##description Xenotropic MuLV-related virus 22Rv1/CWR-R1 complete proviral genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=749340
+FN692043.2	Rfam	regulatory_region	294	394	107.48	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=FN692043.2/294-394
+FN692043.2	Rfam	regulatory_region	2221	2282	77.90	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=FN692043.2/2221-2282

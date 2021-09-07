@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X16378.1 1 6318
+##description Turnip yellow mosaic virus complete RNA genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12154
+X16378.1	Rfam	regulatory_region	6211	6233	39.14	+	.	ID=RF00390.1;Name=RF00390;Alias=UPSK;Note=X16378.1/6211-6233
+X16378.1	Rfam	regulatory_region	6234	6318	83.22	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=X16378.1/6234-6318

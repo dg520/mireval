@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR796439.1 1 592381
+##description Leishmania infantum JPCM5 genome chromosome 7
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=435258
+FR796439.1	Rfam	ncRNA	387508	387579	64.01	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FR796439.1/387579-387508

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU580942.1 1 78064
+##description Rhodococcus phage ReqiPoco6, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=691964
+GU580942.1	Rfam	ncRNA	42700	42773	39.45	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GU580942.1/42700-42773

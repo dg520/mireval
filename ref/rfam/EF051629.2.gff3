@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF051629.2 1 7355
+##description Human parechovirus 1 isolate BNI-788St, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12063
+EF051629.2	Rfam	regulatory_region	1	116	134.97	+	.	ID=RF00499.1;Name=RF00499;Alias=Parecho_CRE;Note=EF051629.2/1-116
+EF051629.2	Rfam	regulatory_region	257	706	162.52	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=EF051629.2/257-706

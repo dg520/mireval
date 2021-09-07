@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB362338.2 1 41660
+##description Enterobacteria phage P22 DNA, complete sequence, strain: MSU.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10754
+AB362338.2	Rfam	ncRNA	14960	15027	88.81	-	.	ID=RF00262.1;Name=RF00262;Alias=sar;Note=AB362338.2/15027-14960

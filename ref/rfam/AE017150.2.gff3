@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AE017150.2 1 1193948
+##description Trypanosoma brucei brucei strain 927/4 GUTat10.1 chromosome 2, complete sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=999953
+AE017150.2	Rfam	ncRNA	265786	265954	99.97	-	.	ID=RF00002.1;Name=RF00002;Alias=5_8S_rRNA;Note=AC012647.18/85588-85756
+AE017150.2	Rfam	ncRNA	284125	284293	99.97	-	.	ID=RF00002.2;Name=RF00002;Alias=5_8S_rRNA;Note=AC012647.18/67249-67417
+AE017150.2	Rfam	ncRNA	372546	372714	99.97	+	.	ID=RF00002.3;Name=RF00002;Alias=5_8S_rRNA;Note=AC008031.6/126151-125983
+AE017150.2	Rfam	ncRNA	1024689	1024837	84.97	+	.	ID=RF00004.1;Name=RF00004;Alias=U2;Note=AC008368.21/83891-84039

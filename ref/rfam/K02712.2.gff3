@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region K02712.2 1 3811
+##description FBR murine osteosarcoma, complete proviral sequence integrated in Rattus norvegicus genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11806
+K02712.2	Rfam	regulatory_region	736	835	100.32	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=K02712.2/736-835

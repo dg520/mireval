@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ007053.1 1 35050
+##description Human adenovirus 60 MPW-2011, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1070407
+HQ007053.1	Rfam	ncRNA	10248	10407	115.64	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=HQ007053.1/10248-10407
+HQ007053.1	Rfam	ncRNA	10466	10614	87.21	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=HQ007053.1/10466-10614

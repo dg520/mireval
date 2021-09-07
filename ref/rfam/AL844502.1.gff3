@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AL844502.1 1 1060087
+##description Plasmodium falciparum 3D7 chromosome 3
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36329
+AL844502.1	Rfam	ncRNA	307897	308056	150.32	+	.	ID=RF01584.1;Name=RF01584;Alias=snoR03;Note=AL844502.1/307897-308056
+AL844502.1	Rfam	ncRNA	365248	365383	100.67	+	.	ID=RF00015.1;Name=RF00015;Alias=U4;Note=AL844502.1/365248-365383
+AL844502.1	Rfam	ncRNA	527889	527961	59.02	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AL844502.1/527889-527961
+AL844502.1	Rfam	ncRNA	528576	528649	66.88	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AL844502.1/528649-528576

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ938068.1 1 31250
+##description Rat coronavirus Parker, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502102
+FJ938068.1	Rfam	regulatory_region	13557	13641	83.12	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ938068.1/13557-13641
+FJ938068.1	Rfam	regulatory_region	20210	20338	148.01	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ938068.1/20210-20338
+FJ938068.1	Rfam	regulatory_region	31027	31088	57.36	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ938068.1/31027-31088

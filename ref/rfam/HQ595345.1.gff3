@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ595345.1 1 7672
+##description Bat picornavirus 3 strain TLC21F, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1074865
+HQ595345.1	Rfam	regulatory_region	179	387	113.50	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=HQ595345.1/179-387
+HQ595345.1	Rfam	regulatory_region	7537	7579	60.88	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=HQ595345.1/7537-7579

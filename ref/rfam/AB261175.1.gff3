@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB261175.1 1 6304
+##description Youcai mosaic virus genomic RNA, complete genome, isolate: 722.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=228578
+AB261175.1	Rfam	regulatory_region	5444	5597	151.39	+	.	ID=RF00225.1;Name=RF00225;Alias=IRES_Tobamo;Note=AB261175.1/5444-5597
+AB261175.1	Rfam	regulatory_region	6092	6122	46.20	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AB261175.1/6092-6122

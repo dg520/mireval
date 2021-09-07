@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D00355.1 1 3050
+##description Cucumber mosaic virus gene for large ORF, complete cds, RNA2.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12305
+D00355.1	Rfam	regulatory_region	2927	3046	102.25	+	.	ID=RF01084.1;Name=RF01084;Alias=TLS-PK3;Note=D00355.1/2927-3046

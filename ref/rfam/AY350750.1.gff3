@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY350750.1 1 29738
+##description SARS coronavirus PUMC01, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=253433
+AY350750.1	Rfam	regulatory_region	13386	13467	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY350750.1/13386-13467
+AY350750.1	Rfam	regulatory_region	29571	29613	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=AY350750.1/29571-29613

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M21212.1 1 300
+##description Arabis mosaic virus small satellite RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=196399
+M21212.1	Rfam	ncRNA	106	157	73.30	-	.	ID=RF00173.1;Name=RF00173;Alias=Hairpin;Note=M21212.1/157-106

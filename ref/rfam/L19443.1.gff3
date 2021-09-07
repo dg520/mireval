@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L19443.1 1 34214
+##description Human adenovirus F, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=130309
+L19443.1	Rfam	ncRNA	10066	10237	84.40	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=L19443.1/10066-10237

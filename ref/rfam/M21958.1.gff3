@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M21958.1 1 4776
+##description Tomato bushy stunt virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12145
+M21958.1	Rfam	regulatory_region	1	168	176.19	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=M21958.1/1-168
+M21958.1	Rfam	regulatory_region	1359	1452	110.55	+	.	ID=RF00510.1;Name=RF00510;Alias=Tombus_IRE;Note=M21958.1/1359-1452
+M21958.1	Rfam	regulatory_region	4398	4467	93.56	+	.	ID=RF00215.1;Name=RF00215;Alias=Tombus_3_III;Note=M21958.1/4398-4467
+M21958.1	Rfam	regulatory_region	4686	4776	109.04	+	.	ID=RF00176.1;Name=RF00176;Alias=Tombus_3_IV;Note=M21958.1/4686-4776

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF705860.1 1 27673
+##description Duck coronavirus isolate DK/CH/HN/ZZ2004, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=300188
+JF705860.1	Rfam	regulatory_region	12357	12438	86.35	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=JF705860.1/12357-12438
+JF705860.1	Rfam	regulatory_region	27368	27408	63.39	+	.	ID=RF00385.1;Name=RF00385;Alias=IBV_D-RNA;Note=JF705860.1/27368-27408
+JF705860.1	Rfam	regulatory_region	27526	27568	65.27	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=JF705860.1/27526-27568

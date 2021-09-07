@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X84981.1 1 7420
+##description Echovirus 9 (strain Hill), complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=103915
+X84981.1	Rfam	regulatory_region	1	90	102.97	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=X84981.1/1-90
+X84981.1	Rfam	regulatory_region	391	641	281.33	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=X84981.1/391-641
+X84981.1	Rfam	regulatory_region	4384	4444	77.74	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=X84981.1/4384-4444
+X84981.1	Rfam	regulatory_region	7301	7420	130.03	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=X84981.1/7301-7420

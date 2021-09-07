@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY859526.1 1 9355
+##description Hepatitis C virus (isolate 6a33), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=356391
+AY859526.1	Rfam	regulatory_region	34	277	255.00	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=AY859526.1/34-277
+AY859526.1	Rfam	regulatory_region	320	472	168.68	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=AY859526.1/320-472
+AY859526.1	Rfam	regulatory_region	9108	9172	69.48	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=AY859526.1/9108-9172
+AY859526.1	Rfam	regulatory_region	9242	9292	61.89	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=AY859526.1/9242-9292
+AY859526.1	Rfam	regulatory_region	9300	9335	46.84	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=AY859526.1/9300-9335

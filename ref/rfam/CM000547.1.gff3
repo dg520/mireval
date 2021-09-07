@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000547.1 1 109741
+##description Taeniopygia guttata linkage group LG2, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=59729
+CM000547.1	Rfam	ncRNA	71443	71527	31.99	+	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=ABQF01061424.1/866-950

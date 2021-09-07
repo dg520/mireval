@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY426531.1 1 7367
+##description Human enterovirus 68 strain Fermon, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42789
+AY426531.1	Rfam	regulatory_region	1	90	79.67	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY426531.1/1-90
+AY426531.1	Rfam	regulatory_region	390	640	230.30	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY426531.1/390-640
+AY426531.1	Rfam	regulatory_region	4374	4434	60.77	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY426531.1/4374-4434

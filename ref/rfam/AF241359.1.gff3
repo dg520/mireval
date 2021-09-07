@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF241359.1 1 7411
+##description Enterovirus CA55-1988, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=152632
+AF241359.1	Rfam	regulatory_region	2	91	108.57	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AF241359.1/2-91
+AF241359.1	Rfam	regulatory_region	395	646	291.60	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AF241359.1/395-646
+AF241359.1	Rfam	regulatory_region	4374	4434	78.16	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AF241359.1/4374-4434
+AF241359.1	Rfam	regulatory_region	7291	7411	147.00	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AF241359.1/7291-7411

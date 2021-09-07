@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB044554.1 1 45636
+##description Staphylococcus prophage phiPV83 proviral DNA, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=129009
+AB044554.1	Rfam	ncRNA	38500	38677	65.61	+	.	ID=RF01492.1;Name=RF01492;Alias=rli28;Note=AB044554.1/38500-38677

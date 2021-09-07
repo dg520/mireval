@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU071086.1 1 368454
+##description Marseillevirus strain T19, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694581
+GU071086.1	Rfam	autocatalytically_spliced_intron	43034	43364	83.85	-	.	ID=RF00028.1;Name=RF00028;Alias=Intron_gpI;Note=GU071086.1/43364-43034
+GU071086.1	Rfam	autocatalytically_spliced_intron	43497	43811	60.94	-	.	ID=RF00028.2;Name=RF00028;Alias=Intron_gpI;Note=GU071086.1/43811-43497

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY427798.1 1 28475
+##description Breda virus strain Breda 1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=46473
+AY427798.1	Rfam	regulatory_region	14184	14301	152.07	+	.	ID=RF01094.1;Name=RF01094;Alias=RF_site6;Note=AY427798.1/14184-14301

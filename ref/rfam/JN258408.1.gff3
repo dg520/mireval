@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN258408.1 1 1259197
+##description Megavirus chiliensis, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1094892
+JN258408.1	Rfam	ncRNA	15827	15909	60.78	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN258408.1/15909-15827
+JN258408.1	Rfam	ncRNA	16963	17045	57.84	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=JN258408.1/17045-16963

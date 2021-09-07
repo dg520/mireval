@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X56019.1 1 8101
+##description Theilers murine encephalomyelitis virus (TMEV) complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12127
+X56019.1	Rfam	regulatory_region	642	1066	114.19	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=X56019.1/642-1066
+X56019.1	Rfam	regulatory_region	1572	1604	50.13	+	.	ID=RF00453.1;Name=RF00453;Alias=Cardiovirus_CRE;Note=X56019.1/1572-1604

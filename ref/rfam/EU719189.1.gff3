@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU719189.1 1 50930
+##description Clostridium phage phiCD27, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=559189
+EU719189.1	Rfam	regulatory_region	32958	33053	54.37	-	.	ID=RF01051.1;Name=RF01051;Alias=c-di-GMP-I;Note=EU719189.1/33053-32958

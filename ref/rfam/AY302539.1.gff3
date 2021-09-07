@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302539.1 1 7410
+##description Human echovirus 13 strain Del Carmen complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=47501
+AY302539.1	Rfam	regulatory_region	1	90	104.86	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302539.1/1-90
+AY302539.1	Rfam	regulatory_region	393	644	292.36	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302539.1/393-644
+AY302539.1	Rfam	regulatory_region	4372	4432	77.56	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302539.1/4372-4432
+AY302539.1	Rfam	regulatory_region	7289	7410	143.18	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302539.1/7289-7410

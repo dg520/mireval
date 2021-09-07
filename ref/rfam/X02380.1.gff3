@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X02380.1 1 3234
+##description Brome mosaic virus (BMV) RNA1 sequence
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12302
+X02380.1	Rfam	regulatory_region	3102	3230	118.83	+	.	ID=RF01084.1;Name=RF01084;Alias=TLS-PK3;Note=X02380.1/3102-3230

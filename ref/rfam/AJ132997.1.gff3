@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ132997.1 1 9533
+##description Hepatitis C virus, complete genome, isolate HCV-AD78P1
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11103
+AJ132997.1	Rfam	regulatory_region	79	322	255.00	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=AJ132997.1/79-322
+AJ132997.1	Rfam	regulatory_region	365	517	172.63	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=AJ132997.1/365-517
+AJ132997.1	Rfam	regulatory_region	9125	9190	69.91	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=AJ132997.1/9125-9190
+AJ132997.1	Rfam	regulatory_region	9260	9310	75.35	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=AJ132997.1/9260-9310
+AJ132997.1	Rfam	regulatory_region	9317	9353	59.25	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=AJ132997.1/9317-9353
+AJ132997.1	Rfam	regulatory_region	9434	9533	106.72	+	.	ID=RF00481.1;Name=RF00481;Alias=HCV_X3;Note=AJ132997.1/9434-9533

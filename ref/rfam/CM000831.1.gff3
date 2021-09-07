@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000831.1 1 1255352
+##description Drosophila virilis strain 15010-1051.88 chromosome 6. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7244
+CM000831.1	Rfam	ncRNA	90818	90903	39.89	-	.	ID=RF00479.1;Name=RF00479;Alias=snosnR71;Note=GU120696.1/34342-34427
+CM000831.1	Rfam	ncRNA	91568	91653	39.89	-	.	ID=RF00479.2;Name=RF00479;Alias=snosnR71;Note=GU120696.1/33592-33677
+CM000831.1	Rfam	ncRNA	92112	92197	39.89	-	.	ID=RF00479.3;Name=RF00479;Alias=snosnR71;Note=GU120696.1/33048-33133
+CM000831.1	Rfam	ncRNA	92709	92794	39.89	-	.	ID=RF00479.4;Name=RF00479;Alias=snosnR71;Note=GU120696.1/32451-32536
+CM000831.1	Rfam	ncRNA	93509	93603	37.91	-	.	ID=RF00479.5;Name=RF00479;Alias=snosnR71;Note=GU120696.1/31642-31736

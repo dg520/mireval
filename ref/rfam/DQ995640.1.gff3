@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ995640.1 1 7457
+##description Human coxsackievirus A13 strain BAN99-10419, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42772
+DQ995640.1	Rfam	regulatory_region	1	91	83.78	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=DQ995640.1/1-91
+DQ995640.1	Rfam	regulatory_region	392	643	263.19	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=DQ995640.1/392-643
+DQ995640.1	Rfam	regulatory_region	4460	4520	76.90	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=DQ995640.1/4460-4520

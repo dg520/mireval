@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF121005.1 1 35231
+##description Human adenovirus 19 strain C, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28278
+EF121005.1	Rfam	ncRNA	10254	10413	118.12	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=EF121005.1/10254-10413
+EF121005.1	Rfam	ncRNA	10472	10621	88.14	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=EF121005.1/10472-10621

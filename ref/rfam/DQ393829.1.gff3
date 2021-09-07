@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ393829.1 1 35215
+##description Human adenovirus type 49, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=218120
+DQ393829.1	Rfam	ncRNA	10245	10406	112.50	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=DQ393829.1/10245-10406
+DQ393829.1	Rfam	ncRNA	10465	10614	86.17	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=DQ393829.1/10465-10614

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ884686.1 1 31275
+##description Murine hepatitis virus strain A59 B11 variant, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11142
+FJ884686.1	Rfam	regulatory_region	13582	13666	82.52	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ884686.1/13582-13666
+FJ884686.1	Rfam	regulatory_region	20235	20363	147.37	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ884686.1/20235-20363
+FJ884686.1	Rfam	regulatory_region	31073	31134	57.36	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ884686.1/31073-31134

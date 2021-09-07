@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ728259.1 1 7383
+##description Human coxsackievirus A2 strain CVA2/SD/CHN/09, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=33757
+HQ728259.1	Rfam	regulatory_region	1	90	106.04	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=HQ728259.1/1-90
+HQ728259.1	Rfam	regulatory_region	394	645	285.38	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=HQ728259.1/394-645
+HQ728259.1	Rfam	regulatory_region	4388	4448	74.53	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=HQ728259.1/4388-4448

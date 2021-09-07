@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY236756.1 1 36674
+##description Lactobacillus plantarum bacteriophage phiJL-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=235201
+AY236756.1	Rfam	ncRNA	13	84	67.26	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AY236756.1/13-84

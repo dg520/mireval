@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY593851.1 1 8164
+##description Foot-and-mouth disease virus SAT 3 isolate sat3-3bech iso29, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12123
+AY593851.1	Rfam	regulatory_region	589	1048	463.35	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AY593851.1/589-1048

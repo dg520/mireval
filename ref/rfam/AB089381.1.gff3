@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB089381.1 1 6524
+##description Paprika mild mottle virus complete genome, strain:Japanese.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=35281
+AB089381.1	Rfam	regulatory_region	6287	6317	45.27	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AB089381.1/6287-6317
+AB089381.1	Rfam	regulatory_region	6387	6417	38.45	+	.	ID=RF01072.2;Name=RF01072;Alias=TMV_UPD-PK3;Note=AB089381.1/6387-6417

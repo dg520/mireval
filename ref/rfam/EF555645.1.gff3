@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF555645.1 1 7438
+##description Human enterovirus 102, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=460162
+EF555645.1	Rfam	regulatory_region	1	91	99.32	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=EF555645.1/1-91
+EF555645.1	Rfam	regulatory_region	391	642	271.09	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=EF555645.1/391-642
+EF555645.1	Rfam	regulatory_region	4441	4501	78.96	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=EF555645.1/4441-4501

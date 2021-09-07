@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB448770.2 1 34920
+##description Human adenovirus 54 DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=651580
+AB448770.2	Rfam	ncRNA	10253	10412	116.81	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AB448770.2/10253-10412

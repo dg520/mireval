@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF304460.1 1 27317
+##description Human coronavirus 229E, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11137
+AF304460.1	Rfam	regulatory_region	12521	12599	72.63	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AF304460.1/12521-12599
+AF304460.1	Rfam	regulatory_region	27063	27125	58.97	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=AF304460.1/27063-27125

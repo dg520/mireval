@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ000558.1 1 1678
+##description Hepatitis D Virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12475
+AJ000558.1	Rfam	ncRNA	683	771	91.62	+	.	ID=RF00094.1;Name=RF00094;Alias=HDV_ribozyme;Note=AJ000558.1/683-771
+AJ000558.1	Rfam	ncRNA	809	901	65.95	-	.	ID=RF00094.2;Name=RF00094;Alias=HDV_ribozyme;Note=AJ000558.1/901-809

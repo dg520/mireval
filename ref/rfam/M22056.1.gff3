@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M22056.1 1 3027
+##description Heron hepatitis B virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28300
+M22056.1	Rfam	regulatory_region	2566	2622	78.05	+	.	ID=RF01313.1;Name=RF01313;Alias=AHBV_epsilon;Note=M22056.1/2566-2622

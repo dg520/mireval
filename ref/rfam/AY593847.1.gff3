@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY593847.1 1 8119
+##description Foot-and-mouth disease virus SAT 2 isolate sat2-1rhod iso26, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=35292
+AY593847.1	Rfam	regulatory_region	545	1003	476.46	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AY593847.1/545-1003

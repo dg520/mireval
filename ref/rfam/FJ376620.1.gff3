@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ376620.1 1 26476
+##description Bulbul coronavirus HKU11-796, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572287
+FJ376620.1	Rfam	regulatory_region	26255	26297	63.84	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ376620.1/26255-26297

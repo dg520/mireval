@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region K02703.1 1 2037
+##description Alfalfa mosaic virus strain 425 Madison complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12321
+K02703.1	Rfam	regulatory_region	1856	2037	215.69	+	.	ID=RF00252.1;Name=RF00252;Alias=Alfamo_CPB;Note=K02703.1/1856-2037

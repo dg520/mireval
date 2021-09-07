@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000445.1 1 876622
+##description Plasmodium vivax chromosome 4, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5855
+CM000445.1	Rfam	ncRNA	127458	127542	73.03	+	.	ID=RF01583.1;Name=RF01583;Alias=snoR01;Note=AAKM01000019.1/110328-110412
+CM000445.1	Rfam	ncRNA	127823	127976	124.94	+	.	ID=RF01579.1;Name=RF01579;Alias=RUF2;Note=AAKM01000019.1/110693-110846
+CM000445.1	Rfam	ncRNA	128420	129040	212.94	+	.	ID=RF01577.1;Name=RF01577;Alias=RNase_P;Note=AAKM01000019.1/111290-111910
+CM000445.1	Rfam	ncRNA	740679	740750	66.50	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AAKM01000018.1/135873-135944

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X05291.1 1 9671
+##description Human immunodeficiency virus type 2 ROD isolate RNA genome (HIV-2)
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11709
+X05291.1	Rfam	regulatory_region	610	693	39.42	+	.	ID=RF00376.1;Name=RF00376;Alias=HIV_GSL3;Note=X05291.1/610-693
+X05291.1	Rfam	regulatory_region	1848	1892	65.42	+	.	ID=RF01835.1;Name=RF01835;Alias=HIV_FS2;Note=X05291.1/1848-1892
+X05291.1	Rfam	regulatory_region	7688	7918	71.00	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=X05291.1/7688-7918

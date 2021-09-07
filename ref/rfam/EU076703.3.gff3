@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU076703.3 1 19247
+##description Citrus tristeza virus isolate B165, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12162
+EU076703.3	Rfam	regulatory_region	18975	19247	340.82	+	.	ID=RF00193.1;Name=RF00193;Alias=CTV_rep_sig;Note=EU076703.3/18975-19247

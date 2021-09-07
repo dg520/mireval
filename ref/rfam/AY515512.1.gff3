@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY515512.1 1 29731
+##description SARS coronavirus HC/SZ/61/03, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=260069
+AY515512.1	Rfam	regulatory_region	13376	13457	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY515512.1/13376-13457
+AY515512.1	Rfam	regulatory_region	29590	29632	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=AY515512.1/29590-29632

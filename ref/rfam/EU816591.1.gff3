@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU816591.1 1 75811
+##description Mycobacterium phage Kostya, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=546183
+EU816591.1	Rfam	ncRNA	62215	62294	28.35	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=EU816591.1/62215-62294
+EU816591.1	Rfam	ncRNA	62300	62371	62.43	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=EU816591.1/62300-62371

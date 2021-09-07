@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF116926.1 1 36216
+##description Streptococcus suis phage SMP, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=413066
+EF116926.1	Rfam	ncRNA	24584	24671	46.59	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=EF116926.1/24584-24671

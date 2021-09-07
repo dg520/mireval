@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF801956.1 1 1191693
+##description Acanthamoeba castellanii mamavirus strain Hal-V, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=554168
+JF801956.1	Rfam	ncRNA	69012	69094	59.65	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JF801956.1/69094-69012
+JF801956.1	Rfam	ncRNA	1150469	1150551	58.30	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=JF801956.1/1150469-1150551
+JF801956.1	Rfam	ncRNA	1178824	1178906	58.44	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=JF801956.1/1178824-1178906

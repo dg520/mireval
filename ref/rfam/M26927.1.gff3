@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M26927.1 1 8088
+##description Gibbon ape leukemia virus gag, pol, and env genes, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11840
+M26927.1	Rfam	regulatory_region	2191	2252	70.42	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=M26927.1/2191-2252

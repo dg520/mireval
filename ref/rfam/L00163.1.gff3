@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L00163.1 1 3644
+##description Alfalfa mosaic virus (strain 425 Leiden) RNA 1 of complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12321
+L00163.1	Rfam	regulatory_region	1	35	60.78	+	.	ID=RF00196.1;Name=RF00196;Alias=AMV_RNA1_SL;Note=L00163.1/1-35
+L00163.1	Rfam	regulatory_region	3459	3644	181.26	+	.	ID=RF00252.1;Name=RF00252;Alias=Alfamo_CPB;Note=L00163.1/3459-3644

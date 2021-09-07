@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ810418.1 1 5674
+##description Barley yellow dwarf virus - PAV complete genome, isolate ASL-1, genomic RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12040
+AJ810418.1	Rfam	regulatory_region	1	149	171.61	+	.	ID=RF01508.1;Name=RF01508;Alias=BYDV_5_UTR;Note=AJ810418.1/1-149
+AJ810418.1	Rfam	regulatory_region	4816	4915	107.92	+	.	ID=RF00434.1;Name=RF00434;Alias=BTE;Note=AJ810418.1/4816-4915

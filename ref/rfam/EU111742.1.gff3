@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU111742.1 1 31686
+##description Coronavirus SW1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694015
+EU111742.1	Rfam	regulatory_region	12389	12470	71.62	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EU111742.1/12389-12470

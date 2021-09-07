@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ478088.1 1 37856
+##description Enterococcus phage phiFL4A, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=673839
+GQ478088.1	Rfam	ncRNA	37498	37571	67.10	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GQ478088.1/37498-37571

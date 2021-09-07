@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ230960.1 1 132562
+##description Bacillus phage SPO1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10685
+FJ230960.1	Rfam	ncRNA	28208	28279	71.87	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FJ230960.1/28208-28279
+FJ230960.1	Rfam	ncRNA	28369	28456	59.08	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=FJ230960.1/28369-28456
+FJ230960.1	Rfam	ncRNA	32597	32669	65.22	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=FJ230960.1/32597-32669

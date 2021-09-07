@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF091605.1 1 12310
+##description Bovine viral diarrhea virus strain Oregon C24V, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=82470
+AF091605.1	Rfam	regulatory_region	117	393	281.47	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=AF091605.1/117-393

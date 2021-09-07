@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ294633.1 1 7765
+##description Mengo virus isolate Rz-pMwt, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12107
+DQ294633.1	Rfam	regulatory_region	287	749	131.57	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=DQ294633.1/287-749
+DQ294633.1	Rfam	regulatory_region	6833	6919	35.54	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=DQ294633.1/6833-6919

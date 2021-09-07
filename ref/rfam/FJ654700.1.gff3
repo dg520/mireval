@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ654700.1 1 10862
+##description Yellow fever virus 17D/Tiantan, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=617102
+FJ654700.1	Rfam	regulatory_region	10762	10860	57.45	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=FJ654700.1/10762-10860

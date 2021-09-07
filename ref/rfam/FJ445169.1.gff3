@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ445169.1 1 7233
+##description Human rhinovirus 92 strain ATCC VR-1293, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=167326
+FJ445169.1	Rfam	regulatory_region	1	85	59.23	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=FJ445169.1/1-85
+FJ445169.1	Rfam	regulatory_region	395	642	143.22	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=FJ445169.1/395-642
+FJ445169.1	Rfam	regulatory_region	2341	2426	89.37	+	.	ID=RF00220.1;Name=RF00220;Alias=Rhino_CRE;Note=FJ445169.1/2341-2426

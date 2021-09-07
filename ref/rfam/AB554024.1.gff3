@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB554024.1 1 3179
+##description HBV genotype D DNA, complete genome, isolate: GRS08538.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=489483
+AB554024.1	Rfam	regulatory_region	1844	1904	85.21	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=AB554024.1/1844-1904

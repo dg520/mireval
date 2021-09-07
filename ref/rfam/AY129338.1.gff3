@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY129338.1 1 110865
+##description Mycobacteriophage Omega, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=205879
+AY129338.1	Rfam	ncRNA	96528	96600	35.99	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AY129338.1/96528-96600

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ222416.1 1 8273
+##description Orcinus orca endogenous retrovirus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9733
+GQ222416.1	Rfam	regulatory_region	2430	2491	58.66	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=GQ222416.1/2430-2491

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ349096.1 1 35758
+##description Human adenovirus 6 strain Tonsil 99 prototype, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10534
+FJ349096.1	Rfam	ncRNA	10614	10770	89.56	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=FJ349096.1/10614-10770
+FJ349096.1	Rfam	ncRNA	10869	11027	90.56	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=FJ349096.1/10869-11027

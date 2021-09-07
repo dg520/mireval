@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF937101.1 1 109086
+##description Mycobacterium phage LittleE, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1034111
+JF937101.1	Rfam	ncRNA	95026	95097	43.99	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JF937101.1/95026-95097

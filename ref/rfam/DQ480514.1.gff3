@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ480514.1 1 9358
+##description Hepatitis C virus subtype 6a strain 6a63, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31655
+DQ480514.1	Rfam	regulatory_region	34	280	241.39	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=DQ480514.1/34-280
+DQ480514.1	Rfam	regulatory_region	323	475	149.90	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=DQ480514.1/323-475
+DQ480514.1	Rfam	regulatory_region	9111	9175	72.77	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=DQ480514.1/9111-9175
+DQ480514.1	Rfam	regulatory_region	9245	9295	61.89	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=DQ480514.1/9245-9295
+DQ480514.1	Rfam	regulatory_region	9303	9338	55.43	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=DQ480514.1/9303-9338

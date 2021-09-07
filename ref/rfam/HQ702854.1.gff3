@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ702854.1 1 7391
+##description Porcine enterovirus 3H strain swine/K23/2008/HUN, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1028489
+HQ702854.1	Rfam	regulatory_region	5	116	68.94	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=HQ702854.1/5-116
+HQ702854.1	Rfam	regulatory_region	423	674	257.41	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=HQ702854.1/423-674
+HQ702854.1	Rfam	regulatory_region	4385	4445	54.97	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=HQ702854.1/4385-4445

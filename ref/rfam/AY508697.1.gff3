@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY508697.1 1 7450
+##description Bovine enterovirus type 2 strain 3A, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=269638
+AY508697.1	Rfam	regulatory_region	2	91	77.75	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY508697.1/2-91
+AY508697.1	Rfam	regulatory_region	112	202	26.40	+	.	ID=RF00386.2;Name=RF00386;Alias=Entero_5_CRE;Note=AY508697.1/112-202
+AY508697.1	Rfam	regulatory_region	469	698	95.91	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY508697.1/469-698

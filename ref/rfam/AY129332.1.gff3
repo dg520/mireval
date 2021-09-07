@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY129332.1 1 50913
+##description Mycobacteriophage Bxz2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=205870
+AY129332.1	Rfam	ncRNA	3932	4004	67.86	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AY129332.1/3932-4004
+AY129332.1	Rfam	ncRNA	4048	4121	65.67	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AY129332.1/4048-4121
+AY129332.1	Rfam	ncRNA	4157	4230	57.65	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AY129332.1/4157-4230

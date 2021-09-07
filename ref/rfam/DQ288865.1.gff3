@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ288865.1 1 9345
+##description Homalodisca coagulata virus-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=359812
+DQ288865.1	Rfam	regulatory_region	5802	6001	103.25	+	.	ID=RF00458.1;Name=RF00458;Alias=IRES_Cripavirus;Note=DQ288865.1/5802-6001

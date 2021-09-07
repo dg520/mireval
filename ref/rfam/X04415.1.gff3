@@ -1,0 +1,16 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X04415.1 1 9229
+##description Human lymphadenopathy virus (MAL isolate), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11676
+X04415.1	Rfam	ncRNA	1	58	55.52	+	.	ID=RF00250.1;Name=RF00250;Alias=mir-TAR;Note=X04415.1/1-58
+X04415.1	Rfam	regulatory_region	123	217	89.80	+	.	ID=RF00375.1;Name=RF00375;Alias=HIV_PBS;Note=X04415.1/123-217
+X04415.1	Rfam	regulatory_region	257	296	61.68	+	.	ID=RF00175.1;Name=RF00175;Alias=HIV-1_DIS;Note=X04415.1/257-296
+X04415.1	Rfam	regulatory_region	298	316	34.46	+	.	ID=RF01380.1;Name=RF01380;Alias=HIV-1_SD;Note=X04415.1/298-316
+X04415.1	Rfam	regulatory_region	323	345	40.50	+	.	ID=RF01381.1;Name=RF01381;Alias=HIV-1_SL3;Note=X04415.1/323-345
+X04415.1	Rfam	regulatory_region	351	370	35.07	+	.	ID=RF01382.1;Name=RF01382;Alias=HIV-1_SL4;Note=X04415.1/351-370
+X04415.1	Rfam	regulatory_region	414	497	108.41	+	.	ID=RF00376.1;Name=RF00376;Alias=HIV_GSL3;Note=X04415.1/414-497
+X04415.1	Rfam	regulatory_region	1663	1714	77.75	+	.	ID=RF00480.1;Name=RF00480;Alias=HIV_FE;Note=X04415.1/1663-1714
+X04415.1	Rfam	regulatory_region	2041	2153	126.34	+	.	ID=RF01418.1;Name=RF01418;Alias=HIV_POL-1_SL;Note=X04415.1/2041-2153
+X04415.1	Rfam	regulatory_region	7299	7635	363.61	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=X04415.1/7299-7635
+X04415.1	Rfam	ncRNA	9133	9191	66.83	+	.	ID=RF00250.2;Name=RF00250;Alias=mir-TAR;Note=X04415.1/9133-9191

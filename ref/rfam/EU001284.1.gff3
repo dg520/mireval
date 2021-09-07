@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU001284.1 1 12859
+##description Glyptapanteles flavicoxis bracovirus segment 29, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=451706
+EU001284.1	Rfam	ncRNA	11893	11999	100.30	-	.	ID=RF00026.1;Name=RF00026;Alias=U6;Note=EU001284.1/11999-11893

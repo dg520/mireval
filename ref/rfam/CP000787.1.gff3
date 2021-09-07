@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000787.1 1 277655
+##description Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)' chromosome II, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=456481
+CP000787.1	Rfam	ncRNA	100135	100257	53.14	+	.	ID=RF01705.1;Name=RF01705;Alias=Flavo-1;Note=CP000787.1/100135-100257
+CP000787.1	Rfam	ncRNA	134459	134555	58.74	+	.	ID=RF01705.2;Name=RF01705;Alias=Flavo-1;Note=CP000787.1/134459-134555
+CP000787.1	Rfam	ncRNA	178548	178643	49.74	-	.	ID=RF01705.3;Name=RF01705;Alias=Flavo-1;Note=CP000787.1/178643-178548

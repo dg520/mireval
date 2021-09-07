@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU622808.1 1 18753
+##description Bacillus phage Nf, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10753
+EU622808.1	Rfam	ncRNA	48	288	58.92	-	.	ID=RF00044.1;Name=RF00044;Alias=Phage_pRNA;Note=EU622808.1/288-48

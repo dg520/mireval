@@ -1,0 +1,17 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ291720.1 1 9769
+##description Human immunodeficiency virus type 1 complete genome, strain 99FR-MP1307
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11676
+AJ291720.1	Rfam	ncRNA	462	522	70.83	+	.	ID=RF00250.1;Name=RF00250;Alias=mir-TAR;Note=AJ291720.1/462-522
+AJ291720.1	Rfam	regulatory_region	587	688	67.31	+	.	ID=RF00375.1;Name=RF00375;Alias=HIV_PBS;Note=AJ291720.1/587-688
+AJ291720.1	Rfam	regulatory_region	705	745	59.00	+	.	ID=RF00175.1;Name=RF00175;Alias=HIV-1_DIS;Note=AJ291720.1/705-745
+AJ291720.1	Rfam	regulatory_region	747	765	34.46	+	.	ID=RF01380.1;Name=RF01380;Alias=HIV-1_SD;Note=AJ291720.1/747-765
+AJ291720.1	Rfam	regulatory_region	775	797	40.50	+	.	ID=RF01381.1;Name=RF01381;Alias=HIV-1_SL3;Note=AJ291720.1/775-797
+AJ291720.1	Rfam	regulatory_region	803	822	35.07	+	.	ID=RF01382.1;Name=RF01382;Alias=HIV-1_SL4;Note=AJ291720.1/803-822
+AJ291720.1	Rfam	regulatory_region	866	949	101.45	+	.	ID=RF00376.1;Name=RF00376;Alias=HIV_GSL3;Note=AJ291720.1/866-949
+AJ291720.1	Rfam	regulatory_region	2091	2142	75.86	+	.	ID=RF00480.1;Name=RF00480;Alias=HIV_FE;Note=AJ291720.1/2091-2142
+AJ291720.1	Rfam	regulatory_region	2517	2629	127.22	+	.	ID=RF01418.1;Name=RF01418;Alias=HIV_POL-1_SL;Note=AJ291720.1/2517-2629
+AJ291720.1	Rfam	regulatory_region	7751	8090	336.18	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=AJ291720.1/7751-8090
+AJ291720.1	Rfam	ncRNA	9589	9649	70.83	+	.	ID=RF00250.2;Name=RF00250;Alias=mir-TAR;Note=AJ291720.1/9589-9649
+AJ291720.1	Rfam	regulatory_region	9723	9766	33.85	+	.	ID=RF00375.2;Name=RF00375;Alias=HIV_PBS;Note=AJ291720.1/9723-9766

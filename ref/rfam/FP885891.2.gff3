@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FP885891.2 1 2085000
+##description Ralstonia solanacearum PSI07 megaplasmid mpPSI07, complete sequence
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=859657
+FP885891.2	Rfam	regulatory_region	2217	2681	67.63	-	.	ID=RF01766.1;Name=RF01766;Alias=cspA;Note=FP885891.2/2681-2217
+FP885891.2	Rfam	regulatory_region	25748	25828	38.28	+	.	ID=RF01051.1;Name=RF01051;Alias=c-di-GMP-I;Note=FP885891.2/25748-25828
+FP885891.2	Rfam	ncRNA	302594	302675	49.54	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FP885891.2/302675-302594
+FP885891.2	Rfam	regulatory_region	663126	663305	121.78	-	.	ID=RF00174.1;Name=RF00174;Alias=Cobalamin;Note=FP885891.2/663305-663126
+FP885891.2	Rfam	regulatory_region	1035932	1035998	41.52	+	.	ID=RF01734.1;Name=RF01734;Alias=crcB;Note=FP885891.2/1035932-1035998
+FP885891.2	Rfam	regulatory_region	1492357	1492513	97.83	-	.	ID=RF00050.1;Name=RF00050;Alias=FMN;Note=FP885891.2/1492513-1492357
+FP885891.2	Rfam	regulatory_region	1762400	1762823	56.60	-	.	ID=RF01766.2;Name=RF01766;Alias=cspA;Note=FP885891.2/1762823-1762400

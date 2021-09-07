@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM245925.1 1 28941
+##description Mink coronavirus strain WD1127, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=766791
+HM245925.1	Rfam	regulatory_region	12300	12378	74.04	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=HM245925.1/12300-12378
+HM245925.1	Rfam	regulatory_region	28676	28739	49.94	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=HM245925.1/28676-28739

@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000807.1 1 429701
+##description Cyanothece sp. ATCC 51142 linear chromosome, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=43989
+CP000807.1	Rfam	regulatory_region	57583	57730	55.29	+	.	ID=RF00174.1;Name=RF00174;Alias=Cobalamin;Note=CP000807.1/57583-57730
+CP000807.1	Rfam	autocatalytically_spliced_intron	118057	118279	80.20	+	.	ID=RF00028.1;Name=RF00028;Alias=Intron_gpI;Note=CP000807.1/118057-118279
+CP000807.1	Rfam	ncRNA	128767	128837	40.95	+	.	ID=RF01701.1;Name=RF01701;Alias=Cyano-1;Note=CP000807.1/128767-128837
+CP000807.1	Rfam	ncRNA	298700	298834	89.67	+	.	ID=RF02033.1;Name=RF02033;Alias=HEARO;Note=CP000807.1/298700-298834

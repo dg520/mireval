@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ445176.1 1 7146
+##description Human rhinovirus 7 strain ATCC VR-1117, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=44136
+FJ445176.1	Rfam	regulatory_region	1	89	78.27	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=FJ445176.1/1-89
+FJ445176.1	Rfam	regulatory_region	388	646	150.25	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=FJ445176.1/388-646

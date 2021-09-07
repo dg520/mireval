@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU376394.1 1 7961
+##description Human TMEV-like cardiovirus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=511755
+EU376394.1	Rfam	regulatory_region	494	954	103.67	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=EU376394.1/494-954

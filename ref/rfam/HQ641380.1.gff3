@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ641380.1 1 59080
+##description Enterobacter phage EcP1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=942016
+HQ641380.1	Rfam	ncRNA	55469	55540	54.33	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HQ641380.1/55469-55540
+HQ641380.1	Rfam	ncRNA	55547	55620	61.90	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HQ641380.1/55547-55620
+HQ641380.1	Rfam	ncRNA	55628	55701	66.31	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=HQ641380.1/55628-55701

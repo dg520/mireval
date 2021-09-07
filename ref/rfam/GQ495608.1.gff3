@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ495608.1 1 6757
+##description Human astrovirus 6 isolate 192-BJ07-CHN, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=37130
+GQ495608.1	Rfam	regulatory_region	2807	2861	80.42	+	.	ID=RF01833.1;Name=RF01833;Alias=astro_FSE;Note=GQ495608.1/2807-2861
+GQ495608.1	Rfam	regulatory_region	6641	6683	63.38	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=GQ495608.1/6641-6683

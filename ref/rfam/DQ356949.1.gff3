@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ356949.1 1 6794
+##description Maracuja mosaic virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=368736
+DQ356949.1	Rfam	regulatory_region	6640	6672	31.00	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=DQ356949.1/6640-6672

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF103734.1 1 11717
+##description Sindbis-like virus YN87448, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=84272
+AF103734.1	Rfam	regulatory_region	1	280	260.66	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=AF103734.1/1-280
+AF103734.1	Rfam	regulatory_region	10053	10079	44.08	+	.	ID=RF01836.1;Name=RF01836;Alias=weev_FSE;Note=AF103734.1/10053-10079

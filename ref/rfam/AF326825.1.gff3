@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF326825.1 1 10649
+##description Dengue virus type 4 recombinant clone rDEN4, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11070
+AF326825.1	Rfam	regulatory_region	102	143	50.19	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=AF326825.1/102-143
+AF326825.1	Rfam	regulatory_region	10377	10448	62.62	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=AF326825.1/10377-10448
+AF326825.1	Rfam	regulatory_region	10467	10539	82.43	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=AF326825.1/10467-10539
+AF326825.1	Rfam	regulatory_region	10557	10649	84.08	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=AF326825.1/10557-10649

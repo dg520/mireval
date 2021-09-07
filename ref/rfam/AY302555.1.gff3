@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302555.1 1 7420
+##description Human echovirus 32 strain PR-10 complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=47514
+AY302555.1	Rfam	regulatory_region	1	79	60.91	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302555.1/1-79
+AY302555.1	Rfam	regulatory_region	383	634	284.36	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302555.1/383-634
+AY302555.1	Rfam	regulatory_region	4383	4443	78.93	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302555.1/4383-4443
+AY302555.1	Rfam	regulatory_region	7300	7420	138.32	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302555.1/7300-7420

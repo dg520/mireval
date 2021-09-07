@@ -1,0 +1,2765 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="fimo-to-html.xsl"?>
+<!-- Begin document body -->
+<cis-element-search
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://zlab.bu.edu/schema/cisml cisml.xsd"
+  xmlns="http://zlab.bu.edu/schema/cisml"
+  xmlns:mem="http://noble.gs.washington.edu/meme"
+>
+<program-name>fimo</program-name>
+<parameters>
+<pattern-file>/apps/lab/miket/miREval/2.0/mireval/ref/jaspar.meme</pattern-file>
+<sequence-file>test/res_4fimo_test.txt</sequence-file>
+<site-pvalue-cutoff>1e-05</site-pvalue-cutoff>
+<sequence-filtering on-off="off"/>
+</parameters>
+<pattern accession="abd-A" name="abd-A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Abd-B" name="Abd-B">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ABF1" name="ABF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ABF2" name="ABF2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="abi4" name="abi4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ACE2" name="ACE2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="achi" name="achi">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ADR1" name="ADR1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="AFT1" name="AFT1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="AFT2" name="AFT2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="AG" name="AG">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="AGL3" name="AGL3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="al" name="al">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Antp" name="Antp">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ap" name="ap">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="AP1" name="AP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Ar" name="Ar">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ara" name="ara">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ARG80" name="ARG80">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ARG81" name="ARG81">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ARID3A" name="ARID3A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Arnt" name="Arnt">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Arnt::Ahr" name="Arnt::Ahr">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ARO80" name="ARO80">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ARR1" name="ARR1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ARR10" name="ARR10">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ASG1" name="ASG1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ASH1" name="ASH1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ATHB-5" name="ATHB-5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Awh" name="Awh">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="AZF1" name="AZF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="B-H1" name="B-H1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="B-H2" name="B-H2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="bap" name="bap">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="BAS1" name="BAS1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="bcd" name="bcd">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="br_Z1" name="br_Z1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="br_Z2" name="br_Z2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="br_Z3" name="br_Z3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="br_Z4" name="br_Z4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="BRCA1" name="BRCA1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="brk" name="brk">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="bsh" name="bsh">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="btd" name="btd">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="btn" name="btn">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="bZIP910" name="bZIP910">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="bZIP911" name="bZIP911">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="C15" name="C15">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="cad" name="cad">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CAD1" name="CAD1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CAT8" name="CAT8">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="caup" name="caup">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CBF1" name="CBF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CEBPA" name="CEBPA">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ceh-22" name="ceh-22">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CEP3" name="CEP3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Cf2_II" name="Cf2_II">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG11085" name="CG11085">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG11294" name="CG11294">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG11617" name="CG11617">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG13424" name="CG13424">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG15696" name="CG15696">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG18599" name="CG18599">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG32105" name="CG32105">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG32532" name="CG32532">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG34031" name="CG34031">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG42234" name="CG42234">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG4328" name="CG4328">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG7056" name="CG7056">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CG9876" name="CG9876">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CHA4" name="CHA4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="che-1" name="che-1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CIN5" name="CIN5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CREB1" name="CREB1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CRZ1" name="CRZ1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CST6" name="CST6">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ct" name="ct">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CTCF" name="CTCF">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CUP2" name="CUP2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="CUP9" name="CUP9">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="D" name="D">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="DAL80" name="DAL80">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="DAL81" name="DAL81">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="DAL82" name="DAL82">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Ddit3::Cebpa" name="Ddit3::Cebpa">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Deaf1" name="Deaf1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Dfd" name="Dfd">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="dl_1" name="dl_1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="dl_2" name="dl_2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Dll" name="Dll">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Dof2" name="Dof2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Dof3" name="Dof3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="DOT6" name="DOT6">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Dr" name="Dr">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="E2F1" name="E2F1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="E5" name="E5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="EBF1" name="EBF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ECM22" name="ECM22">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ECM23" name="ECM23">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="EDS1" name="EDS1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Egr1" name="Egr1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Eip74EF" name="Eip74EF">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ELF5" name="ELF5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ELK1" name="ELK1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ELK4" name="ELK4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="EmBP-1" name="EmBP-1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ems" name="ems">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="en" name="en">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="En1" name="En1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ESR1" name="ESR1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ESR2" name="ESR2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Esrrb" name="Esrrb">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ETS1" name="ETS1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="eve" name="eve">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Evi1" name="Evi1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="EWSR1-FLI1" name="EWSR1-FLI1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="exd" name="exd">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="exex" name="exex">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FEV" name="FEV">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FHL1" name="FHL1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="fkh" name="fkh">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FKH1" name="FKH1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FKH2" name="FKH2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FOXA1" name="FOXA1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Foxa2" name="Foxa2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FOXC1" name="FOXC1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FOXD1" name="FOXD1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Foxd3" name="Foxd3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FOXF2" name="FOXF2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FOXI1" name="FOXI1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FOXL1" name="FOXL1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FOXO3" name="FOXO3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Foxq1" name="Foxq1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ftz" name="ftz">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="FZF1" name="FZF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GABPA" name="GABPA">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GAL4" name="GAL4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Gamyb" name="Gamyb">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GAT1" name="GAT1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GAT3" name="GAT3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GAT4" name="GAT4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Gata1" name="Gata1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GATA2" name="GATA2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GATA3" name="GATA3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GCN4" name="GCN4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GCR1" name="GCR1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GCR2" name="GCR2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Gfi" name="Gfi">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GIS1" name="GIS1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GLN3" name="GLN3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Gsc" name="Gsc">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GSM1" name="GSM1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="gt" name="gt">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="GZF3" name="GZF3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="h" name="h">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="H2.0" name="H2.0">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HAC1" name="HAC1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HAL9" name="HAL9">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Hand1::Tcfe2a" name="Hand1::Tcfe2a">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HAP1" name="HAP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HAP2" name="HAP2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HAP3" name="HAP3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HAP4" name="HAP4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HAP5" name="HAP5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HAT5" name="HAT5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="hb" name="hb">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="hbn" name="hbn">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HCM1" name="HCM1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HGTX" name="HGTX">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HIF1A::ARNT" name="HIF1A::ARNT">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="hkb" name="hkb">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HLF" name="HLF">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Hltf" name="Hltf">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HMG-1" name="HMG-1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HMG-IorY" name="HMG-IorY">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HMRA2" name="HMRA2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Hmx" name="Hmx">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HNF1A" name="HNF1A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HNF1B" name="HNF1B">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HNF4A" name="HNF4A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HOXA5" name="HOXA5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="HSF1" name="HSF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="hth" name="hth">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="id1" name="id1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="IME1" name="IME1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ind" name="ind">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="INO2" name="INO2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="INO4" name="INO4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="INSM1" name="INSM1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="inv" name="inv">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="IRF1" name="IRF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="IRF2" name="IRF2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="IXR1" name="IXR1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Klf4" name="Klf4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="kni" name="kni">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Kr" name="Kr">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="lab" name="lab">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Lag1" name="Lag1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="lbe" name="lbe">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="lbl" name="lbl">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="LEU3" name="LEU3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Lhx3" name="Lhx3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Lim1" name="Lim1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Lim3" name="Lim3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="lin-14" name="lin-14">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="LYS14" name="LYS14">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="mab-3" name="mab-3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MAC1" name="MAC1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Macho-1" name="Macho-1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Mafb" name="Mafb">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MATA1" name="MATA1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MATALPHA2" name="MATALPHA2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MAX" name="MAX">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MBP1" name="MBP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MBP1::SWI6" name="MBP1::SWI6">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MCM1" name="MCM1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MEF2A" name="MEF2A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MET28" name="MET28">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MET31" name="MET31">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MET32" name="MET32">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MET4" name="MET4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MGA1" name="MGA1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MIG1" name="MIG1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MIG2" name="MIG2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MIG3" name="MIG3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="mirr" name="mirr">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MIZF" name="MIZF">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MNB1A" name="MNB1A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MOT3" name="MOT3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MSN2" name="MSN2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MSN4" name="MSN4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Myb" name="Myb">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="myb.Ph3" name="myb.Ph3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Myc" name="Myc">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MYC::MAX" name="MYC::MAX">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Mycn" name="Mycn">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Myf" name="Myf">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MZF1_1-4" name="MZF1_1-4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="MZF1_5-13" name="MZF1_5-13">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NDT80" name="NDT80">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NF-kappaB" name="NF-kappaB">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NFATC2" name="NFATC2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NFE2L1::MafG" name="NFE2L1::MafG">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NFE2L2" name="NFE2L2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NFIC" name="NFIC">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NFIL3" name="NFIL3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NFKB1" name="NFKB1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NFYA" name="NFYA">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NHLH1" name="NHLH1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NHP10" name="NHP10">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NHP6A" name="NHP6A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NHP6B" name="NHP6B">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NK7.1" name="NK7.1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Nkx2-5" name="Nkx2-5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NKX3-1" name="NKX3-1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Nkx3-2" name="Nkx3-2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Nobox" name="Nobox">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NR1H2::RXRA" name="NR1H2::RXRA">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Nr2e3" name="Nr2e3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NR2F1" name="NR2F1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NR3C1" name="NR3C1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NR4A2" name="NR4A2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="NRG1" name="NRG1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="nub" name="nub">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="OAF1" name="OAF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="oc" name="oc">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Oct" name="Oct">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="odd" name="odd">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="OdsH" name="OdsH">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="onecut" name="onecut">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="opa" name="opa">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="OPI1" name="OPI1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Optix" name="Optix">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="otp" name="otp">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ovo" name="ovo">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="pan" name="pan">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Pax2" name="Pax2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Pax4" name="Pax4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Pax5" name="Pax5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Pax6" name="Pax6">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="pb" name="pb">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PBF" name="PBF">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PBX1" name="PBX1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PDR1" name="PDR1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PDR3" name="PDR3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PDR8" name="PDR8">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Pdx1" name="Pdx1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PEND" name="PEND">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PHD1" name="PHD1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PHDP" name="PHDP">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PHO2" name="PHO2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PHO4" name="PHO4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PLAG1" name="PLAG1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Pou5f1" name="Pou5f1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PPARG" name="PPARG">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PPARG::RXRA" name="PPARG::RXRA">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Pph13" name="Pph13">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="prd" name="prd">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Prrx2" name="Prrx2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Ptx1" name="Ptx1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="PUT3" name="PUT3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RAP1" name="RAP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RDR1" name="RDR1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RDS1" name="RDS1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RDS2" name="RDS2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="REB1" name="REB1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="REI1" name="REI1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="REL" name="REL">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RELA" name="RELA">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="repo" name="repo">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="REST" name="REST">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RFX1" name="RFX1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RGM1" name="RGM1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RGT1" name="RGT1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RIM101" name="RIM101">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RLM1" name="RLM1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RME1" name="RME1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ro" name="ro">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RORA_1" name="RORA_1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RORA_2" name="RORA_2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ROX1" name="ROX1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RPH1" name="RPH1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RPN4" name="RPN4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RREB1" name="RREB1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RSC3" name="RSC3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RSC30" name="RSC30">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RTG3" name="RTG3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="run::Bgb" name="run::Bgb">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RUNX1" name="RUNX1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Rx" name="Rx">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RXR::RAR_DR5" name="RXR::RAR_DR5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="RXRA::VDR" name="RXRA::VDR">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Scr" name="Scr">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="sd" name="sd">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SFL1" name="SFL1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SFP1" name="SFP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SIG1" name="SIG1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SIP4" name="SIP4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Six4" name="Six4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SKN7" name="SKN7">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SKO1" name="SKO1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="slbo" name="slbo">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="slou" name="slou">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="slp1" name="slp1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SMP1" name="SMP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="sna" name="sna">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SNT2" name="SNT2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="so" name="so">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SOK2" name="SOK2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SOX10" name="SOX10">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Sox17" name="Sox17">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Sox2" name="Sox2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Sox5" name="Sox5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SOX9" name="SOX9">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SP1" name="SP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SPI1" name="SPI1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SPIB" name="SPIB">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SPT2" name="SPT2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SPT23" name="SPT23">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Spz1" name="Spz1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="squamosa" name="squamosa">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SRD1" name="SRD1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SRF" name="SRF">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SRY" name="SRY">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STAT1" name="STAT1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Stat3" name="Stat3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STB3" name="STB3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STB4" name="STB4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STB5" name="STB5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STE12" name="STE12">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STP1" name="STP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STP2" name="STP2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STP3" name="STP3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="STP4" name="STP4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Su(H)" name="Su(H)">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SUM1" name="SUM1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SUT1" name="SUT1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SUT2" name="SUT2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SWI4" name="SWI4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="SWI5" name="SWI5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="T" name="T">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Tal1::Gata1" name="Tal1::Gata1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TAL1::TCF3" name="TAL1::TCF3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TBF1" name="TBF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TBP" name="TBP">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TBS1" name="TBS1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Tcfcp2l1" name="Tcfcp2l1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TEA1" name="TEA1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TEAD1" name="TEAD1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TEC1" name="TEC1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TFAP2A" name="TFAP2A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TGA1A" name="TGA1A">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="THI2" name="THI2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="tin" name="tin">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="tll" name="tll">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TLX1::NFIC" name="TLX1::NFIC">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TOD6" name="TOD6">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TOS8" name="TOS8">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TP53" name="TP53">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Trl" name="Trl">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+<matched-element start="36" stop="45" score="12.7439" pvalue="4.12e-06">
+<sequence>TTTCTCTCTC</sequence>
+<mem:qvalue>0.000454</mem:qvalue>
+</matched-element>
+<matched-element start="38" stop="47" score="12.5976" pvalue="5.03e-06">
+<sequence>TCTCTCTCTC</sequence>
+<mem:qvalue>0.000454</mem:qvalue>
+</matched-element>
+<matched-element start="40" stop="49" score="12.5976" pvalue="5.03e-06">
+<sequence>TCTCTCTCTC</sequence>
+<mem:qvalue>0.000454</mem:qvalue>
+</matched-element>
+</scanned-sequence>
+</pattern>
+<pattern accession="ttk" name="ttk">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ttx-3::ceh-10" name="ttx-3::ceh-10">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="tup" name="tup">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="twi" name="twi">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="TYE7" name="TYE7">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Ubx" name="Ubx">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="UGA3" name="UGA3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="UME6" name="UME6">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="unc-4" name="unc-4">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="unpg" name="unpg">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="UPC2" name="UPC2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="USF1" name="USF1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="usp" name="usp">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="USV1" name="USV1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="vis" name="vis">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="vnd" name="vnd">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Vsx1" name="Vsx1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Vsx2" name="Vsx2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="vvl" name="vvl">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="XBP1" name="XBP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YAP1" name="YAP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YAP3" name="YAP3">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YAP5" name="YAP5">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YAP6" name="YAP6">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YAP7" name="YAP7">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YBR239C" name="YBR239C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YDR026C" name="YDR026C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YDR520C" name="YDR520C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YER130C" name="YER130C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YER184C" name="YER184C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YGR067C" name="YGR067C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YHP1" name="YHP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YJL103C" name="YJL103C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YKL222C" name="YKL222C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YLL054C" name="YLL054C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YLR278C" name="YLR278C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YML081W" name="YML081W">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YNR063W" name="YNR063W">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YOX1" name="YOX1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YPR013C" name="YPR013C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YPR015C" name="YPR015C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YPR022C" name="YPR022C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YPR196W" name="YPR196W">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YRM1" name="YRM1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YRR1" name="YRR1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="YY1" name="YY1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="z" name="z">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ZAP1" name="ZAP1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ZEB1" name="ZEB1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="zen" name="zen">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="zen2" name="zen2">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Zfp423" name="Zfp423">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="Zfx" name="Zfx">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ZMS1" name="ZMS1">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="znf143" name="znf143">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+<pattern accession="ZNF354C" name="ZNF354C">
+<scanned-sequence accession="id_1.3410990.3413084.+.non_trans" name="id_1.3410990.3413084.+.non_trans">
+</scanned-sequence>
+<scanned-sequence accession="id_2.3257452.3259546.-.non_trans" name="id_2.3257452.3259546.-.non_trans">
+</scanned-sequence>
+</pattern>
+</cis-element-search>

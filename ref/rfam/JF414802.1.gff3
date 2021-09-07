@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF414802.1 1 7539
+##description Chicken astrovirus isolate GA2011, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=336959
+JF414802.1	Rfam	regulatory_region	7215	7257	61.48	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=JF414802.1/7215-7257
+JF414802.1	Rfam	regulatory_region	7312	7354	60.00	+	.	ID=RF00164.2;Name=RF00164;Alias=s2m;Note=JF414802.1/7312-7354

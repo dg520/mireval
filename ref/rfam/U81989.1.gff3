@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U81989.1 1 1679
+##description Hepatitis delta virus from Ethiopia genotype IC, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12475
+U81989.1	Rfam	ncRNA	684	772	89.32	+	.	ID=RF00094.1;Name=RF00094;Alias=HDV_ribozyme;Note=U81989.1/684-772
+U81989.1	Rfam	ncRNA	809	901	64.94	-	.	ID=RF00094.2;Name=RF00094;Alias=HDV_ribozyme;Note=U81989.1/901-809

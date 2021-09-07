@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF564601.1 1 35355
+##description Human adenovirus 3+11p strain OvAd2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=459785
+EF564601.1	Rfam	ncRNA	10433	10604	111.25	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=EF564601.1/10433-10604
+EF564601.1	Rfam	ncRNA	10677	10850	110.44	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=EF564601.1/10677-10850

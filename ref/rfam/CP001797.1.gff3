@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001797.1 1 704884
+##description Pseudoalteromonas sp. SM9913 chromosome II, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=234831
+CP001797.1	Rfam	regulatory_region	54808	55204	57.91	+	.	ID=RF01766.1;Name=RF01766;Alias=cspA;Note=CP001797.1/54808-55204
+CP001797.1	Rfam	regulatory_region	86965	87390	92.11	+	.	ID=RF01766.2;Name=RF01766;Alias=cspA;Note=CP001797.1/86965-87390
+CP001797.1	Rfam	regulatory_region	108786	108890	51.71	-	.	ID=RF01731.1;Name=RF01731;Alias=TwoAYGGAY;Note=CP001797.1/108890-108786
+CP001797.1	Rfam	regulatory_region	115838	115999	40.56	+	.	ID=RF01731.2;Name=RF01731;Alias=TwoAYGGAY;Note=CP001797.1/115838-115999
+CP001797.1	Rfam	regulatory_region	393159	393275	96.27	-	.	ID=RF01497.1;Name=RF01497;Alias=ALIL;Note=CP001797.1/393275-393159

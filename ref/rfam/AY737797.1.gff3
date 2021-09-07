@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY737797.1 1 34775
+##description Human adenovirus type 34 strain Compton, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10548
+AY737797.1	Rfam	ncRNA	10434	10592	127.36	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AY737797.1/10434-10592

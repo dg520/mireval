@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU636990.1 1 5668
+##description Beet western yellows virus from China: Gansu, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12042
+EU636990.1	Rfam	regulatory_region	1475	1514	44.95	+	.	ID=RF01074.1;Name=RF01074;Alias=RF_site1;Note=EU636990.1/1475-1514

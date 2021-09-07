@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF469154.1 1 170523
+##description Enterobacteria phage JS98, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=293178
+EF469154.1	Rfam	ncRNA	70209	70281	66.46	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=EF469154.1/70281-70209
+EF469154.1	Rfam	ncRNA	70289	70360	66.07	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=EF469154.1/70360-70289
+EF469154.1	Rfam	ncRNA	70368	70438	60.49	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=EF469154.1/70438-70368

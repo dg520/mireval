@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Z11128.1 1 8323
+##description Friend murine leukemia virus FB29 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11795
+Z11128.1	Rfam	regulatory_region	274	374	114.29	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=Z11128.1/274-374
+Z11128.1	Rfam	regulatory_region	2233	2294	75.29	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=Z11128.1/2233-2294

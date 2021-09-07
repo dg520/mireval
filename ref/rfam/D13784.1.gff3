@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D13784.1 1 8400
+##description Human T-lymphotropic virus 1 proviral DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11908
+D13784.1	Rfam	regulatory_region	2605	2647	64.69	+	.	ID=RF01790.1;Name=RF01790;Alias=htlv_FSE;Note=D13784.1/2605-2647

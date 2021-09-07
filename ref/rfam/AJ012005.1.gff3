@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ012005.1 1 7147
+##description Chinese wheat mosaic virus segment RNA1, complete sequence
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=83544
+AJ012005.1	Rfam	regulatory_region	6980	7004	37.97	+	.	ID=RF01106.1;Name=RF01106;Alias=SBWMV1_UPD-PKb;Note=AJ012005.1/6980-7004

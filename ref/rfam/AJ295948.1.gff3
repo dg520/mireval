@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ295948.1 1 6514
+##description Kyuri green mottle mosaic virus replicase (131 and 189 KDa ), cp, and mp genes
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=111970
+AJ295948.1	Rfam	regulatory_region	6376	6406	44.14	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AJ295948.1/6376-6406

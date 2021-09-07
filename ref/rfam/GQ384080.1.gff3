@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ384080.1 1 35152
+##description Human adenovirus 36 from USA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=46936
+GQ384080.1	Rfam	ncRNA	10244	10403	115.64	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=GQ384080.1/10244-10403
+GQ384080.1	Rfam	ncRNA	10462	10611	86.17	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=GQ384080.1/10462-10611

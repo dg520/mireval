@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU779803.2 1 6679
+##description Tomato yellow blotch virus strain Minnesota, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=544743
+EU779803.2	Rfam	regulatory_region	6596	6678	70.86	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=EU779803.2/6596-6678

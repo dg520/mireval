@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU272036.1 1 36632
+##description Pseudomonas phage MP29, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=505291
+EU272036.1	Rfam	ncRNA	8805	8876	58.89	+	.	ID=RF02276.1;Name=RF02276;Alias=Hammerhead_II;Note=EU272036.1/8805-8876

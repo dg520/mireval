@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X01572.1 1 2593
+##description Alfalfa mosaic virus (A1M4) RNA 2
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12321
+X01572.1	Rfam	regulatory_region	2408	2593	190.07	+	.	ID=RF00252.1;Name=RF00252;Alias=Alfamo_CPB;Note=X01572.1/2408-2593

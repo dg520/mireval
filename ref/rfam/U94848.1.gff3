@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U94848.1 1 177923
+##description Vaccinia virus strain Ankara, complete genomic sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10245
+U94848.1	Rfam	regulatory_region	128863	128924	87.48	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=U94848.1/128924-128863

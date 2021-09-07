@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M93130.1 1 10696
+##description Dengue type 3 virus complete genome RNA, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11069
+M93130.1	Rfam	regulatory_region	95	139	60.48	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=M93130.1/95-139
+M93130.1	Rfam	regulatory_region	10430	10501	68.67	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=M93130.1/10430-10501
+M93130.1	Rfam	regulatory_region	10514	10586	64.06	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=M93130.1/10514-10586
+M93130.1	Rfam	regulatory_region	10604	10696	90.10	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=M93130.1/10604-10696

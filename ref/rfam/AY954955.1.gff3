@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY954955.1 1 45861
+##description Bacteriophage 42e, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=320837
+AY954955.1	Rfam	ncRNA	21849	22028	76.92	+	.	ID=RF01492.1;Name=RF01492;Alias=rli28;Note=AY954955.1/21849-22028

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB038148.1 1 5841
+##description Soybean dwarf virus genomic RNA, complete genome, strain:YP.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12049
+AB038148.1	Rfam	regulatory_region	5240	5342	62.40	+	.	ID=RF00434.1;Name=RF00434;Alias=BTE;Note=AB038148.1/5240-5342

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU071100.1 1 47055
+##description Cyanophage 9515-10a, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=444875
+GU071100.1	Rfam	regulatory_region	35861	35917	49.48	-	.	ID=RF01704.1;Name=RF01704;Alias=Downstream-peptide;Note=GU071100.1/35917-35861

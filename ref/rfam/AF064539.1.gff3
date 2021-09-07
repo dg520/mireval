@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF064539.1 1 46375
+##description Bacteriophage N15, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=40631
+AF064539.1	Rfam	ncRNA	19863	20048	76.60	+	.	ID=RF02076.1;Name=RF02076;Alias=STnc100;Note=AF064539.1/19863-20048
+AF064539.1	Rfam	ncRNA	28301	28388	71.92	-	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=AF064539.1/28388-28301
+AF064539.1	Rfam	ncRNA	28414	28489	60.30	-	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=AF064539.1/28489-28414

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AP009624.1 1 46872
+##description Pseudomonas phage PAJU2 DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=504346
+AP009624.1	Rfam	ncRNA	23882	23969	56.71	-	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=AP009624.1/23969-23882

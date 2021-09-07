@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF332868.1 1 6383
+##description Tomato mosaic virus isolate Queensland, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12253
+AF332868.1	Rfam	regulatory_region	6226	6247	34.69	+	.	ID=RF01115.1;Name=RF01115;Alias=TMV_UPD-PK2;Note=AF332868.1/6226-6247
+AF332868.1	Rfam	regulatory_region	6248	6278	47.90	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AF332868.1/6248-6278
+AF332868.1	Rfam	regulatory_region	6280	6345	88.93	+	.	ID=RF01077.1;Name=RF01077;Alias=TLS-PK2;Note=AF332868.1/6280-6345

@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001324.1 1 1759951
+##description Micromonas sp. RCC299 chromosome 3, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296587
+CP001324.1	Rfam	ncRNA	346959	347032	64.95	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001324.1/346959-347032
+CP001324.1	Rfam	ncRNA	547348	547429	55.77	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=CP001324.1/547429-547348
+CP001324.1	Rfam	regulatory_region	626680	626782	66.85	-	.	ID=RF00059.1;Name=RF00059;Alias=TPP;Note=CP001324.1/626782-626680
+CP001324.1	Rfam	ncRNA	704477	704595	79.54	+	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=CP001324.1/704477-704595
+CP001324.1	Rfam	ncRNA	952115	952399	95.74	+	.	ID=RF01855.1;Name=RF01855;Alias=Plant_SRP;Note=CP001324.1/952115-952399

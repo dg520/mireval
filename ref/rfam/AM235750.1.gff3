@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM235750.1 1 7350
+##description Human parechovirus 4 complete genome, genomic RNA, strain T75-4077
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=362784
+AM235750.1	Rfam	regulatory_region	1	116	125.91	+	.	ID=RF00499.1;Name=RF00499;Alias=Parecho_CRE;Note=AM235750.1/1-116
+AM235750.1	Rfam	regulatory_region	257	706	164.08	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AM235750.1/257-706

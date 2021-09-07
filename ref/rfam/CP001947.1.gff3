@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001947.1 1 198217
+##description Encephalitozoon intestinalis ATCC 50506 chromosome VI, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876142
+CP001947.1	Rfam	ncRNA	111512	111583	59.50	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001947.1/111512-111583
+CP001947.1	Rfam	ncRNA	155750	155822	64.34	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=CP001947.1/155750-155822
+CP001947.1	Rfam	ncRNA	159017	159209	84.25	+	.	ID=RF00004.1;Name=RF00004;Alias=U2;Note=CP001947.1/159017-159209
+CP001947.1	Rfam	ncRNA	191880	191951	62.17	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=CP001947.1/191880-191951

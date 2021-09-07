@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ938065.1 1 30969
+##description Bovine respiratory coronavirus AH187, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=502108
+FJ938065.1	Rfam	regulatory_region	43	84	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=FJ938065.1/43-84
+FJ938065.1	Rfam	regulatory_region	13300	13384	80.65	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ938065.1/13300-13384
+FJ938065.1	Rfam	regulatory_region	19962	20090	151.15	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ938065.1/19962-20090
+FJ938065.1	Rfam	regulatory_region	30756	30817	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ938065.1/30756-30817

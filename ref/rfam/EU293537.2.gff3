@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU293537.2 1 8418
+##description Caprine arthritis encephalitis virus Roccaverano, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=507757
+EU293537.2	Rfam	regulatory_region	1860	1913	74.12	+	.	ID=RF01840.1;Name=RF01840;Alias=ovine_lenti_FSE;Note=EU293537.2/1860-1913

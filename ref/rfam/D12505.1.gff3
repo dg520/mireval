@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D12505.1 1 6424
+##description Cucumber green mottle mosaic virus RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12235
+D12505.1	Rfam	regulatory_region	6289	6319	42.06	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=D12505.1/6289-6319

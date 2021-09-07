@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF110996.1 1 3024
+##description Snow goose hepatitis B virus isolate SGHBV1-13, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=89623
+AF110996.1	Rfam	regulatory_region	2563	2619	81.15	+	.	ID=RF01313.1;Name=RF01313;Alias=AHBV_epsilon;Note=AF110996.1/2563-2619

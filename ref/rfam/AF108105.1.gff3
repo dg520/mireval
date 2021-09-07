@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF108105.1 1 35100
+##description Human adenovirus type 17 complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=46922
+AF108105.1	Rfam	ncRNA	10236	10396	108.17	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AF108105.1/10236-10396
+AF108105.1	Rfam	ncRNA	10455	10604	86.17	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=AF108105.1/10455-10604

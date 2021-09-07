@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF473561.1 1 5666
+##description Beet western yellows virus strain USA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12042
+AF473561.1	Rfam	regulatory_region	1475	1514	47.49	+	.	ID=RF01074.1;Name=RF01074;Alias=RF_site1;Note=AF473561.1/1475-1514

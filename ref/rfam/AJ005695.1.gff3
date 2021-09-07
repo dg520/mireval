@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ005695.1 1 7348
+##description Human parechovirus 2 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=39085
+AJ005695.1	Rfam	regulatory_region	1	113	125.53	+	.	ID=RF00499.1;Name=RF00499;Alias=Parecho_CRE;Note=AJ005695.1/1-113
+AJ005695.1	Rfam	regulatory_region	250	698	153.63	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AJ005695.1/250-698

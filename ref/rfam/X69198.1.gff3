@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X69198.1 1 185578
+##description Variola virus DNA complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10255
+X69198.1	Rfam	regulatory_region	124895	124956	84.55	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=X69198.1/124956-124895

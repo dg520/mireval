@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D10538.1 1 2216
+##description Cucumber mosaic virus genomic RNA, segment RNA 3, complete sequence, strain: Fny.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12305
+D10538.1	Rfam	regulatory_region	2091	2212	103.08	+	.	ID=RF01084.1;Name=RF01084;Alias=TLS-PK3;Note=D10538.1/2091-2212

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ287644.1 1 11508
+##description Western equine encephalomyelitis virus isolate BFS-2005, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11039
+GQ287644.1	Rfam	regulatory_region	1	260	176.24	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=GQ287644.1/1-260
+GQ287644.1	Rfam	regulatory_region	9861	9887	43.04	+	.	ID=RF01836.1;Name=RF01836;Alias=weev_FSE;Note=GQ287644.1/9861-9887

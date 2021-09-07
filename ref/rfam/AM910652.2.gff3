@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM910652.2 1 9490
+##description Hepatitis C virus subtype 1g complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=484894
+AM910652.2	Rfam	regulatory_region	52	295	256.85	+	.	ID=RF00061.1;Name=RF00061;Alias=IRES_HCV;Note=AM910652.2/52-295
+AM910652.2	Rfam	regulatory_region	338	490	166.43	+	.	ID=RF00620.1;Name=RF00620;Alias=HCV_ARF_SL;Note=AM910652.2/338-490
+AM910652.2	Rfam	regulatory_region	9113	9178	70.19	+	.	ID=RF00468.1;Name=RF00468;Alias=HCV_SLVII;Note=AM910652.2/9113-9178
+AM910652.2	Rfam	regulatory_region	9248	9298	59.92	+	.	ID=RF00260.1;Name=RF00260;Alias=HepC_CRE;Note=AM910652.2/9248-9298
+AM910652.2	Rfam	regulatory_region	9305	9341	54.23	+	.	ID=RF00469.1;Name=RF00469;Alias=HCV_SLIV;Note=AM910652.2/9305-9341

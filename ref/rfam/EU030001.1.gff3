@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU030001.1 1 8406
+##description RD114 retrovirus isolate SC3C, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11834
+EU030001.1	Rfam	regulatory_region	2597	2658	66.62	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=EU030001.1/2597-2658

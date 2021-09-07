@@ -1,0 +1,3 @@
+chrIV	3259502	3259511	100	color=green,id=-_Trl
+chrIV	3259500	3259509	100	color=green,id=-_Trl
+chrIV	3259498	3259507	100	color=green,id=-_Trl

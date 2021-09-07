@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU071104.1 1 47536
+##description Cyanophage NATL2A-133, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=445692
+GU071104.1	Rfam	regulatory_region	25341	25397	49.48	-	.	ID=RF01704.1;Name=RF01704;Alias=Downstream-peptide;Note=GU071104.1/25397-25341

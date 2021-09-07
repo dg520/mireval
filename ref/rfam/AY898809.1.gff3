@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY898809.1 1 10960
+##description Alfuy virus strain MRM3929, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=44017
+AY898809.1	Rfam	regulatory_region	96	143	47.72	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=AY898809.1/96-143
+AY898809.1	Rfam	regulatory_region	3566	3627	82.05	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=AY898809.1/3566-3627
+AY898809.1	Rfam	regulatory_region	10434	10491	64.92	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=AY898809.1/10434-10491
+AY898809.1	Rfam	regulatory_region	10594	10661	62.51	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=AY898809.1/10594-10661
+AY898809.1	Rfam	regulatory_region	10682	10755	67.18	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=AY898809.1/10682-10755
+AY898809.1	Rfam	regulatory_region	10762	10832	72.83	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=AY898809.1/10762-10832
+AY898809.1	Rfam	regulatory_region	10864	10960	67.07	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=AY898809.1/10864-10960

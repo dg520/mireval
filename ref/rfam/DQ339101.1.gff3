@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ339101.1 1 29755
+##description Human coronavirus HKU1 strain N5P8 genotype A/B recombinant, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=290028
+DQ339101.1	Rfam	regulatory_region	13445	13529	79.83	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=DQ339101.1/13445-13529
+DQ339101.1	Rfam	regulatory_region	20107	20235	129.14	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=DQ339101.1/20107-20235
+DQ339101.1	Rfam	regulatory_region	29533	29593	44.55	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=DQ339101.1/29533-29593

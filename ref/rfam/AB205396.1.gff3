@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB205396.1 1 7460
+##description Human coxsackievirus A18 genomic RNA, complete genome, strain: CAM1972.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42776
+AB205396.1	Rfam	regulatory_region	1	91	97.60	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AB205396.1/1-91
+AB205396.1	Rfam	regulatory_region	393	644	270.25	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AB205396.1/393-644
+AB205396.1	Rfam	regulatory_region	4464	4524	77.50	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AB205396.1/4464-4524

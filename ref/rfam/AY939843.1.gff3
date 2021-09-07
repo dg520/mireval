@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY939843.1 1 44970
+##description Cyanophage P-SSP7, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=268748
+AY939843.1	Rfam	regulatory_region	19588	19642	45.74	+	.	ID=RF01704.1;Name=RF01704;Alias=Downstream-peptide;Note=AY939843.1/19588-19642

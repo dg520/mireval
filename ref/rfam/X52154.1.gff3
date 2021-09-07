@@ -1,0 +1,15 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X52154.1 1 9811
+##description Chimpanzee immunodeficieny virus (CIV) (SIV(cpz)) genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11723
+X52154.1	Rfam	ncRNA	474	533	65.60	+	.	ID=RF00250.1;Name=RF00250;Alias=mir-TAR;Note=X52154.1/474-533
+X52154.1	Rfam	regulatory_region	599	693	86.61	+	.	ID=RF00375.1;Name=RF00375;Alias=HIV_PBS;Note=X52154.1/599-693
+X52154.1	Rfam	regulatory_region	713	751	58.17	+	.	ID=RF00175.1;Name=RF00175;Alias=HIV-1_DIS;Note=X52154.1/713-751
+X52154.1	Rfam	regulatory_region	752	770	32.23	+	.	ID=RF01380.1;Name=RF01380;Alias=HIV-1_SD;Note=X52154.1/752-770
+X52154.1	Rfam	regulatory_region	828	847	33.85	+	.	ID=RF01382.1;Name=RF01382;Alias=HIV-1_SL4;Note=X52154.1/828-847
+X52154.1	Rfam	regulatory_region	892	974	85.30	+	.	ID=RF00376.1;Name=RF00376;Alias=HIV_GSL3;Note=X52154.1/892-974
+X52154.1	Rfam	regulatory_region	2152	2203	53.74	+	.	ID=RF00480.1;Name=RF00480;Alias=HIV_FE;Note=X52154.1/2152-2203
+X52154.1	Rfam	regulatory_region	2527	2639	103.90	+	.	ID=RF01418.1;Name=RF01418;Alias=HIV_POL-1_SL;Note=X52154.1/2527-2639
+X52154.1	Rfam	regulatory_region	7759	8084	187.94	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=X52154.1/7759-8084
+X52154.1	Rfam	ncRNA	9632	9691	65.60	+	.	ID=RF00250.2;Name=RF00250;Alias=mir-TAR;Note=X52154.1/9632-9691

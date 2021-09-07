@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN382248.1 1 76260
+##description Mycobacterium phage Lilac, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1070990
+JN382248.1	Rfam	ncRNA	63339	63418	28.35	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN382248.1/63339-63418
+JN382248.1	Rfam	ncRNA	63424	63495	62.43	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=JN382248.1/63424-63495

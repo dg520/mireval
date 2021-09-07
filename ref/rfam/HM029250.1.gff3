@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM029250.1 1 114768
+##description Lactococcus phage 949, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=881953
+HM029250.1	Rfam	ncRNA	44843	44915	66.40	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM029250.1/44843-44915

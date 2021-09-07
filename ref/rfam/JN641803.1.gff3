@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN641803.1 1 240413
+##description Salmonella phage SPN3US, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1090134
+JN641803.1	Rfam	ncRNA	1771	1843	60.75	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN641803.1/1771-1843

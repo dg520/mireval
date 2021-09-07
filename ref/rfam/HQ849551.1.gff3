@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ849551.1 1 175699
+##description Yoka poxvirus strain DakArB 4268, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1076255
+HQ849551.1	Rfam	regulatory_region	118468	118529	52.69	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=HQ849551.1/118529-118468

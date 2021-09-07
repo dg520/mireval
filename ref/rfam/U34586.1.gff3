@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U34586.1 1 6609
+##description Odontoglossum ringspot virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12238
+U34586.1	Rfam	regulatory_region	6237	6257	35.58	+	.	ID=RF01083.1;Name=RF01083;Alias=UPD-PK2;Note=U34586.1/6237-6257
+U34586.1	Rfam	regulatory_region	6259	6289	40.46	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=U34586.1/6259-6289
+U34586.1	Rfam	regulatory_region	6362	6392	40.06	+	.	ID=RF01072.2;Name=RF01072;Alias=TMV_UPD-PK3;Note=U34586.1/6362-6392
+U34586.1	Rfam	regulatory_region	6451	6471	35.58	+	.	ID=RF01083.2;Name=RF01083;Alias=UPD-PK2;Note=U34586.1/6451-6471
+U34586.1	Rfam	regulatory_region	6473	6503	45.26	+	.	ID=RF01072.3;Name=RF01072;Alias=TMV_UPD-PK3;Note=U34586.1/6473-6503

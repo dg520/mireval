@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D00538.1 1 7401
+##description Human coxsackievirus A21 (strain Coe) genomic RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12070
+D00538.1	Rfam	regulatory_region	1	90	86.17	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=D00538.1/1-90
+D00538.1	Rfam	regulatory_region	387	638	268.63	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=D00538.1/387-638
+D00538.1	Rfam	regulatory_region	4407	4467	74.05	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=D00538.1/4407-4467

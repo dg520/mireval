@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ241819.1 1 35499
+##description Simian adenovirus 49 isolate C24948, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=995022
+HQ241819.1	Rfam	ncRNA	10436	10595	70.27	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=HQ241819.1/10436-10595

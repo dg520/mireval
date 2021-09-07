@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ006589.2 1 41491
+##description Bacteriophage phi-C31 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10719
+AJ006589.2	Rfam	ncRNA	40702	40776	55.92	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AJ006589.2/40702-40776

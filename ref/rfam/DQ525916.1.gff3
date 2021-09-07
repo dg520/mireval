@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ525916.1 1 10940
+##description St. Louis encephalitis virus strain Kern217, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11080
+DQ525916.1	Rfam	regulatory_region	99	146	53.85	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=DQ525916.1/99-146
+DQ525916.1	Rfam	regulatory_region	10678	10747	64.61	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=DQ525916.1/10678-10747
+DQ525916.1	Rfam	regulatory_region	10751	10822	69.74	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=DQ525916.1/10751-10822
+DQ525916.1	Rfam	regulatory_region	10846	10940	71.38	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=DQ525916.1/10846-10940

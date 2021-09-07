@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU684972.1 1 10284
+##description Bagaza virus isolate 96363, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64290
+EU684972.1	Rfam	regulatory_region	1	51	38.41	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=EU684972.1/1-51

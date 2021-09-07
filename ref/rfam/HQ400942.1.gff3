@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ400942.1 1 7405
+##description Human enterovirus 71 HZ08/Hangzhou/2008, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1006008
+HQ400942.1	Rfam	regulatory_region	1	90	98.21	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=HQ400942.1/1-90
+HQ400942.1	Rfam	regulatory_region	391	642	282.67	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=HQ400942.1/391-642
+HQ400942.1	Rfam	regulatory_region	4396	4456	70.38	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=HQ400942.1/4396-4456

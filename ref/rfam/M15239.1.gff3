@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M15239.1 1 9497
+##description Tobacco etch virus RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12227
+M15239.1	Rfam	regulatory_region	38	74	51.00	+	.	ID=RF01102.1;Name=RF01102;Alias=PK1-TEV_CVMV;Note=M15239.1/38-74

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ591093.1 1 74611
+##description Roseophage DSS3P2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=490912
+FJ591093.1	Rfam	ncRNA	73610	73683	63.35	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FJ591093.1/73610-73683
+FJ591093.1	Rfam	ncRNA	73693	73764	63.67	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=FJ591093.1/73693-73764
+FJ591093.1	Rfam	ncRNA	73770	73856	55.70	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=FJ591093.1/73770-73856

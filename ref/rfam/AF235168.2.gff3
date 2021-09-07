@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF235168.2 1 5662
+##description Cereal yellow dwarf virus-RPS RPV Mex-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=228582
+AF235168.2	Rfam	regulatory_region	1595	1634	37.45	+	.	ID=RF01074.1;Name=RF01074;Alias=RF_site1;Note=AF235168.2/1595-1634

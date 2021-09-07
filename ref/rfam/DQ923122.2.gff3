@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ923122.2 1 34250
+##description Human adenovirus 52 isolate T03-2244, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=332179
+DQ923122.2	Rfam	ncRNA	10007	10173	80.58	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=DQ923122.2/10007-10173

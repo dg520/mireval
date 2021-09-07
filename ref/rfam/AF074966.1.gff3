@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF074966.1 1 9028
+##description Simian T-cell lymphotropic virus type 1 isolate Tan90 from Central African Republic, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=33747
+AF074966.1	Rfam	regulatory_region	2601	2643	61.82	+	.	ID=RF01790.1;Name=RF01790;Alias=htlv_FSE;Note=AF074966.1/2601-2643

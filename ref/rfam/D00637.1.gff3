@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D00637.1 1 6362
+##description Kennedya yellow mosaic virus genomic RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12158
+D00637.1	Rfam	regulatory_region	6279	6362	87.94	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=D00637.1/6279-6362

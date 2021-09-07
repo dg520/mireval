@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF424783.1 1 42722
+##description Staphylococcus aureus phage phi 13, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=186153
+AF424783.1	Rfam	ncRNA	36836	37015	77.51	+	.	ID=RF01492.1;Name=RF01492;Alias=rli28;Note=AF424783.1/36836-37015
+AF424783.1	Rfam	ncRNA	40870	41011	160.55	+	.	ID=RF01828.1;Name=RF01828;Alias=SprD;Note=AF424783.1/40870-41011

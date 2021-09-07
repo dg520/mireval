@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ473497.1 1 7025
+##description Human rhinovirus 23, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12135
+DQ473497.1	Rfam	regulatory_region	320	537	154.95	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=DQ473497.1/320-537

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB644282.1 1 3203
+##description HBV recombinant B/C DNA, complete genome, isolate: NAB20.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1052603
+AB644282.1	Rfam	regulatory_region	1835	1895	79.65	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=AB644282.1/1835-1895

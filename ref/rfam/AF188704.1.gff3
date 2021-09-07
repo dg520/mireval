@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF188704.1 1 9762
+##description Rubella virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11041
+AF188704.1	Rfam	regulatory_region	9674	9741	93.74	+	.	ID=RF00194.1;Name=RF00194;Alias=Rubella_3;Note=AF188704.1/9674-9741

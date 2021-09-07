@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY278554.2 1 29736
+##description SARS coronavirus CUHK-W1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=228415
+AY278554.2	Rfam	regulatory_region	13384	13465	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY278554.2/13384-13465
+AY278554.2	Rfam	regulatory_region	29569	29611	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=AY278554.2/29569-29611

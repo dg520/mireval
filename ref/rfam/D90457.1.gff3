@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region D90457.1 1 7461
+##description Human coxsackievirus A24 DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12089
+D90457.1	Rfam	regulatory_region	1	91	98.19	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=D90457.1/1-91
+D90457.1	Rfam	regulatory_region	396	647	260.16	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=D90457.1/396-647
+D90457.1	Rfam	regulatory_region	4467	4527	69.22	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=D90457.1/4467-4527

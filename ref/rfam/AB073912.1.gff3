@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB073912.1 1 7257
+##description Swine hepatitis E virus genomic RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=63421
+AB073912.1	Rfam	regulatory_region	5081	5227	140.91	+	.	ID=RF00550.1;Name=RF00550;Alias=HepE_CRE;Note=AB073912.1/5081-5227

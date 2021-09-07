@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M55506.1 1 10969
+##description Japanese encephalitis SA-14 virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11072
+M55506.1	Rfam	regulatory_region	96	143	55.37	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=M55506.1/96-143
+M55506.1	Rfam	regulatory_region	3566	3627	79.96	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=M55506.1/3566-3627
+M55506.1	Rfam	regulatory_region	10454	10512	85.67	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=M55506.1/10454-10512
+M55506.1	Rfam	regulatory_region	10614	10684	74.76	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=M55506.1/10614-10684
+M55506.1	Rfam	regulatory_region	10705	10779	75.60	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=M55506.1/10705-10779
+M55506.1	Rfam	regulatory_region	10786	10857	81.60	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=M55506.1/10786-10857
+M55506.1	Rfam	regulatory_region	10877	10969	59.87	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=M55506.1/10877-10969

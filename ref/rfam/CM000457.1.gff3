@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000457.1 1 3288761
+##description Drosophila melanogaster 2RHet genomic scaffold, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7227
+CM000457.1	Rfam	regulatory_region	405645	405730	54.32	-	.	ID=RF00524.1;Name=RF00524;Alias=R2_retro_el;Note=CP000188.2/405730-405645
+CM000457.1	Rfam	regulatory_region	899624	899709	54.42	+	.	ID=RF00524.2;Name=RF00524;Alias=R2_retro_el;Note=CP000223.3/300541-300626
+CM000457.1	Rfam	regulatory_region	1450718	1450803	44.29	+	.	ID=RF00524.3;Name=RF00524;Alias=R2_retro_el;Note=CP000223.3/851635-851720
+CM000457.1	Rfam	regulatory_region	1684141	1684226	50.14	-	.	ID=RF00524.4;Name=RF00524;Alias=R2_retro_el;Note=CP000223.3/1085143-1085058
+CM000457.1	Rfam	regulatory_region	2983750	2983840	57.85	+	.	ID=RF00524.5;Name=RF00524;Alias=R2_retro_el;Note=CP000217.2/372809-372899

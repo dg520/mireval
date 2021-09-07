@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB540582.1 1 3215
+##description HBV genotype B DNA, complete genome, strain: B0901189(NT15).
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=489460
+AB540582.1	Rfam	regulatory_region	1847	1907	85.21	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=AB540582.1/1847-1907

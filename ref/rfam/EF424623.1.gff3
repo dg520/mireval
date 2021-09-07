@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF424623.1 1 31002
+##description Giraffe coronavirus US/OH3/2003, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=422139
+EF424623.1	Rfam	regulatory_region	69	110	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=EF424623.1/69-110
+EF424623.1	Rfam	regulatory_region	13326	13410	80.65	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EF424623.1/13326-13410
+EF424623.1	Rfam	regulatory_region	19988	20116	149.87	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=EF424623.1/19988-20116
+EF424623.1	Rfam	regulatory_region	30766	30827	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=EF424623.1/30766-30827

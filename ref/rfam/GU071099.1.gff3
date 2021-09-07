@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU071099.1 1 176428
+##description Prochlorococcus phage P-RSM4, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=444862
+GU071099.1	Rfam	ncRNA	22119	22202	48.83	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GU071099.1/22119-22202
+GU071099.1	Rfam	regulatory_region	120784	120973	157.33	+	.	ID=RF01745.1;Name=RF01745;Alias=manA;Note=GU071099.1/120784-120973
+GU071099.1	Rfam	ncRNA	165837	165909	67.51	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=GU071099.1/165837-165909
+GU071099.1	Rfam	regulatory_region	168301	168400	75.20	+	.	ID=RF01717.1;Name=RF01717;Alias=PhotoRC-II;Note=GU071099.1/168301-168400

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN430414.1 1 27643
+##description Infectious bronchitis virus ITA/90254/2005, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=658929
+FN430414.1	Rfam	regulatory_region	12329	12410	81.39	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FN430414.1/12329-12410
+FN430414.1	Rfam	regulatory_region	27351	27392	70.02	+	.	ID=RF00385.1;Name=RF00385;Alias=IBV_D-RNA;Note=FN430414.1/27351-27392
+FN430414.1	Rfam	regulatory_region	27510	27552	63.54	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FN430414.1/27510-27552

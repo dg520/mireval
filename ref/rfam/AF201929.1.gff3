@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF201929.1 1 31276
+##description Murine hepatitis virus strain 2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=76344
+AF201929.1	Rfam	regulatory_region	13440	13524	83.12	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AF201929.1/13440-13524
+AF201929.1	Rfam	regulatory_region	20093	20221	149.11	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=AF201929.1/20093-20221
+AF201929.1	Rfam	regulatory_region	31021	31082	57.36	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=AF201929.1/31021-31082

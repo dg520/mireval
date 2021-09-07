@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY700211.1 1 31335
+##description Murine hepatitis virus strain A59, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11138
+AY700211.1	Rfam	regulatory_region	13603	13687	79.96	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AY700211.1/13603-13687
+AY700211.1	Rfam	regulatory_region	20256	20384	147.37	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=AY700211.1/20256-20384
+AY700211.1	Rfam	regulatory_region	31094	31155	57.36	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=AY700211.1/31094-31155

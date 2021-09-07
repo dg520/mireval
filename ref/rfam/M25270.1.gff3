@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M25270.1 1 4701
+##description Cucumber necrosis virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12143
+M25270.1	Rfam	regulatory_region	2	154	142.43	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=M25270.1/2-154
+M25270.1	Rfam	regulatory_region	1345	1438	107.57	+	.	ID=RF00510.1;Name=RF00510;Alias=Tombus_IRE;Note=M25270.1/1345-1438
+M25270.1	Rfam	regulatory_region	4345	4402	42.98	+	.	ID=RF00215.1;Name=RF00215;Alias=Tombus_3_III;Note=M25270.1/4345-4402
+M25270.1	Rfam	regulatory_region	4613	4701	93.13	+	.	ID=RF00176.1;Name=RF00176;Alias=Tombus_3_IV;Note=M25270.1/4613-4701

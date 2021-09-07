@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF079457.1 1 11821
+##description Igbo Ora virus strain IBH10964, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=79899
+AF079457.1	Rfam	regulatory_region	41	294	155.88	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=AF079457.1/41-294

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ355023.1 1 6375
+##description Bell pepper mottle tobamovirus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=368735
+DQ355023.1	Rfam	regulatory_region	6240	6270	47.90	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=DQ355023.1/6240-6270
+DQ355023.1	Rfam	regulatory_region	6272	6337	87.59	+	.	ID=RF01077.1;Name=RF01077;Alias=TLS-PK2;Note=DQ355023.1/6272-6337

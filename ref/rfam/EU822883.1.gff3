@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU822883.1 1 37635
+##description Burkholderia phage KS10, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=557289
+EU822883.1	Rfam	ncRNA	15732	15799	63.51	+	.	ID=RF02276.1;Name=RF02276;Alias=Hammerhead_II;Note=EU822883.1/15732-15799

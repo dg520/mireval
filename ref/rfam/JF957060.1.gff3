@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF957060.1 1 53278
+##description Mycobacterium phage Timshel, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1032895
+JF957060.1	Rfam	ncRNA	5374	5446	60.90	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JF957060.1/5374-5446

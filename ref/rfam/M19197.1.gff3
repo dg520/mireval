@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M19197.1 1 10703
+##description Dengue virus type 2 (S1 vaccine strain), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11060
+M19197.1	Rfam	regulatory_region	97	141	57.08	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=M19197.1/97-141
+M19197.1	Rfam	regulatory_region	10434	10505	68.48	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=M19197.1/10434-10505
+M19197.1	Rfam	regulatory_region	10521	10592	84.10	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=M19197.1/10521-10592
+M19197.1	Rfam	regulatory_region	10611	10703	89.83	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=M19197.1/10611-10703

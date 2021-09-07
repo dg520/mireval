@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF016316.1 1 8282
+##description Equine infectious anemia virus clone EIAVuk, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11665
+AF016316.1	Rfam	regulatory_region	1722	1756	58.87	+	.	ID=RF01792.1;Name=RF01792;Alias=eiav_FSE;Note=AF016316.1/1722-1756

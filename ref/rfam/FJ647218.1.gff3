@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ647218.1 1 31285
+##description Murine coronavirus RA59/R13, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=591069
+FJ647218.1	Rfam	regulatory_region	13579	13663	82.52	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ647218.1/13579-13663
+FJ647218.1	Rfam	regulatory_region	20232	20360	147.37	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ647218.1/20232-20360
+FJ647218.1	Rfam	regulatory_region	31070	31131	57.36	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ647218.1/31070-31131

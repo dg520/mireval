@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CR548612.1 1 984602
+##description Paramecium tetraurelia macronuclear largest chromosome, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5888
+CR548612.1	Rfam	ncRNA	516635	516706	56.52	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CR548612.1/516706-516635

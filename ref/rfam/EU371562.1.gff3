@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU371562.1 1 29602
+##description SARS coronavirus BJ182-4, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=511430
+EU371562.1	Rfam	regulatory_region	13399	13480	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EU371562.1/13399-13480
+EU371562.1	Rfam	regulatory_region	29455	29497	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=EU371562.1/29455-29497

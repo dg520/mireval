@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY939844.2 1 252401
+##description Prochlorococcus phage P-SSM2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=268746
+AY939844.2	Rfam	regulatory_region	142835	143033	169.71	+	.	ID=RF01745.1;Name=RF01745;Alias=manA;Note=AY939844.2/142835-143033
+AY939844.2	Rfam	regulatory_region	211392	211481	48.63	+	.	ID=RF01717.1;Name=RF01717;Alias=PhotoRC-II;Note=AY939844.2/211392-211481
+AY939844.2	Rfam	regulatory_region	245155	245206	33.14	+	.	ID=RF01739.1;Name=RF01739;Alias=glnA;Note=AY939844.2/245155-245206

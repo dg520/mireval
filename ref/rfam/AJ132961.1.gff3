@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ132961.1 1 7441
+##description Human poliovirus 1, complete genome. Isolated from an immunodeficient patient 66 months after onset of paresis.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12080
+AJ132961.1	Rfam	regulatory_region	1	91	99.16	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AJ132961.1/1-91
+AJ132961.1	Rfam	regulatory_region	390	640	268.38	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AJ132961.1/390-640
+AJ132961.1	Rfam	regulatory_region	4445	4505	77.58	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AJ132961.1/4445-4505

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB285204.1 1 47021
+##description Phage cdtI DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=414970
+AB285204.1	Rfam	ncRNA	36477	36553	55.64	+	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=AB285204.1/36477-36553
+AB285204.1	Rfam	ncRNA	36578	36665	62.28	+	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=AB285204.1/36578-36665

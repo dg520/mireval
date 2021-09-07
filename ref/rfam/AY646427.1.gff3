@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY646427.1 1 12296
+##description Classical swine fever virus strain 94.4/IL/94/TWN, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11096
+AY646427.1	Rfam	regulatory_region	107	380	304.70	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=AY646427.1/107-380

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ792504.1 1 212633
+##description Horsepox virus isolate MNR-76, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=397342
+DQ792504.1	Rfam	regulatory_region	145449	145510	81.78	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=DQ792504.1/145510-145449

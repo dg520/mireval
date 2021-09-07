@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF323673.1 1 15179
+##description Bacteriophage bIL312, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=151539
+AF323673.1	Rfam	regulatory_region	14587	14667	51.25	+	.	ID=RF01766.1;Name=RF01766;Alias=cspA;Note=AF323673.1/14587-14667

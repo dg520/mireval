@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU339467.1 1 53332
+##description Mycobacteriophage RedRock, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=711470
+GU339467.1	Rfam	ncRNA	6249	6321	60.21	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GU339467.1/6249-6321

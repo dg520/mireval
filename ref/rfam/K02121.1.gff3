@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region K02121.1 1 7212
+##description Human rhinovirus type 14 (HRV14), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12131
+K02121.1	Rfam	regulatory_region	1	85	54.55	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=K02121.1/1-85
+K02121.1	Rfam	regulatory_region	398	643	135.11	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=K02121.1/398-643
+K02121.1	Rfam	regulatory_region	2330	2415	98.44	+	.	ID=RF00220.1;Name=RF00220;Alias=Rhino_CRE;Note=K02121.1/2330-2415

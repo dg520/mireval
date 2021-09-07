@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY302550.1 1 7424
+##description Human echovirus 26 strain Coronel complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=47511
+AY302550.1	Rfam	regulatory_region	1	90	103.91	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY302550.1/1-90
+AY302550.1	Rfam	regulatory_region	392	643	291.25	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY302550.1/392-643
+AY302550.1	Rfam	regulatory_region	4386	4446	77.29	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY302550.1/4386-4446
+AY302550.1	Rfam	regulatory_region	7303	7424	138.03	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=AY302550.1/7303-7424

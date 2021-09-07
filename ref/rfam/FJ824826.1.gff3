@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ824826.1 1 35130
+##description Human adenovirus 28 strain BP-5, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=46930
+FJ824826.1	Rfam	ncRNA	10245	10404	115.64	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=FJ824826.1/10245-10404
+FJ824826.1	Rfam	ncRNA	10463	10612	86.17	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=FJ824826.1/10463-10612

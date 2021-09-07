@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M14707.1 1 7478
+##description Hepatitis A virus (wild-type) RNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12092
+M14707.1	Rfam	regulatory_region	166	737	731.81	+	.	ID=RF00228.1;Name=RF00228;Alias=IRES_HepA;Note=M14707.1/166-737
+M14707.1	Rfam	regulatory_region	7424	7478	64.50	+	.	ID=RF01096.1;Name=RF01096;Alias=PK-HAV;Note=M14707.1/7424-7478

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ530361.1 1 44061
+##description Staphylococcus aureus phage phiNM3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=387909
+DQ530361.1	Rfam	ncRNA	38163	38341	81.01	+	.	ID=RF01492.1;Name=RF01492;Alias=rli28;Note=DQ530361.1/38163-38341
+DQ530361.1	Rfam	ncRNA	42198	42339	160.77	+	.	ID=RF01828.1;Name=RF01828;Alias=SprD;Note=DQ530361.1/42198-42339

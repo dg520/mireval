@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP002515.1 1 1012010
+##description Candidatus Chloracidobacterium thermophilum B chromosome 2, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=981222
+CP002515.1	Rfam	ncRNA	235103	235176	58.15	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP002515.1/235176-235103
+CP002515.1	Rfam	ncRNA	255576	255648	72.31	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=CP002515.1/255648-255576
+CP002515.1	Rfam	ncRNA	476416	476489	63.23	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=CP002515.1/476416-476489
+CP002515.1	Rfam	ncRNA	545035	545107	70.35	+	.	ID=RF00005.4;Name=RF00005;Alias=tRNA;Note=CP002515.1/545035-545107

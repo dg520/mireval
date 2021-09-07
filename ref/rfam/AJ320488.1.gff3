@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ320488.1 1 8168
+##description Foot-and-mouth disease virus O genomic RNA, isolate O1Campos, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12118
+AJ320488.1	Rfam	regulatory_region	620	1080	540.00	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AJ320488.1/620-1080

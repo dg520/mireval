@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ452243.1 1 42822
+##description Enterococcus phage phiEf11, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=663241
+GQ452243.1	Rfam	ncRNA	39646	39718	66.60	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GQ452243.1/39646-39718

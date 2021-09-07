@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN597045.1 1 5170003
+##description Vitis vinifera, whole genome shotgun sequence of line PN40024, unordered unoriented chromosome 18, chr18_random 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29760
+FN597045.1	Rfam	ncRNA	558719	558825	38.04	-	.	ID=RF00097.1;Name=RF00097;Alias=snoR71;Note=FN595771.1/558825-558719
+FN597045.1	Rfam	ncRNA	1282790	1283058	127.10	-	.	ID=RF01855.1;Name=RF01855;Alias=Plant_SRP;Note=FN595771.1/1283058-1282790
+FN597045.1	Rfam	ncRNA	2145965	2146046	38.04	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FN595772.1/235269-235188
+FN597045.1	Rfam	ncRNA	4562148	4562226	33.28	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=FN595996.1/1182987-1183065
+FN597045.1	Rfam	ncRNA	4977352	4977458	60.76	-	.	ID=RF00097.2;Name=RF00097;Alias=snoR71;Note=FN595996.1/1598297-1598191

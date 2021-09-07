@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR775201.1 1 12386
+##description Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1 complete genome, contig 14
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=936157
+FR775201.1	Rfam	ncRNA	192	276	50.85	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FR775201.1/276-192

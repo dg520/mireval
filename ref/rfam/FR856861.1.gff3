@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR856861.1 1 1161602
+##description Novosphingobium sp. PP1Y Mpl megaplasmid, complete replicon
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=702113
+FR856861.1	Rfam	ncRNA	242915	242989	35.94	-	.	ID=RF00519.1;Name=RF00519;Alias=suhB;Note=FR856861.1/242989-242915

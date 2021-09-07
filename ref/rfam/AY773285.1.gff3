@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY773285.1 1 7438
+##description Human enterovirus 90 isolate F950027, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=297248
+AY773285.1	Rfam	regulatory_region	2	92	100.63	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY773285.1/2-92
+AY773285.1	Rfam	regulatory_region	394	644	281.69	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY773285.1/394-644
+AY773285.1	Rfam	regulatory_region	4405	4465	71.95	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY773285.1/4405-4465

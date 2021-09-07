@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Y14459.1 1 7351
+##description Porcine enterovirus type 9, complete genome sequence, isolate UKG/410/73
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64141
+Y14459.1	Rfam	regulatory_region	388	637	240.13	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=Y14459.1/388-637
+Y14459.1	Rfam	regulatory_region	4345	4405	58.41	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=Y14459.1/4345-4405

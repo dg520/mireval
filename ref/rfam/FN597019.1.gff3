@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN597019.1 1 1220746
+##description Vitis vinifera, whole genome shotgun sequence of line PN40024, unordered unoriented chromosome 3, chr3_random 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=29760
+FN597019.1	Rfam	ncRNA	189644	189777	107.70	+	.	ID=RF00975.1;Name=RF00975;Alias=MIR845_2;Note=FN596515.1/189644-189777

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ889918.1 1 7322
+##description Human parechovirus 3 genomic RNA, complete genome, isolate Can82853-01
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=195055
+AJ889918.1	Rfam	regulatory_region	1	115	123.80	+	.	ID=RF00499.1;Name=RF00499;Alias=Parecho_CRE;Note=AJ889918.1/1-115
+AJ889918.1	Rfam	regulatory_region	250	699	150.42	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AJ889918.1/250-699

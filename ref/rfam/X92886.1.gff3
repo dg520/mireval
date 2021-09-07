@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X92886.1 1 7451
+##description Echovirus 9 (strain Barty), complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=103914
+X92886.1	Rfam	regulatory_region	1	90	105.00	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=X92886.1/1-90
+X92886.1	Rfam	regulatory_region	392	642	273.31	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=X92886.1/392-642
+X92886.1	Rfam	regulatory_region	4415	4475	79.48	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=X92886.1/4415-4475
+X92886.1	Rfam	regulatory_region	7332	7451	108.67	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=X92886.1/7332-7451

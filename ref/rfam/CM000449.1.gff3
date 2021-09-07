@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000449.1 1 1678596
+##description Plasmodium vivax chromosome 8, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5855
+CM000449.1	Rfam	ncRNA	137900	138051	69.68	-	.	ID=RF00002.1;Name=RF00002;Alias=5_8S_rRNA;Note=AAKM01000008.1/138051-137900
+CM000449.1	Rfam	ncRNA	1230933	1231006	66.88	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AAKM01000017.1/447664-447591
+CM000449.1	Rfam	ncRNA	1231649	1231721	59.02	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AAKM01000017.1/446876-446948
+CM000449.1	Rfam	ncRNA	1395933	1396066	101.26	-	.	ID=RF00015.1;Name=RF00015;Alias=U4;Note=AAKM01000017.1/282531-282664

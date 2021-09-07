@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000827.4 1 86898991
+##description Sus scrofa chromosome 16. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9823
+CM000827.4	Rfam	ncRNA	1078189	1078296	83.47	+	.	ID=RF00026.1;Name=RF00026;Alias=U6;Note=AEMK01080416.1/1348-1455

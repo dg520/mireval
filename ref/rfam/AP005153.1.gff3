@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AP005153.1 1 59866
+##description Stx1 converting phage DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=194948
+AP005153.1	Rfam	ncRNA	28596	28770	120.82	-	.	ID=RF01794.1;Name=RF01794;Alias=sok;Note=AP005153.1/28770-28596
+AP005153.1	Rfam	ncRNA	31392	31480	63.38	-	.	ID=RF02221.1;Name=RF02221;Alias=sRNA-Xcc1;Note=AP005153.1/31480-31392
+AP005153.1	Rfam	regulatory_region	39786	39844	85.65	-	.	ID=RF01804.1;Name=RF01804;Alias=Lambda_thermo;Note=AP005153.1/39844-39786
+AP005153.1	Rfam	ncRNA	52624	52833	176.49	+	.	ID=RF02076.1;Name=RF02076;Alias=STnc100;Note=AP005153.1/52624-52833

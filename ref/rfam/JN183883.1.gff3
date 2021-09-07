@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN183883.1 1 29222
+##description Feline coronavirus UU54, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1052158
+JN183883.1	Rfam	regulatory_region	12320	12398	78.66	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=JN183883.1/12320-12398
+JN183883.1	Rfam	regulatory_region	29023	29085	78.39	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=JN183883.1/29023-29085

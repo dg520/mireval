@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF352024.1 1 5776
+##description Beet chlorosis virus isolate BChV-2a, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=131082
+AF352024.1	Rfam	regulatory_region	1581	1620	46.44	+	.	ID=RF01074.1;Name=RF01074;Alias=RF_site1;Note=AF352024.1/1581-1620

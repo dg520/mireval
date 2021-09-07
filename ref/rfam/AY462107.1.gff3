@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY462107.1 1 7391
+##description Possum enterovirus W6, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=263532
+AY462107.1	Rfam	regulatory_region	1	90	83.33	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=AY462107.1/1-90
+AY462107.1	Rfam	regulatory_region	111	201	26.20	+	.	ID=RF00386.2;Name=RF00386;Alias=Entero_5_CRE;Note=AY462107.1/111-201
+AY462107.1	Rfam	regulatory_region	468	707	96.26	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=AY462107.1/468-707
+AY462107.1	Rfam	regulatory_region	4396	4432	30.67	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=AY462107.1/4396-4432

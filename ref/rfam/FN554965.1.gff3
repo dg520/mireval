@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN554965.1 1 895117
+##description Trypanosoma brucei gambiense DAL972 chromosome 2, complete sequence
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=679716
+FN554965.1	Rfam	ncRNA	765739	765887	86.01	+	.	ID=RF00004.1;Name=RF00004;Alias=U2;Note=FN554965.1/765739-765887

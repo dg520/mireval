@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M58410.1 1 9623
+##description Simian (African green monkey) immunodeficiency virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11723
+M58410.1	Rfam	regulatory_region	644	716	30.02	+	.	ID=RF00375.1;Name=RF00375;Alias=HIV_PBS;Note=M58410.1/644-716
+M58410.1	Rfam	regulatory_region	7773	8014	58.75	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=M58410.1/7773-8014

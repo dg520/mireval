@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X73476.1 1 15480
+##description Beet yellows virus (isolate Ukrainian BYV-U) complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12161
+X73476.1	Rfam	regulatory_region	15440	15479	58.22	+	.	ID=RF01100.1;Name=RF01100;Alias=PK-BYV;Note=X73476.1/15440-15479

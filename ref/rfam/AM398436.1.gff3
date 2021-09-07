@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM398436.1 1 6381
+##description Brugmansia sp. tobamovirus complete virion genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=402399
+AM398436.1	Rfam	regulatory_region	6246	6275	38.52	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AM398436.1/6246-6275

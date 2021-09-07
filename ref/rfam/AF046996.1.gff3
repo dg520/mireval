@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF046996.1 1 3179
+##description Woolly monkey hepatitis B Virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=68416
+AF046996.1	Rfam	regulatory_region	1849	1909	82.39	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=AF046996.1/1849-1909

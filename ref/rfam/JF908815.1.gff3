@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JF908815.1 1 8657
+##description Xenotropic murine leukemia virus isolate VCaP, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11837
+JF908815.1	Rfam	regulatory_region	676	775	102.11	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=JF908815.1/676-775
+JF908815.1	Rfam	regulatory_region	2631	2692	78.18	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=JF908815.1/2631-2692

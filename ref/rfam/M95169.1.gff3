@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M95169.1 1 27608
+##description Avian infectious bronchitis virus pol protein, spike protein, small virion-associated protein, membrane protein, and nucleocapsid protein genes, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11120
+M95169.1	Rfam	regulatory_region	12355	12436	84.83	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=M95169.1/12355-12436
+M95169.1	Rfam	regulatory_region	27312	27353	70.02	+	.	ID=RF00385.1;Name=RF00385;Alias=IBV_D-RNA;Note=M95169.1/27312-27353
+M95169.1	Rfam	regulatory_region	27471	27513	63.54	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=M95169.1/27471-27513

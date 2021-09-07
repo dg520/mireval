@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FR796399.1 1 384502
+##description Leishmania major strain Friedlin complete genome, chromosome 3
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=347515
+FR796399.1	Rfam	ncRNA	259299	259371	65.92	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FR796399.1/259299-259371

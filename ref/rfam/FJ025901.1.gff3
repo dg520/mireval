@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ025901.1 1 37152
+##description Simian adenovirus 45, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=585079
+FJ025901.1	Rfam	ncRNA	10495	10658	107.18	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=FJ025901.1/10495-10658
+FJ025901.1	Rfam	ncRNA	10725	10895	109.22	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=FJ025901.1/10725-10895

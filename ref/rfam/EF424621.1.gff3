@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF424621.1 1 30995
+##description Sable antelope coronavirus US/OH1/2003, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=422138
+EF424621.1	Rfam	regulatory_region	70	111	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=EF424621.1/70-111
+EF424621.1	Rfam	regulatory_region	13327	13411	80.65	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=EF424621.1/13327-13411
+EF424621.1	Rfam	regulatory_region	19989	20117	149.87	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=EF424621.1/19989-20117
+EF424621.1	Rfam	regulatory_region	30782	30843	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=EF424621.1/30782-30843

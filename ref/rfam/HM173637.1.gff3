@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM173637.1 1 36661
+##description Escherichia phage HK75, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=906668
+HM173637.1	Rfam	regulatory_region	25595	25653	85.65	-	.	ID=RF01804.1;Name=RF01804;Alias=Lambda_thermo;Note=HM173637.1/25653-25595

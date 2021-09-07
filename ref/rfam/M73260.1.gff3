@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M73260.1 1 35935
+##description Mastadenovirus h5 gene, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28285
+M73260.1	Rfam	ncRNA	10621	10777	91.52	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=M73260.1/10621-10777
+M73260.1	Rfam	ncRNA	10876	11033	97.14	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=M73260.1/10876-11033

@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ728260.1 1 7434
+##description Human coxsackievirus A4 strain CVA4/SZ/CHN/09, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42785
+HQ728260.1	Rfam	regulatory_region	2	91	99.88	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=HQ728260.1/2-91
+HQ728260.1	Rfam	regulatory_region	398	649	291.32	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=HQ728260.1/398-649
+HQ728260.1	Rfam	regulatory_region	4425	4485	75.16	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=HQ728260.1/4425-4485

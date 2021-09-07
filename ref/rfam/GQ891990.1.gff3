@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ891990.1 1 6584
+##description Astrovirus SG, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=767521
+GQ891990.1	Rfam	regulatory_region	6463	6505	61.38	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=GQ891990.1/6463-6505

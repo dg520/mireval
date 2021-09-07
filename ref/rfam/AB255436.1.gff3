@@ -1,0 +1,11 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB255436.1 1 60238
+##description Stx2-converting phage 86 DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=379329
+AB255436.1	Rfam	ncRNA	1316	1521	204.60	+	.	ID=RF02076.1;Name=RF02076;Alias=STnc100;Note=AB255436.1/1316-1521
+AB255436.1	Rfam	ncRNA	41060	41149	60.98	-	.	ID=RF02221.1;Name=RF02221;Alias=sRNA-Xcc1;Note=AB255436.1/41149-41060
+AB255436.1	Rfam	regulatory_region	46833	46891	85.65	-	.	ID=RF01804.1;Name=RF01804;Alias=Lambda_thermo;Note=AB255436.1/46891-46833
+AB255436.1	Rfam	ncRNA	59897	59969	69.07	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AB255436.1/59897-59969
+AB255436.1	Rfam	ncRNA	59982	60055	55.95	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AB255436.1/59982-60055
+AB255436.1	Rfam	ncRNA	60072	60145	64.65	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AB255436.1/60072-60145

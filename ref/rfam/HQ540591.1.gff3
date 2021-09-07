@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ540591.1 1 9182
+##description Porcine endogenous retrovirus A clone 907F8, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=194958
+HQ540591.1	Rfam	regulatory_region	3010	3071	73.09	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=HQ540591.1/3010-3071

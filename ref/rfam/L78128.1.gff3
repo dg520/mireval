@@ -1,0 +1,12 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L78128.1 1 10951
+##description Japanese encephalitis virus strain Ling, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11072
+L78128.1	Rfam	regulatory_region	96	143	55.37	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=L78128.1/96-143
+L78128.1	Rfam	regulatory_region	3566	3627	86.82	+	.	ID=RF01768.1;Name=RF01768;Alias=flavi_FSE;Note=L78128.1/3566-3627
+L78128.1	Rfam	regulatory_region	10429	10487	82.86	+	.	ID=RF00465.1;Name=RF00465;Alias=JEV_hairpin;Note=L78128.1/10429-10487
+L78128.1	Rfam	regulatory_region	10589	10659	66.90	+	.	ID=RF01415.1;Name=RF01415;Alias=Flavivirus_SLIV;Note=L78128.1/10589-10659
+L78128.1	Rfam	regulatory_region	10680	10754	75.60	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=L78128.1/10680-10754
+L78128.1	Rfam	regulatory_region	10761	10832	81.60	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=L78128.1/10761-10832
+L78128.1	Rfam	regulatory_region	10852	10951	73.11	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=L78128.1/10852-10951

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ401365.1 1 6311
+##description Ribgrass mosaic virus - Actinidia strain-AC isolate M2/A4, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=908176
+GQ401365.1	Rfam	regulatory_region	5455	5605	141.30	+	.	ID=RF00225.1;Name=RF00225;Alias=IRES_Tobamo;Note=GQ401365.1/5455-5605
+GQ401365.1	Rfam	regulatory_region	6100	6130	46.20	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=GQ401365.1/6100-6130

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Z46258.1 1 12311
+##description Hog cholera virus (Classical swine fever virus) "Chinese" strain (C-strain; EP 0 351 901 B1) encoding polyprotein.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=358812
+Z46258.1	Rfam	regulatory_region	108	381	304.46	+	.	ID=RF00209.1;Name=RF00209;Alias=IRES_Pesti;Note=Z46258.1/108-381

@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ169129.1 1 120108
+##description Wood mouse herpesvirus strain WM8, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=432370
+GQ169129.1	Rfam	ncRNA	122	195	46.02	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GQ169129.1/122-195
+GQ169129.1	Rfam	ncRNA	1088	1160	51.03	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=GQ169129.1/1088-1160
+GQ169129.1	Rfam	ncRNA	1494	1565	55.10	+	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=GQ169129.1/1494-1565
+GQ169129.1	Rfam	ncRNA	4857	4940	35.32	+	.	ID=RF00005.4;Name=RF00005;Alias=tRNA;Note=GQ169129.1/4857-4940

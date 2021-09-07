@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB593690.1 1 7246
+##description Hepatitis E virus type 3 genomic RNA, complete genome, isolate: JE03-1760F_p10/B.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=509628
+AB593690.1	Rfam	regulatory_region	5081	5227	142.94	+	.	ID=RF00550.1;Name=RF00550;Alias=HepE_CRE;Note=AB593690.1/5081-5227

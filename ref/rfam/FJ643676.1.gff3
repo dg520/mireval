@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ643676.1 1 34755
+##description Human adenovirus 55 strain QS-DLL, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=714978
+FJ643676.1	Rfam	ncRNA	10438	10596	121.63	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=FJ643676.1/10438-10596

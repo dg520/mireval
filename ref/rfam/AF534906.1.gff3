@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF534906.1 1 36001
+##description Human adenovirus type 1 subgroup C, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10533
+AF534906.1	Rfam	ncRNA	10629	10785	88.77	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=AF534906.1/10629-10785
+AF534906.1	Rfam	ncRNA	10885	11042	93.90	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=AF534906.1/10885-11042

@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001366.1 1 525943
+##description Halorubrum lacusprofundi ATCC 49239 chromosome 2, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=416348
+CP001366.1	Rfam	ncRNA	161302	162778	1061.67	+	.	ID=RF00177.1;Name=RF00177;Alias=SSU_rRNA_bacteria;Note=CP001366.1/161302-162778
+CP001366.1	Rfam	ncRNA	161307	162776	1520.05	+	.	ID=RF01959.1;Name=RF01959;Alias=SSU_rRNA_archaea;Note=CP001366.1/161307-162776
+CP001366.1	Rfam	ncRNA	162935	163006	67.99	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001366.1/162935-163006
+CP001366.1	Rfam	ncRNA	166337	166458	91.52	+	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=CP001366.1/166337-166458

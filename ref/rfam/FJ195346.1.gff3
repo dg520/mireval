@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ195346.1 1 9136
+##description Caprine arthritis encephalitis virus Ov496, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=621214
+FJ195346.1	Rfam	regulatory_region	1821	1874	72.92	+	.	ID=RF01840.1;Name=RF01840;Alias=ovine_lenti_FSE;Note=FJ195346.1/1821-1874

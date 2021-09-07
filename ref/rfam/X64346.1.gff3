@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X64346.1 1 112930
+##description Saimiriine herpesvirus 2 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10381
+X64346.1	Rfam	ncRNA	1515	1657	147.70	-	.	ID=RF01802.1;Name=RF01802;Alias=HSUR;Note=X64346.1/1657-1515
+X64346.1	Rfam	ncRNA	2371	2485	102.75	-	.	ID=RF01802.2;Name=RF01802;Alias=HSUR;Note=X64346.1/2485-2371

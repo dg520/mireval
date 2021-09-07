@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF015886.1 1 7478
+##description Human enterovirus 96 strain BAN00-10488, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=325445
+EF015886.1	Rfam	regulatory_region	1	91	96.28	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=EF015886.1/1-91
+EF015886.1	Rfam	regulatory_region	392	643	273.07	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=EF015886.1/392-643
+EF015886.1	Rfam	regulatory_region	4475	4535	74.23	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=EF015886.1/4475-4535

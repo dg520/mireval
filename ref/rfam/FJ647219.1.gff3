@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ647219.1 1 31427
+##description Murine coronavirus RJHM/A, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=591070
+FJ647219.1	Rfam	regulatory_region	13569	13653	83.12	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ647219.1/13569-13653
+FJ647219.1	Rfam	regulatory_region	20222	20350	149.11	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ647219.1/20222-20350
+FJ647219.1	Rfam	regulatory_region	31226	31287	57.36	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ647219.1/31226-31287

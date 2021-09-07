@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB231700.1 1 162109
+##description Microcystis phage Ma-LMM01 DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=340435
+AB231700.1	Rfam	ncRNA	145180	145261	56.77	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AB231700.1/145261-145180

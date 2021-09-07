@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ251937.1 1 3033
+##description Stork hepatitis B virus1, complete genome, isolate STHBV-21
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=110944
+AJ251937.1	Rfam	regulatory_region	2572	2628	78.92	+	.	ID=RF01313.1;Name=RF01313;Alias=AHBV_epsilon;Note=AJ251937.1/2572-2628

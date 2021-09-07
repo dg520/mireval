@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M63666.1 1 322
+##description Cereal yellow dwarf virus-RPA satellite RNA.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=191032
+M63666.1	Rfam	ncRNA	192	246	48.13	-	.	ID=RF00008.1;Name=RF00008;Alias=Hammerhead_3;Note=M63666.1/246-192

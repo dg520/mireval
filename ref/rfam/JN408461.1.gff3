@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN408461.1 1 53526
+##description Mycobacterium phage Trixie, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1071503
+JN408461.1	Rfam	ncRNA	6009	6081	62.86	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN408461.1/6009-6081
+JN408461.1	Rfam	ncRNA	6117	6189	66.20	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=JN408461.1/6117-6189

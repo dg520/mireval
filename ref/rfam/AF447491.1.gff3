@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF447491.1 1 53373
+##description Bacteriophage phiE125, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=180504
+AF447491.1	Rfam	regulatory_region	34190	34306	118.59	-	.	ID=RF01497.1;Name=RF01497;Alias=ALIL;Note=AF447491.1/34306-34190

@@ -1,0 +1,14 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ291718.1 1 9711
+##description Human immunodeficiency virus type 1 complete genome, Cameroon strain 97CM-MP818
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11676
+AJ291718.1	Rfam	ncRNA	461	521	29.58	+	.	ID=RF00250.1;Name=RF00250;Alias=mir-TAR;Note=AJ291718.1/461-521
+AJ291718.1	Rfam	regulatory_region	586	684	66.58	+	.	ID=RF00375.1;Name=RF00375;Alias=HIV_PBS;Note=AJ291718.1/586-684
+AJ291718.1	Rfam	regulatory_region	702	741	52.54	+	.	ID=RF00175.1;Name=RF00175;Alias=HIV-1_DIS;Note=AJ291718.1/702-741
+AJ291718.1	Rfam	regulatory_region	797	816	35.07	+	.	ID=RF01382.1;Name=RF01382;Alias=HIV-1_SL4;Note=AJ291718.1/797-816
+AJ291718.1	Rfam	regulatory_region	860	943	99.98	+	.	ID=RF00376.1;Name=RF00376;Alias=HIV_GSL3;Note=AJ291718.1/860-943
+AJ291718.1	Rfam	regulatory_region	2085	2136	72.04	+	.	ID=RF00480.1;Name=RF00480;Alias=HIV_FE;Note=AJ291718.1/2085-2136
+AJ291718.1	Rfam	regulatory_region	2469	2581	134.62	+	.	ID=RF01418.1;Name=RF01418;Alias=HIV_POL-1_SL;Note=AJ291718.1/2469-2581
+AJ291718.1	Rfam	regulatory_region	7697	8033	365.30	+	.	ID=RF00036.1;Name=RF00036;Alias=RRE;Note=AJ291718.1/7697-8033
+AJ291718.1	Rfam	ncRNA	9530	9590	79.32	+	.	ID=RF00250.2;Name=RF00250;Alias=mir-TAR;Note=AJ291718.1/9530-9590

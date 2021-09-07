@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF220295.1 1 31100
+##description Bovine coronavirus strain Quebec, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11128
+AF220295.1	Rfam	regulatory_region	85	126	67.15	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=AF220295.1/85-126
+AF220295.1	Rfam	regulatory_region	13342	13426	80.65	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AF220295.1/13342-13426
+AF220295.1	Rfam	regulatory_region	20004	20132	151.15	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=AF220295.1/20004-20132
+AF220295.1	Rfam	regulatory_region	30814	30875	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=AF220295.1/30814-30875

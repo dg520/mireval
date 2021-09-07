@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X15511.1 1 4733
+##description Cymbidium ringspot tombusvirus RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12144
+X15511.1	Rfam	regulatory_region	2	163	174.47	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=X15511.1/2-163
+X15511.1	Rfam	regulatory_region	1354	1447	101.74	+	.	ID=RF00510.1;Name=RF00510;Alias=Tombus_IRE;Note=X15511.1/1354-1447
+X15511.1	Rfam	regulatory_region	4355	4423	58.32	+	.	ID=RF00215.1;Name=RF00215;Alias=Tombus_3_III;Note=X15511.1/4355-4423
+X15511.1	Rfam	regulatory_region	4642	4733	108.37	+	.	ID=RF00176.1;Name=RF00176;Alias=Tombus_3_IV;Note=X15511.1/4642-4733

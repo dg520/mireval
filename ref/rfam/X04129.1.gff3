@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X04129.1 1 11442
+##description Semliki forest virus 42S RNA genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11033
+X04129.1	Rfam	regulatory_region	44	303	159.45	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=X04129.1/44-303

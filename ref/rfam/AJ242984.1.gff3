@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ242984.1 1 10600
+##description Modoc virus genomic RNA for polyprotein gene
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64300
+AJ242984.1	Rfam	regulatory_region	10359	10430	58.52	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=AJ242984.1/10359-10430

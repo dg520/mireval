@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U16304.1 1 19296
+##description Citrus tristeza virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12162
+U16304.1	Rfam	regulatory_region	19024	19296	337.32	+	.	ID=RF00193.1;Name=RF00193;Alias=CTV_rep_sig;Note=U16304.1/19024-19296

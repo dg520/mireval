@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U05876.1 1 7413
+##description coxsackievirus A16 G-10, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=31704
+U05876.1	Rfam	regulatory_region	1	90	101.96	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=U05876.1/1-90
+U05876.1	Rfam	regulatory_region	398	649	289.52	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=U05876.1/398-649
+U05876.1	Rfam	regulatory_region	4404	4464	76.21	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=U05876.1/4404-4464

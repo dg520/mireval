@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001330.1 1 1145873
+##description Micromonas sp. RCC299 chromosome 11, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296587
+CP001330.1	Rfam	ncRNA	218009	218094	61.01	+	.	ID=RF01852.1;Name=RF01852;Alias=tRNA-Sec;Note=CP001330.1/218009-218094
+CP001330.1	Rfam	regulatory_region	625834	625940	50.65	+	.	ID=RF00059.1;Name=RF00059;Alias=TPP;Note=CP001330.1/625834-625940
+CP001330.1	Rfam	ncRNA	980580	980652	59.01	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001330.1/980652-980580
+CP001330.1	Rfam	ncRNA	1133261	1133409	29.24	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=CP001330.1/1133261-1133409

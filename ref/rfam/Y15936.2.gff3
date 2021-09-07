@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Y15936.2 1 7003
+##description Turkey astrovirus 1 complete genome, genomic RNA
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=364370
+Y15936.2	Rfam	regulatory_region	6871	6913	61.31	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=Y15936.2/6871-6913

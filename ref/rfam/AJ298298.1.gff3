@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ298298.1 1 42575
+##description Bacteriophage P27 complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=103807
+AJ298298.1	Rfam	ncRNA	9511	9587	58.33	+	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=AJ298298.1/9511-9587
+AJ298298.1	Rfam	ncRNA	9612	9699	76.13	+	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=AJ298298.1/9612-9699
+AJ298298.1	Rfam	ncRNA	17158	17230	65.92	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AJ298298.1/17158-17230
+AJ298298.1	Rfam	ncRNA	17335	17408	68.61	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AJ298298.1/17335-17408

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Y13051.1 1 8960
+##description Human T-cell lymphotropic virus type 2 (african isolate) DNA, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36368
+Y13051.1	Rfam	regulatory_region	2604	2646	66.44	+	.	ID=RF01790.1;Name=RF01790;Alias=htlv_FSE;Note=Y13051.1/2604-2646

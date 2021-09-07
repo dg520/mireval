@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB252582.1 1 7347
+##description Human parechovirus 6 genomic RNA, complete genome, strain: NII561-2000.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=411152
+AB252582.1	Rfam	regulatory_region	1	116	131.83	+	.	ID=RF00499.1;Name=RF00499;Alias=Parecho_CRE;Note=AB252582.1/1-116
+AB252582.1	Rfam	regulatory_region	256	705	158.12	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AB252582.1/256-705

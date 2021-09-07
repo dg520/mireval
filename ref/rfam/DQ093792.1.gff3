@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ093792.1 1 8917
+##description Human T-lymphotropic virus 3 strain 2026ND, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28332
+DQ093792.1	Rfam	regulatory_region	2495	2537	58.27	+	.	ID=RF01790.1;Name=RF01790;Alias=htlv_FSE;Note=DQ093792.1/2495-2537

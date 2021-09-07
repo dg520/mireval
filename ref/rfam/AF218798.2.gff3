@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF218798.2 1 5695
+##description Barley yellow dwarf virus-PAS PAV-129, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=228581
+AF218798.2	Rfam	regulatory_region	1	146	115.01	+	.	ID=RF01508.1;Name=RF01508;Alias=BYDV_5_UTR;Note=AF218798.2/1-146
+AF218798.2	Rfam	regulatory_region	4817	4938	82.73	+	.	ID=RF00434.1;Name=RF00434;Alias=BTE;Note=AF218798.2/4817-4938

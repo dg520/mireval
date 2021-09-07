@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU075905.1 1 183806
+##description Prochlorococcus phage P-HM2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=445696
+GU075905.1	Rfam	regulatory_region	4776	4968	161.68	+	.	ID=RF01745.1;Name=RF01745;Alias=manA;Note=GU075905.1/4776-4968
+GU075905.1	Rfam	regulatory_region	171635	171730	54.58	+	.	ID=RF01717.1;Name=RF01717;Alias=PhotoRC-II;Note=GU075905.1/171635-171730

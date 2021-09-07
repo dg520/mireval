@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ110083.1 1 28765
+##description Cronobacter phage ESSI-2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=947842
+HQ110083.1	Rfam	ncRNA	27823	28024	30.81	+	.	ID=RF00023.1;Name=RF00023;Alias=tmRNA;Note=HQ110083.1/27823-28024

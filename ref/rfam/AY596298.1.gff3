@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY596298.1 1 288050
+##description Haloarcula marismortui ATCC 43049 chromosome II, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=272569
+AY596298.1	Rfam	ncRNA	359	481	72.51	-	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=AY596298.1/481-359
+AY596298.1	Rfam	ncRNA	3399	3534	45.68	-	.	ID=RF00002.1;Name=RF00002;Alias=5_8S_rRNA;Note=AY596298.1/3534-3399
+AY596298.1	Rfam	ncRNA	3949	5420	1521.13	-	.	ID=RF01959.1;Name=RF01959;Alias=SSU_rRNA_archaea;Note=AY596298.1/5420-3949
+AY596298.1	Rfam	ncRNA	3947	5425	1061.82	-	.	ID=RF00177.1;Name=RF00177;Alias=SSU_rRNA_bacteria;Note=AY596298.1/5425-3947

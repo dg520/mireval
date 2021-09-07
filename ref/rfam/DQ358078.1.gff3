@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ358078.1 1 7444
+##description Human coxsackievirus A20 serotype CAV20a, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=42782
+DQ358078.1	Rfam	regulatory_region	1	91	100.71	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=DQ358078.1/1-91
+DQ358078.1	Rfam	regulatory_region	395	646	274.82	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=DQ358078.1/395-646
+DQ358078.1	Rfam	regulatory_region	4448	4508	80.85	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=DQ358078.1/4448-4508

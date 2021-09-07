@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001576.1 1 1160640
+##description Micromonas sp. RCC299 chromosome 10, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296587
+CP001576.1	Rfam	ncRNA	26979	27050	62.86	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001576.1/27050-26979
+CP001576.1	Rfam	ncRNA	266560	266632	63.63	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=CP001576.1/266632-266560
+CP001576.1	Rfam	ncRNA	755035	755153	79.54	+	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=CP001576.1/755035-755153
+CP001576.1	Rfam	ncRNA	1039928	1039998	60.56	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=CP001576.1/1039998-1039928

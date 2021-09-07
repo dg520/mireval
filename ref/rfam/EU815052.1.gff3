@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU815052.1 1 7996
+##description Rat theilovirus 1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=529419
+EU815052.1	Rfam	regulatory_region	492	951	108.24	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=EU815052.1/492-951
+EU815052.1	Rfam	regulatory_region	1459	1491	46.10	+	.	ID=RF00453.1;Name=RF00453;Alias=Cardiovirus_CRE;Note=EU815052.1/1459-1491

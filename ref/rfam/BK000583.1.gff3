@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region BK000583.1 1 41724
+##description TPA: Enterobacteria phage P22 wild type, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10754
+BK000583.1	Rfam	ncRNA	15023	15090	88.81	-	.	ID=RF00262.1;Name=RF00262;Alias=sar;Note=BK000583.1/15090-15023

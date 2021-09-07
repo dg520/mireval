@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EF173420.1 1 7219
+##description Human rhinovirus 17, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=150904
+EF173420.1	Rfam	regulatory_region	1	85	56.93	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=EF173420.1/1-85
+EF173420.1	Rfam	regulatory_region	391	644	148.82	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=EF173420.1/391-644
+EF173420.1	Rfam	regulatory_region	2320	2405	53.35	+	.	ID=RF00220.1;Name=RF00220;Alias=Rhino_CRE;Note=EF173420.1/2320-2405

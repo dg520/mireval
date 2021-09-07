@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ398041.1 1 74483
+##description Mycobacteriophage 244, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=373403
+DQ398041.1	Rfam	ncRNA	61980	62059	28.35	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=DQ398041.1/61980-62059
+DQ398041.1	Rfam	ncRNA	62065	62136	62.43	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=DQ398041.1/62065-62136

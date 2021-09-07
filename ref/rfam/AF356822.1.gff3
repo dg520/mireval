@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF356822.1 1 7730
+##description Encephalomyocarditis virus strain BEL-2887A/91, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12104
+AF356822.1	Rfam	regulatory_region	269	725	133.67	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AF356822.1/269-725
+AF356822.1	Rfam	regulatory_region	6806	6892	36.40	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=AF356822.1/6806-6892

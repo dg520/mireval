@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF260508.1 1 6759
+##description Human astrovirus type 8, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=43358
+AF260508.1	Rfam	regulatory_region	2805	2859	82.14	+	.	ID=RF01833.1;Name=RF01833;Alias=astro_FSE;Note=AF260508.1/2805-2859
+AF260508.1	Rfam	regulatory_region	6651	6693	60.16	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=AF260508.1/6651-6693

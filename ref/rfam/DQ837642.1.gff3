@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ837642.1 1 10793
+##description Sepik virus strain MK7148, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=44026
+DQ837642.1	Rfam	regulatory_region	10597	10672	37.09	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=DQ837642.1/10597-10672

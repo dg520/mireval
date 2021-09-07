@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Y07863.1 1 10871
+##description Louping ill virus, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11086
+Y07863.1	Rfam	regulatory_region	10770	10871	59.40	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=Y07863.1/10770-10871

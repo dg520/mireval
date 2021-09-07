@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ421471.1 1 36674
+##description Xylella phage Xfas53, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=670252
+GQ421471.1	Rfam	ncRNA	13774	13860	70.93	+	.	ID=RF02221.1;Name=RF02221;Alias=sRNA-Xcc1;Note=GQ421471.1/13774-13860
+GQ421471.1	Rfam	ncRNA	14156	14240	64.65	+	.	ID=RF02221.2;Name=RF02221;Alias=sRNA-Xcc1;Note=GQ421471.1/14156-14240
+GQ421471.1	Rfam	ncRNA	14539	14626	65.54	+	.	ID=RF02221.3;Name=RF02221;Alias=sRNA-Xcc1;Note=GQ421471.1/14539-14626

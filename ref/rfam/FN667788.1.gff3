@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FN667788.1 1 177534
+##description Campylobacter phage CP220, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=722417
+FN667788.1	Rfam	ncRNA	111946	112019	64.52	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=FN667788.1/111946-112019
+FN667788.1	Rfam	ncRNA	112034	112116	51.26	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=FN667788.1/112034-112116

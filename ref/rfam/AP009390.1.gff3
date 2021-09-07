@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AP009390.1 1 142072
+##description Enterococcus phage phiEF24C DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=442493
+AP009390.1	Rfam	ncRNA	136981	137054	67.46	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AP009390.1/137054-136981
+AP009390.1	Rfam	ncRNA	138483	138556	63.40	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AP009390.1/138556-138483

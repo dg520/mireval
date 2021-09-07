@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ648794.1 1 30307
+##description Bat coronavirus (BtCoV/133/2005), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=389230
+DQ648794.1	Rfam	regulatory_region	13565	13649	67.69	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=DQ648794.1/13565-13649

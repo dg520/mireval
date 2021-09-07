@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB331651.1 1 7399
+##description Bovine papillomavirus-10 DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=453461
+AB331651.1	Rfam	ncRNA	1789	1858	63.48	-	.	ID=RF00240.1;Name=RF00240;Alias=RNA-OUT;Note=AB331651.1/1858-1789

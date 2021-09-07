@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ425187.1 1 31020
+##description White-tailed deer coronavirus US/OH-WD470/1994, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=422134
+FJ425187.1	Rfam	regulatory_region	71	112	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=FJ425187.1/71-112
+FJ425187.1	Rfam	regulatory_region	13328	13412	80.09	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ425187.1/13328-13412
+FJ425187.1	Rfam	regulatory_region	19990	20118	151.15	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ425187.1/19990-20118
+FJ425187.1	Rfam	regulatory_region	30784	30845	58.38	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ425187.1/30784-30845

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF053745.1 1 8655
+##description Mus dunni endogenous virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=75986
+AF053745.1	Rfam	ncRNA	105	224	72.60	-	.	ID=RF01942.1;Name=RF01942;Alias=mir-1937;Note=AF053745.1/224-105
+AF053745.1	Rfam	regulatory_region	2288	2349	64.31	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=AF053745.1/2288-2349

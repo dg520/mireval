@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ979639.1 1 8127
+##description Simian retrovirus 4 strain SRV4/TEX/2009/V3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=723802
+FJ979639.1	Rfam	regulatory_region	341	617	253.11	+	.	ID=RF00459.1;Name=RF00459;Alias=MPMV_package;Note=FJ979639.1/341-617
+FJ979639.1	Rfam	regulatory_region	2311	2362	73.97	+	.	ID=RF01097.1;Name=RF01097;Alias=RF_site8;Note=FJ979639.1/2311-2362

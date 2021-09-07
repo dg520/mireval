@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ415324.1 1 31029
+##description Human enteric coronavirus 4408, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=166124
+FJ415324.1	Rfam	regulatory_region	85	126	67.81	+	.	ID=RF00496.1;Name=RF00496;Alias=Corona_SL-III;Note=FJ415324.1/85-126
+FJ415324.1	Rfam	regulatory_region	13342	13426	78.93	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ415324.1/13342-13426
+FJ415324.1	Rfam	regulatory_region	20004	20132	150.63	+	.	ID=RF00182.1;Name=RF00182;Alias=Corona_package;Note=FJ415324.1/20004-20132
+FJ415324.1	Rfam	regulatory_region	30799	30860	60.74	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ415324.1/30799-30860

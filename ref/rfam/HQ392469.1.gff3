@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ392469.1 1 29233
+##description Feline coronavirus UU40, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=906887
+HQ392469.1	Rfam	regulatory_region	12329	12407	80.97	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=HQ392469.1/12329-12407
+HQ392469.1	Rfam	regulatory_region	29035	29097	78.39	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=HQ392469.1/29035-29097

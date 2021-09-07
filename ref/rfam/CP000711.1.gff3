@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000711.1 1 40207
+##description Enterobacteria phage CUS-3, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=539221
+CP000711.1	Rfam	ncRNA	6497	6564	86.93	+	.	ID=RF00262.1;Name=RF00262;Alias=sar;Note=CP000711.1/6497-6564

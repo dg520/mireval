@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region EU197055.1 1 316674
+##description Pseudomonas phage 201phi2-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=198110
+EU197055.1	Rfam	autocatalytically_spliced_intron	197631	197851	87.52	-	.	ID=RF00028.1;Name=RF00028;Alias=Intron_gpI;Note=EU197055.1/197851-197631

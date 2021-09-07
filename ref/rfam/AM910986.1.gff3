@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AM910986.1 1 785142
+##description Plasmodium knowlesi strain H chromosome 4, complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5851
+AM910986.1	Rfam	ncRNA	47208	47291	80.79	+	.	ID=RF01583.1;Name=RF01583;Alias=snoR01;Note=AM910986.1/47208-47291
+AM910986.1	Rfam	ncRNA	47547	47704	134.49	+	.	ID=RF01579.1;Name=RF01579;Alias=RUF2;Note=AM910986.1/47547-47704
+AM910986.1	Rfam	ncRNA	48164	48794	206.87	+	.	ID=RF01577.1;Name=RF01577;Alias=RNase_P;Note=AM910986.1/48164-48794
+AM910986.1	Rfam	ncRNA	717688	717759	68.12	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AM910986.1/717759-717688

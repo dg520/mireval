@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L07937.1 1 7099
+##description Soil-borne wheat mosaic virus (SBWMV) complete RNA 1 segment: 150 kDa protein, 209 kDa readthrough protein and 37 kDa protein genes, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28375
+L07937.1	Rfam	regulatory_region	6774	6798	37.47	+	.	ID=RF01082.1;Name=RF01082;Alias=SBWMV1_UPD-PKh;Note=L07937.1/6774-6798
+L07937.1	Rfam	regulatory_region	6800	6820	28.82	+	.	ID=RF01112.1;Name=RF01112;Alias=UPD-PKg;Note=L07937.1/6800-6820
+L07937.1	Rfam	regulatory_region	6853	6878	38.95	+	.	ID=RF01081.1;Name=RF01081;Alias=SBWMV1_UPD-PKe;Note=L07937.1/6853-6878
+L07937.1	Rfam	regulatory_region	6932	6956	39.17	+	.	ID=RF01106.1;Name=RF01106;Alias=SBWMV1_UPD-PKb;Note=L07937.1/6932-6956

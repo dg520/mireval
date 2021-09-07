@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF103728.1 1 11626
+##description Sindbis virus strain XJ-160, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11034
+AF103728.1	Rfam	regulatory_region	1	280	256.84	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=AF103728.1/1-280
+AF103728.1	Rfam	regulatory_region	9960	9986	45.70	+	.	ID=RF01836.1;Name=RF01836;Alias=weev_FSE;Note=AF103728.1/9960-9986

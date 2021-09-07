@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000820.4 1 153670197
+##description Sus scrofa chromosome 9. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9823
+CM000820.4	Rfam	ncRNA	5632079	5632271	54.17	-	.	ID=RF00621.1;Name=RF00621;Alias=CoTC_ribozyme;Note=CU463174.9/151884-151692
+CM000820.4	Rfam	ncRNA	23267825	23267976	183.02	-	.	ID=RF01884.1;Name=RF01884;Alias=BC040587;Note=AEMK01123322.1/623-774

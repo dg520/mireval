@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB628188.1 1 6395
+##description Rehmannia mosaic virus genomic RNA, complete genome, isolate: Japanese.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425279
+AB628188.1	Rfam	regulatory_region	6216	6237	33.35	+	.	ID=RF01114.1;Name=RF01114;Alias=TMV_UPD-PK1;Note=AB628188.1/6216-6237
+AB628188.1	Rfam	regulatory_region	6238	6259	31.72	+	.	ID=RF01115.1;Name=RF01115;Alias=TMV_UPD-PK2;Note=AB628188.1/6238-6259
+AB628188.1	Rfam	regulatory_region	6260	6290	47.90	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AB628188.1/6260-6290
+AB628188.1	Rfam	regulatory_region	6292	6357	89.44	+	.	ID=RF01077.1;Name=RF01077;Alias=TLS-PK2;Note=AB628188.1/6292-6357

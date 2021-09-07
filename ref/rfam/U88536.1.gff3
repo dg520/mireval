@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U88536.1 1 10735
+##description Dengue virus type 1 clone 45AZ5, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11053
+U88536.1	Rfam	regulatory_region	95	139	58.22	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=U88536.1/95-139
+U88536.1	Rfam	regulatory_region	10468	10539	65.00	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=U88536.1/10468-10539
+U88536.1	Rfam	regulatory_region	10552	10623	84.14	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=U88536.1/10552-10623
+U88536.1	Rfam	regulatory_region	10643	10735	89.88	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=U88536.1/10643-10735

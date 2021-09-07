@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U60065.1 1 8379
+##description Gibbon leukemia virus strain X, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11840
+U60065.1	Rfam	regulatory_region	2477	2538	70.78	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=U60065.1/2477-2538

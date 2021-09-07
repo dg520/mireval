@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region Y16104.1 1 6673
+##description Physalis mottle tymovirus OP, RP, CP genes
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=72539
+Y16104.1	Rfam	regulatory_region	6590	6672	74.67	+	.	ID=RF00233.1;Name=RF00233;Alias=Tymo_tRNA-like;Note=Y16104.1/6590-6672

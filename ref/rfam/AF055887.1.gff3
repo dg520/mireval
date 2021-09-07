@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF055887.1 1 4136
+##description Southern bean mosaic virus strain SBMV-B(ARK), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12139
+AF055887.1	Rfam	regulatory_region	1715	1793	78.60	+	.	ID=RF01838.1;Name=RF01838;Alias=sobemo_FSE;Note=AF055887.1/1715-1793

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF321057.1 1 6562
+##description Cucumber fruit mottle mosaic virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=146499
+AF321057.1	Rfam	regulatory_region	6359	6389	39.69	+	.	ID=RF01072.1;Name=RF01072;Alias=TMV_UPD-PK3;Note=AF321057.1/6359-6389
+AF321057.1	Rfam	regulatory_region	6425	6455	43.49	+	.	ID=RF01072.2;Name=RF01072;Alias=TMV_UPD-PK3;Note=AF321057.1/6425-6455

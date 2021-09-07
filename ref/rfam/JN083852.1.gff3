@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN083852.1 1 51083
+##description Mycobacterium phage Benedict, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1041807
+JN083852.1	Rfam	ncRNA	4137	4209	50.20	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN083852.1/4137-4209

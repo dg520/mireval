@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF547987.1 1 39043
+##description Enterobacteria phage Sf6, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10761
+AF547987.1	Rfam	ncRNA	36065	36136	54.21	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AF547987.1/36065-36136
+AF547987.1	Rfam	ncRNA	36145	36217	59.02	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AF547987.1/36145-36217

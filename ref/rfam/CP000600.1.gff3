@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000600.1 1 549133
+##description Ostreococcus lucimarinus CCE9901 chromosome 20, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=436017
+CP000600.1	Rfam	ncRNA	346674	346791	67.51	-	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=CP000600.1/346791-346674

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region J02459.1 1 48502
+##description Enterobacteria phage lambda, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10710
+J02459.1	Rfam	ncRNA	22316	22514	201.86	+	.	ID=RF02111.1;Name=RF02111;Alias=IS009;Note=J02459.1/22316-22514
+J02459.1	Rfam	regulatory_region	33418	33476	85.65	-	.	ID=RF01804.1;Name=RF01804;Alias=Lambda_thermo;Note=J02459.1/33476-33418

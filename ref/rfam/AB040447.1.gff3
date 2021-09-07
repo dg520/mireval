@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AB040447.1 1 4083
+##description Cocksfoot mottle virus genes for P1, protease, RNA-dependent RNA polymerase, coat protein, complete cds.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=40979
+AB040447.1	Rfam	regulatory_region	1624	1702	88.92	+	.	ID=RF01838.1;Name=RF01838;Alias=sobemo_FSE;Note=AB040447.1/1624-1702

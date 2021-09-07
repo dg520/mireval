@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ366147.1 1 8275
+##description Mus musculus endogenous ecotropic murine leukemia virus 1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10090
+DQ366147.1	Rfam	regulatory_region	295	394	101.61	+	.	ID=RF00374.1;Name=RF00374;Alias=Gammaretro_CES;Note=DQ366147.1/295-394
+DQ366147.1	Rfam	regulatory_region	2250	2311	78.01	+	.	ID=RF01073.1;Name=RF01073;Alias=GP_knot1;Note=DQ366147.1/2250-2311

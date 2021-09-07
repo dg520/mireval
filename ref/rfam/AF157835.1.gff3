@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF157835.1 1 36524
+##description Acyrthosiphon pisum bacteriophage APSE-1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=67571
+AF157835.1	Rfam	ncRNA	28072	28158	63.67	-	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=AF157835.1/28158-28072
+AF157835.1	Rfam	ncRNA	28185	28263	61.78	-	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=AF157835.1/28263-28185

@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM152767.1 1 59798
+##description Mycobacterium phage CrimD, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=861045
+HM152767.1	Rfam	ncRNA	978	1050	62.64	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM152767.1/978-1050

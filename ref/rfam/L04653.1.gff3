@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L04653.1 1 11444
+##description Venezuelan equine encephalitis virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11036
+L04653.1	Rfam	regulatory_region	1	259	275.57	+	.	ID=RF00470.1;Name=RF00470;Alias=Toga_5_CRE;Note=L04653.1/1-259
+L04653.1	Rfam	regulatory_region	9952	10022	94.13	+	.	ID=RF01841.1;Name=RF01841;Alias=veev_FSE;Note=L04653.1/9952-10022

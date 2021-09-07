@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region M25381.1 1 9474
+##description Feline immunodeficiency virus complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11673
+M25381.1	Rfam	regulatory_region	1893	1927	58.08	+	.	ID=RF01834.1;Name=RF01834;Alias=fiv_FSE;Note=M25381.1/1893-1927

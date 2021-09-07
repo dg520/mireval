@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY484669.1 1 197731
+##description Rabbitpox virus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=32606
+AY484669.1	Rfam	regulatory_region	138882	138943	87.48	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=AY484669.1/138943-138882

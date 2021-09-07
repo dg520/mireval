@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GQ865517.1 1 7354
+##description Human enterovirus 109 isolate NICA08-4327, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=861519
+GQ865517.1	Rfam	regulatory_region	2	91	96.78	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=GQ865517.1/2-91
+GQ865517.1	Rfam	regulatory_region	389	632	186.74	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=GQ865517.1/389-632
+GQ865517.1	Rfam	regulatory_region	4353	4413	75.90	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=GQ865517.1/4353-4413

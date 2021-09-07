@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ938054.1 1 29269
+##description Feline coronavirus UU4, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=454952
+FJ938054.1	Rfam	regulatory_region	12372	12450	80.50	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ938054.1/12372-12450
+FJ938054.1	Rfam	regulatory_region	29052	29114	74.65	+	.	ID=RF00165.1;Name=RF00165;Alias=Corona_pk3;Note=FJ938054.1/29052-29114

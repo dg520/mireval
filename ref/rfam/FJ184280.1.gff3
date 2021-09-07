@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ184280.1 1 54896
+##description Enterobacteria phage YYZ-2008, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=564886
+FJ184280.1	Rfam	regulatory_region	7553	7611	85.65	-	.	ID=RF01804.1;Name=RF01804;Alias=Lambda_thermo;Note=FJ184280.1/7611-7553
+FJ184280.1	Rfam	ncRNA	16450	16524	72.40	+	.	ID=RF01394.1;Name=RF01394;Alias=isrK;Note=FJ184280.1/16450-16524
+FJ184280.1	Rfam	ncRNA	16551	16635	69.71	+	.	ID=RF01695.1;Name=RF01695;Alias=C4;Note=FJ184280.1/16551-16635
+FJ184280.1	Rfam	ncRNA	21201	21414	193.20	+	.	ID=RF02076.1;Name=RF02076;Alias=STnc100;Note=FJ184280.1/21201-21414

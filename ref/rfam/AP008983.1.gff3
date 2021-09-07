@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AP008983.1 1 185683
+##description Clostridium phage c-st genomic DNA, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12336
+AP008983.1	Rfam	autocatalytically_spliced_intron	114619	114704	63.87	-	.	ID=RF00029.1;Name=RF00029;Alias=Intron_gpII;Note=AP008983.1/114704-114619
+AP008983.1	Rfam	ncRNA	135119	135254	72.97	-	.	ID=RF02033.1;Name=RF02033;Alias=HEARO;Note=AP008983.1/135254-135119

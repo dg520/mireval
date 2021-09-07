@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000443.1 1 755035
+##description Plasmodium vivax chromosome 2, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=5855
+CM000443.1	Rfam	ncRNA	145416	145562	96.99	-	.	ID=RF00002.1;Name=RF00002;Alias=5_8S_rRNA;Note=AAKM01000024.1/145562-145416
+CM000443.1	Rfam	ncRNA	146196	148070	790.54	-	.	ID=RF01960.1;Name=RF01960;Alias=SSU_rRNA_eukarya;Note=AAKM01000024.1/148070-146196
+CM000443.1	Rfam	ncRNA	710139	710211	62.59	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AAKM01000013.1/545080-545152

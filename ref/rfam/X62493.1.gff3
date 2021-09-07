@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region X62493.1 1 4789
+##description Artichoke Mottled Crinkle Virus complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12142
+X62493.1	Rfam	regulatory_region	1	182	148.97	+	.	ID=RF00171.1;Name=RF00171;Alias=Tombus_5;Note=X62493.1/1-182
+X62493.1	Rfam	regulatory_region	1373	1466	104.59	+	.	ID=RF00510.1;Name=RF00510;Alias=Tombus_IRE;Note=X62493.1/1373-1466
+X62493.1	Rfam	regulatory_region	4413	4482	85.25	+	.	ID=RF00215.1;Name=RF00215;Alias=Tombus_3_III;Note=X62493.1/4413-4482
+X62493.1	Rfam	regulatory_region	4698	4789	112.70	+	.	ID=RF00176.1;Name=RF00176;Alias=Tombus_3_IV;Note=X62493.1/4698-4789

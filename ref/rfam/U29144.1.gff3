@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U29144.1 1 3302
+##description Arctic ground squirrel hepatitis B virus (ASHV), complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=41952
+U29144.1	Rfam	regulatory_region	36	97	76.63	+	.	ID=RF01047.1;Name=RF01047;Alias=HBV_epsilon;Note=U29144.1/36-97

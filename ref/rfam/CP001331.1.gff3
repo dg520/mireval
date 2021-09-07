@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP001331.1 1 1011177
+##description Micromonas sp. RCC299 chromosome 13, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296587
+CP001331.1	Rfam	ncRNA	214858	215080	88.76	-	.	ID=RF01847.1;Name=RF01847;Alias=Plant_U3;Note=CP001331.1/215080-214858
+CP001331.1	Rfam	ncRNA	214859	215080	73.47	-	.	ID=RF01848.1;Name=RF01848;Alias=ACEA_U3;Note=CP001331.1/215080-214859
+CP001331.1	Rfam	ncRNA	557561	557631	60.56	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=CP001331.1/557561-557631
+CP001331.1	Rfam	ncRNA	1000275	1000363	46.44	-	.	ID=RF00345.1;Name=RF00345;Alias=snoR1;Note=CP001331.1/1000363-1000275

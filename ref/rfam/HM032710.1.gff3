@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM032710.1 1 167716
+##description Acinetobacter phage Ac42, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=762660
+HM032710.1	Rfam	ncRNA	79433	79505	59.44	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HM032710.1/79505-79433
+HM032710.1	Rfam	ncRNA	80414	80487	62.12	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HM032710.1/80487-80414

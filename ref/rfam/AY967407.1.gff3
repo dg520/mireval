@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY967407.1 1 180500
+##description Enterobacteria phage RB43, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=115991
+AY967407.1	Rfam	ncRNA	50172	50245	50.73	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AY967407.1/50172-50245

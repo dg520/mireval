@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000647.1 1 1128382
+##description Thalassiosira pseudonana CCMP1335 chromosome 12, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=296543
+CM000647.1	Rfam	ncRNA	45171	45289	89.70	+	.	ID=RF00001.1;Name=RF00001;Alias=5S_rRNA;Note=AAFD02000019.1/14325-14443
+CM000647.1	Rfam	regulatory_region	450693	450738	30.86	+	.	ID=RF00032.1;Name=RF00032;Alias=Histone3;Note=AAFD02000019.1/419847-419892

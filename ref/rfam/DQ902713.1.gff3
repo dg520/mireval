@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ902713.1 1 7421
+##description Human enterovirus 100 isolate BAN2000-10500, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=325447
+DQ902713.1	Rfam	regulatory_region	1	90	99.80	+	.	ID=RF00386.1;Name=RF00386;Alias=Entero_5_CRE;Note=DQ902713.1/1-90
+DQ902713.1	Rfam	regulatory_region	395	646	292.24	+	.	ID=RF00229.1;Name=RF00229;Alias=IRES_Picorna;Note=DQ902713.1/395-646
+DQ902713.1	Rfam	regulatory_region	4383	4443	74.04	+	.	ID=RF00048.1;Name=RF00048;Alias=Entero_CRE;Note=DQ902713.1/4383-4443
+DQ902713.1	Rfam	regulatory_region	7300	7421	131.54	+	.	ID=RF00041.1;Name=RF00041;Alias=Entero_OriR;Note=DQ902713.1/7300-7421

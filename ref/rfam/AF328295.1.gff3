@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AF328295.1 1 9529
+##description Simian immunodeficiency virus strain SIVmnd14cg, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11723
+AF328295.1	Rfam	regulatory_region	295	405	48.74	+	.	ID=RF00375.1;Name=RF00375;Alias=HIV_PBS;Note=AF328295.1/295-405
+AF328295.1	Rfam	regulatory_region	756	800	28.38	+	.	ID=RF00376.1;Name=RF00376;Alias=HIV_GSL3;Note=AF328295.1/756-800

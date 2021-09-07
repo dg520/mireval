@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN054255.1 1 10735
+##description Dengue virus isolate DV1_SL_2010b, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12637
+JN054255.1	Rfam	regulatory_region	95	139	55.18	+	.	ID=RF00617.1;Name=RF00617;Alias=cHP;Note=JN054255.1/95-139
+JN054255.1	Rfam	regulatory_region	10468	10539	68.91	+	.	ID=RF00525.1;Name=RF00525;Alias=Flavivirus_DB;Note=JN054255.1/10468-10539
+JN054255.1	Rfam	regulatory_region	10552	10623	85.89	+	.	ID=RF00525.2;Name=RF00525;Alias=Flavivirus_DB;Note=JN054255.1/10552-10623
+JN054255.1	Rfam	regulatory_region	10643	10735	89.69	+	.	ID=RF00185.1;Name=RF00185;Alias=Flavi_CRE;Note=JN054255.1/10643-10735

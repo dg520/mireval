@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L13745.1 1 6828
+##description Human astrovirus serotype 2, complete sequence of genomic RNA.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12702
+L13745.1	Rfam	regulatory_region	2804	2858	82.62	+	.	ID=RF01833.1;Name=RF01833;Alias=astro_FSE;Note=L13745.1/2804-2858
+L13745.1	Rfam	regulatory_region	6692	6734	61.82	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=L13745.1/6692-6734

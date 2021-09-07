@@ -1,0 +1,8 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ365814.1 1 7704
+##description Avian leukosis virus strain MQNCSU, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11864
+DQ365814.1	Rfam	regulatory_region	269	343	101.10	+	.	ID=RF00467.1;Name=RF00467;Alias=RSV_PBS;Note=DQ365814.1/269-343
+DQ365814.1	Rfam	regulatory_region	2819	3107	362.12	+	.	ID=RF01417.1;Name=RF01417;Alias=RSV_RNA;Note=DQ365814.1/2819-3107
+DQ365814.1	Rfam	regulatory_region	7146	7235	101.71	+	.	ID=RF00214.1;Name=RF00214;Alias=Retro_dr1;Note=DQ365814.1/7146-7235

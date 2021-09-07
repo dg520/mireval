@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY037928.1 1 9472
+##description Human endogenous retrovirus K113 complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=166122
+AY037928.1	Rfam	regulatory_region	4018	4306	96.87	+	.	ID=RF01417.1;Name=RF01417;Alias=RSV_RNA;Note=AY037928.1/4018-4306

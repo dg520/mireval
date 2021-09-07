@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region FJ882935.1 1 29647
+##description SARS coronavirus wtic-MB isolate P3pp21, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=698419
+FJ882935.1	Rfam	regulatory_region	13360	13441	75.27	+	.	ID=RF00507.1;Name=RF00507;Alias=Corona_FSE;Note=FJ882935.1/13360-13441
+FJ882935.1	Rfam	regulatory_region	29545	29587	58.15	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=FJ882935.1/29545-29587

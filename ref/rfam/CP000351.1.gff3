@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CP000351.1 1 299762
+##description Leptospira borgpetersenii serovar Hardjo-bovis JB197 chromosome 2, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=355277
+CP000351.1	Rfam	regulatory_region	206554	206741	75.54	+	.	ID=RF00174.1;Name=RF00174;Alias=Cobalamin;Note=CP000351.1/206554-206741

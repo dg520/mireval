@@ -1,0 +1,9 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region CM000538.1 1 5979137
+##description Taeniopygia guttata chromosome 21, whole genome shotgun sequence. 
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=59729
+CM000538.1	Rfam	ncRNA	759483	759660	46.40	-	.	ID=RF02271.1;Name=RF02271;Alias=uc_338;Note=ABQF01042163.1/52933-53110
+CM000538.1	Rfam	ncRNA	5249925	5250015	79.50	+	.	ID=RF00456.1;Name=RF00456;Alias=mir-34;Note=ABQF01052301.1/5219-5309
+CM000538.1	Rfam	ncRNA	5892891	5892964	60.06	+	.	ID=RF00241.1;Name=RF00241;Alias=mir-8;Note=ABQF01059078.1/1301-1374
+CM000538.1	Rfam	ncRNA	5894321	5894397	66.48	+	.	ID=RF00241.2;Name=RF00241;Alias=mir-8;Note=ABQF01059078.1/2731-2807

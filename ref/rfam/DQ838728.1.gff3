@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ838728.1 1 33613
+##description Lactococcus phage P335, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=201846
+DQ838728.1	Rfam	ncRNA	199	259	34.45	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=DQ838728.1/199-259

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region J01917.1 1 35937
+##description Adenovirus type 2, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10515
+J01917.1	Rfam	ncRNA	10611	10767	89.56	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=J01917.1/10611-10767
+J01917.1	Rfam	ncRNA	10866	11023	96.46	+	.	ID=RF00102.2;Name=RF00102;Alias=VA;Note=J01917.1/10866-11023

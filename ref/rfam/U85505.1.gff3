@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region U85505.1 1 8393
+##description Simian endogenous retrovirus, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1048243
+U85505.1	Rfam	regulatory_region	487	769	236.06	+	.	ID=RF00459.1;Name=RF00459;Alias=MPMV_package;Note=U85505.1/487-769
+U85505.1	Rfam	regulatory_region	2460	2511	74.16	+	.	ID=RF01097.1;Name=RF01097;Alias=RF_site8;Note=U85505.1/2460-2511

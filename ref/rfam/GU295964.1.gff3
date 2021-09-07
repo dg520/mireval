@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU295964.1 1 174436
+##description Klebsiella phage KP15, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=707757
+GU295964.1	Rfam	ncRNA	49401	49474	54.68	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=GU295964.1/49401-49474
+GU295964.1	Rfam	ncRNA	49483	49556	36.49	+	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=GU295964.1/49483-49556

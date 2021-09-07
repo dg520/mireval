@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HM172544.1 1 196959
+##description Monkeypox virus strain Zaire 1979-005, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10244
+HM172544.1	Rfam	regulatory_region	134242	134303	85.18	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=HM172544.1/134303-134242

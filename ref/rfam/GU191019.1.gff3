@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region GU191019.1 1 34177
+##description Human adenovirus 18 isolate D.C., complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10528
+GU191019.1	Rfam	ncRNA	10260	10407	105.78	+	.	ID=RF00102.1;Name=RF00102;Alias=VA;Note=GU191019.1/10260-10407

@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region DQ028633.1 1 6762
+##description Human astrovirus 5 isolate Goiania/GO/12/94/Brazil, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=35741
+DQ028633.1	Rfam	regulatory_region	2805	2859	79.87	+	.	ID=RF01833.1;Name=RF01833;Alias=astro_FSE;Note=DQ028633.1/2805-2859
+DQ028633.1	Rfam	regulatory_region	6654	6696	60.27	+	.	ID=RF00164.1;Name=RF00164;Alias=s2m;Note=DQ028633.1/6654-6696

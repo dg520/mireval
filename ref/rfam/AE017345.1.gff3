@@ -1,0 +1,10 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AE017345.1 1 1507550
+##description Cryptococcus neoformans var. neoformans JEC21 chromosome 5, complete sequence.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=214684
+AE017345.1	Rfam	ncRNA	38007	38114	31.34	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AE017345.1/38007-38114
+AE017345.1	Rfam	ncRNA	293127	293214	43.27	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AE017345.1/293214-293127
+AE017345.1	Rfam	ncRNA	514236	514325	32.48	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AE017345.1/514325-514236
+AE017345.1	Rfam	ncRNA	926592	926777	97.18	+	.	ID=RF00004.1;Name=RF00004;Alias=U2;Note=AE017345.1/926592-926777
+AE017345.1	Rfam	ncRNA	1048066	1048157	32.10	-	.	ID=RF00005.4;Name=RF00005;Alias=tRNA;Note=AE017345.1/1048157-1048066

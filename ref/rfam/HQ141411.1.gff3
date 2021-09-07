@@ -1,0 +1,7 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region HQ141411.1 1 41726
+##description Lactobacillus phage Sha1, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=947981
+HQ141411.1	Rfam	ncRNA	31845	31935	39.96	-	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=HQ141411.1/31935-31845
+HQ141411.1	Rfam	ncRNA	33059	33149	41.78	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=HQ141411.1/33149-33059

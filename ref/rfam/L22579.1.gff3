@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region L22579.1 1 186103
+##description Variola major virus (strain Bangladesh-1975) complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12870
+L22579.1	Rfam	regulatory_region	125525	125586	84.55	-	.	ID=RF00384.1;Name=RF00384;Alias=Pox_AX_element;Note=L22579.1/125586-125525

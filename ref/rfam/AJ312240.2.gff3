@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AJ312240.2 1 37618
+##description Bacteriophage PSA complete genome
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=171618
+AJ312240.2	Rfam	regulatory_region	36471	36614	34.80	+	.	ID=RF01486.1;Name=RF01486;Alias=rli62;Note=AJ312240.2/36471-36614

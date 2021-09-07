@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region AY593806.1 1 8183
+##description Foot-and-mouth disease virus C3 isolate c3ind iso19, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=46290
+AY593806.1	Rfam	regulatory_region	631	1092	543.58	+	.	ID=RF00210.1;Name=RF00210;Alias=IRES_Aptho;Note=AY593806.1/631-1092

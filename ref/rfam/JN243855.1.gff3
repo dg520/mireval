@@ -1,0 +1,6 @@
+##gff-version 3
+##Rfam 11.0 2012-07-19
+##sequence-region JN243855.1 1 62991
+##description Mycobacterium phage Larva, complete genome.
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1056831
+JN243855.1	Rfam	ncRNA	588	660	66.49	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=JN243855.1/588-660
